@@ -1,0 +1,22 @@
+{
+  "id": "20260903-google-ai-blog-006",
+  "title": "Proactive cyber defense for governments and enterprises",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+  "summary": "Fairwind 是谷歌推出的一个有限访问计划，旨在为各国政府和受信任的合作伙伴提供先进的网络防御工具。该计划利用谷歌在威胁情报、机器学习和人工智能方面的能力，帮助政府和关键基础设施组织主动识别、预防和应对网络威胁。Fairwind 提供对谷歌威胁情报、安全运营和网络防御解决方案的访问，包括 Mandiant 的专业知识、Chronicle 的安全分析以及 Google Cloud 的安全产品。该计划强调主动防御，通过共享威胁情报和最佳实践，增强参与者的网络弹性。适合需要高级网络防御能力的政府机构、关键基础设施运营商和大型企业。",
+  "abstract": "谷歌 Fairwind 计划为政府和合作伙伴提供先进的网络防御工具，利用 AI 和威胁情报实现主动防护。",
+  "tags": [
+    "网络安全",
+    "威胁情报",
+    "AI防御",
+    "政府合作",
+    "Fairwind"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "<name>Four Flynn</name><title>Vice President - Security and Privacy</title><department/><company/>",
+  "published_at": "2026-09-02T15:40:00+00:00",
+  "fetched_at": "2026-09-03T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20260923-theverge-ai-004",
+  "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+  "summary": "Rabbit 公司（曾推出 R1 设备）发布了一款独立的 AI 代理，无需其硬件即可使用。该代理名为 OS3，被描述为“代理操作系统”，运行在云端但可在 Windows、Mac 和 Linux 设备上本地操作。用户无需购买 Rabbit 的硬件即可体验其 AI 代理功能。这一举措旨在扩大其 AI 代理的适用范围，解决此前 R1 设备市场表现不佳的问题。核心特性包括跨平台兼容性、云端运行与本地操作结合。适合对 AI 代理感兴趣、希望尝试无需专用硬件的用户。",
+  "abstract": "Rabbit 推出无需 R1 硬件的独立 AI 代理 OS3，可在 Windows、Mac 和 Linux 上本地操作，云端运行。",
+  "tags": [
+    "AI代理",
+    "跨平台",
+    "Rabbit",
+    "OS3",
+    "云端"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-09-22T16:52:40-04:00",
+  "fetched_at": "2026-09-23T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

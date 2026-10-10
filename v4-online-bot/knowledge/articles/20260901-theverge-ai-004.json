@@ -1,0 +1,22 @@
+{
+  "id": "20260901-theverge-ai-004",
+  "title": "ChatGPT to face tougher regulation in the EU",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+  "summary": "OpenAI的ChatGPT在欧盟将面临更严格的监管，因其被欧盟《数字服务法》（DSA）认定为“超大型在线搜索引擎”。这意味着OpenAI必须采取措施，减轻ChatGPT对未成年人、用户心理健康以及非法内容传播的潜在风险。该法规要求大型平台承担更多责任，包括风险评估、内容审核和透明度报告。此举反映了欧盟对AI技术监管的加强，旨在平衡创新与用户保护。对于AI开发者、政策制定者以及关注AI伦理的用户，这一变化具有重要意义，可能影响全球AI监管趋势。",
+  "abstract": "欧盟将ChatGPT视为超大型在线搜索引擎，依据《数字服务法》对其加强监管，要求OpenAI应对未成年人保护、心理健康和非法内容风险。",
+  "tags": [
+    "ChatGPT",
+    "欧盟监管",
+    "数字服务法",
+    "AI伦理",
+    "OpenAI"
+  ],
+  "category": "other",
+  "language": "zh",
+  "author": "Emma Roth",
+  "published_at": "2026-08-31T09:27:36-04:00",
+  "fetched_at": "2026-09-01T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

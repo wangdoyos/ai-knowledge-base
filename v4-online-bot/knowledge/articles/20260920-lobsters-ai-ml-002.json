@@ -1,0 +1,22 @@
+{
+  "id": "20260920-lobsters-ai-ml-002",
+  "title": "Laya — 33ms Multilingual System 1 Decision Engine",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://laya.convaiinnovations.com/",
+  "summary": "Laya 是一个面向多语言场景的 System 1 决策引擎，官方宣称响应延迟低至 33 毫秒。它针对传统大语言模型在实时交互中推理慢、成本高的问题，采用“快思考”式决策机制，在无需完整生成文本的情况下快速给出意图判断、路由选择或动作决策，从而支撑高并发、低延迟的对话式 AI 应用。核心特性包括多语言支持、毫秒级响应、轻量级决策推理，以及可作为 Agent 或对话系统的前置决策层。该项目适合构建实时客服、语音助手、游戏 NPC、智能路由等对响应速度要求极高的 AI 产品团队，也适合研究 System 1/System 2 混合架构的开发者参考。",
+  "abstract": "Laya 是一个 33 毫秒级多语言 System 1 决策引擎，为实时 AI 交互提供快速意图判断与动作决策，适合高并发低延迟场景。",
+  "tags": [
+    "决策引擎",
+    "低延迟",
+    "多语言",
+    "System 1",
+    "实时交互"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "laya.convaiinnovations.com via elbart",
+  "published_at": "2026-09-19T11:31:05-05:00",
+  "fetched_at": "2026-09-20T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

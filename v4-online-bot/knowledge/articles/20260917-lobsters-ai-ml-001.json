@@ -1,0 +1,22 @@
+{
+  "id": "20260917-lobsters-ai-ml-001",
+  "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://maggieappleton.com/planning-agents",
+  "summary": "本文是 Maggie Appleton 关于 AI 智能体（Agents）规划与协作的深度思考文章。文章提出「Divided Worlds」「Boundary Objects」「Thicker Interfaces」三个核心概念，探讨人类与智能体如何在各自独立的世界中通过边界对象（如共享文档、任务列表、代码仓库）进行有效协作，并主张构建更厚实、更丰富的交互界面，而非简单的聊天框。文章适合 AI 产品设计师、智能体开发者、人机交互研究者以及对 AI 协作模式感兴趣的技术人员阅读，为设计更自然、更高效的智能体协作系统提供了理论框架和实践方向。",
+  "abstract": "探讨人类与 AI 智能体如何通过边界对象和厚实界面进行有效协作，为智能体产品设计提供新视角。",
+  "tags": [
+    "智能体",
+    "人机协作",
+    "交互设计",
+    "边界对象",
+    "规划"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "maggieappleton.com via yashgarg",
+  "published_at": "2026-09-15T01:17:27-05:00",
+  "fetched_at": "2026-09-17T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

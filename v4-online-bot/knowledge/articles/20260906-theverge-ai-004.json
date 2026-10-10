@@ -1,0 +1,22 @@
+{
+  "id": "20260906-theverge-ai-004",
+  "title": "Roland is getting into generative AI music with Melody Flip",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+  "summary": "Roland，作为音乐设备领域的知名品牌，正式进军生成式AI音乐领域，推出了名为Melody Flip的新工具。该工具并非像Suno那样一键生成完整歌曲，而是作为数字音频工作站（DAW）的插件，提供约250种“Palettes”（调色板），这些是基于流派分类的主题音乐创意集合。用户可以从这些Palettes中选择素材，在DAW中进一步编辑和创作，从而辅助音乐制作过程。Melody Flip旨在为音乐制作人提供灵感生成和创作辅助，而非完全替代人类创作。它适合希望探索AI辅助创作的音乐制作人、作曲家和声音设计师，尤其适合那些希望在保持创作控制权的同时获得新创意的用户。该工具标志着Roland在AI音乐领域的初步尝试，结合了其音乐技术专长与生成式AI的潜力。",
+  "abstract": "Roland推出Melody Flip，一款DAW插件，提供约250种基于流派的音乐创意Palettes，辅助音乐制作人进行生成式AI音乐创作，而非一键生成完整歌曲。",
+  "tags": [
+    "AI音乐",
+    "Roland",
+    "DAW插件",
+    "生成式AI",
+    "音乐制作"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "Terrence O’Brien",
+  "published_at": "2026-09-04T13:51:35-04:00",
+  "fetched_at": "2026-09-06T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

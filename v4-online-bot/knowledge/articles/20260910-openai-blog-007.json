@@ -1,0 +1,21 @@
+{
+  "id": "20260910-openai-blog-007",
+  "title": "The AI policy window is open. We need to act.",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/ai-policy-window",
+  "summary": "OpenAI 总裁 Chris Lehane 发表了一篇政策文章，指出当前是制定 AI 政策的关键窗口期。文章强调，随着 AI 能力的增强，需要更强的安全证据、共同的标准和持久的政策行动。Lehane 呼吁政府、行业和民间社会合作，建立清晰的监管框架，以确保 AI 的发展安全、可控，并惠及全人类。文章还提到，OpenAI 愿意与政策制定者合作，推动负责任的 AI 治理。",
+  "abstract": "OpenAI 总裁 Chris Lehane 发文呼吁抓住 AI 政策窗口期，加强安全证据、共同标准和持久政策行动，以确保 AI 安全发展。",
+  "tags": [
+    "AI政策",
+    "AI安全",
+    "OpenAI",
+    "监管",
+    "治理"
+  ],
+  "category": "other",
+  "language": "en",
+  "published_at": "2026-09-09T13:00:00+00:00",
+  "fetched_at": "2026-09-10T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

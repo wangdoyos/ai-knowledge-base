@@ -1,0 +1,21 @@
+{
+  "id": "20260831-theverge-ai-005",
+  "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+  "summary": "该仓库报道了索尼音乐出版公司和华纳查普尔音乐公司对Anthropic提起的诉讼。诉讼在美国加州北区地方法院提起，指控Anthropic在未经授权的情况下使用了数万件受版权保护的音乐作品来训练其AI模型。原告要求每件作品最高15万美元的赔偿，以及每次移除版权管理信息的额外2.5万美元赔偿。此案凸显了AI训练数据中版权问题的法律争议，对AI公司和内容创作者具有重要影响。",
+  "abstract": "索尼音乐和华纳查普尔起诉Anthropic，指控其未经授权使用受版权保护的音乐作品训练AI，要求巨额赔偿。此案凸显AI训练数据的版权争议。",
+  "tags": [
+    "AI版权",
+    "法律诉讼",
+    "Anthropic",
+    "音乐产业"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "Terrence O’Brien",
+  "published_at": "2026-08-29T14:19:53-04:00",
+  "fetched_at": "2026-08-31T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

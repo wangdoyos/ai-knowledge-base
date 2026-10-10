@@ -1,0 +1,21 @@
+{
+  "id": "20260902-openai-blog-004",
+  "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+  "summary": "OpenAI 宣布 ChatGPT 现已能够连接可信的医疗保健数据源，包括电子健康记录（EHR）和其他行业数据。该功能旨在帮助临床医生安全地访问患者上下文、医学研究等信息，从而提升医疗服务的效率和质量。通过集成 EHR 系统，ChatGPT 可以为医生提供即时的患者信息摘要、辅助临床决策、支持医学研究查询等。该解决方案强调了数据安全与隐私保护，符合医疗行业的合规要求。适用于医疗机构、临床医生、医疗研究人员以及医疗 IT 开发者，帮助他们利用 AI 技术优化工作流程，改善患者护理。",
+  "abstract": "OpenAI 推出 ChatGPT 与医疗保健数据（如 EHR）的连接功能，使临床医生能安全访问患者上下文和医学研究，提升诊疗效率与质量。",
+  "tags": [
+    "ChatGPT",
+    "医疗保健",
+    "EHR",
+    "临床决策",
+    "数据安全"
+  ],
+  "category": "tool",
+  "language": "en",
+  "published_at": "2026-09-01T12:00:00+00:00",
+  "fetched_at": "2026-09-02T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

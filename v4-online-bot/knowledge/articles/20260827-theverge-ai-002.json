@@ -1,0 +1,22 @@
+{
+  "id": "20260827-theverge-ai-002",
+  "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+  "summary": "Google 更新了 Gemini Audio，新增了 Gemini 3.5 Transcribe 功能，能够自动检测专业术语并支持超过 85 种语言的转录。该功能是继 Gemini 3.5 Live Translate 之后推出的，旨在提升音频转录的准确性和实用性。Gemini 3.5 Transcribe 特别擅长处理口语中的停顿词（如“um”和“ah”），自动将其编辑掉，使转录文本更加流畅。此外，它还能识别行业特定的术语，适用于医疗、法律、技术等专业领域。该功能适合记者、学生、研究人员、商务人士等需要频繁转录音频的用户，可大幅提高工作效率。目前，Google 尚未发布 Gemini 3.5 Pro 模型，但 Transcribe 的推出表明 Google 在 AI 音频处理领域的持续投入。",
+  "abstract": "Google 推出 Gemini 3.5 Transcribe，支持 85+ 语言转录，自动去除口语停顿词并识别专业术语，提升音频转文字的效率和准确性。",
+  "tags": [
+    "Gemini",
+    "音频转录",
+    "AI",
+    "语音识别",
+    "Google"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "Jess Weatherbed",
+  "published_at": "2026-08-26T13:00:00-04:00",
+  "fetched_at": "2026-08-27T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

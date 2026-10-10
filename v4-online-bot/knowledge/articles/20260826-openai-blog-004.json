@@ -1,0 +1,21 @@
+{
+  "id": "20260826-openai-blog-004",
+  "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/jalapeno-first-results",
+  "summary": "Jalapeño 是 OpenAI 推出的定制推理芯片，旨在提升 AI 推理的速度和能效。该芯片针对现代模型（如 GPT 系列）进行了优化，提供了更高的吞吐量和更低的延迟，同时显著降低了功耗。Jalapeño 的初步结果显示，其在推理性能上处于行业领先地位，能够支持更大规模的模型部署，并降低运营成本。该芯片适用于需要高性能推理的云服务提供商、企业级 AI 应用以及研究机构，尤其适合对实时性和能效要求高的场景。OpenAI 计划将 Jalapeño 集成到其基础设施中，以增强其 AI 服务的竞争力。",
+  "abstract": "OpenAI 发布定制推理芯片 Jalapeño，实现行业领先的推理速度和能效，提升吞吐量并降低延迟，适用于高性能 AI 推理场景。",
+  "tags": [
+    "AI推理",
+    "芯片",
+    "OpenAI",
+    "性能优化",
+    "能效"
+  ],
+  "category": "tool",
+  "language": "en",
+  "published_at": "2026-08-25T07:00:00+00:00",
+  "fetched_at": "2026-08-26T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

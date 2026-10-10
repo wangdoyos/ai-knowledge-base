@@ -1,0 +1,22 @@
+{
+  "id": "20260819-lobsters-ai-ml-010",
+  "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+  "summary": "这篇文章报道了一个关于稀有书籍运输的调查，最终发现这些书籍被送往亚马逊的AI训练设施。文章揭示了亚马逊如何通过收集稀有书籍来训练其AI模型，可能涉及版权和数据来源的伦理问题。作者Simon Willison通过追踪物流信息，展示了AI训练数据获取的隐秘过程，并引发了对AI训练数据合法性和透明度的讨论。文章适合对AI伦理、数据来源和版权问题感兴趣的读者，尤其是技术从业者和政策制定者。",
+  "abstract": "追踪稀有书籍运输，发现其最终流向亚马逊AI训练设施，引发对AI训练数据来源和伦理的讨论。",
+  "tags": [
+    "AI训练",
+    "数据来源",
+    "版权",
+    "亚马逊",
+    "伦理"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "simonwillison.net via alcides",
+  "published_at": "2026-08-17T12:54:19-05:00",
+  "fetched_at": "2026-08-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

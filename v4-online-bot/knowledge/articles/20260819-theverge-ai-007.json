@@ -1,0 +1,22 @@
+{
+  "id": "20260819-theverge-ai-007",
+  "title": "Firefox’s Smart Window promises a better AI browser",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+  "summary": "Mozilla Firefox 推出了名为 Smart Window 的 AI 浏览模式，通过与 Exa 合作，AI 聊天能够获取当前网页信息并在回复中显示来源链接。该模式还支持自动建议标签组，并在用户使用自然语言搜索浏览历史时显示之前访问页面的视觉预览。Smart Window 旨在提升浏览效率，通过 AI 辅助用户管理标签、搜索历史和理解网页内容。它适合希望更智能、更高效浏览体验的用户，尤其是那些经常处理大量标签页和需要快速检索信息的用户。该功能体现了浏览器与 AI 的深度融合，是 AI 驱动浏览器发展的一个案例。",
+  "abstract": "Firefox 的 Smart Window 通过 AI 增强浏览体验，支持实时网页信息引用、来源链接、自动标签组建议和自然语言历史搜索预览，提升效率与信息获取能力。",
+  "tags": [
+    "Firefox",
+    "AI浏览器",
+    "Smart Window",
+    "Exa",
+    "浏览效率"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "Stevie Bonifield",
+  "published_at": "2026-08-18T09:00:00-04:00",
+  "fetched_at": "2026-08-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

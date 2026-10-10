@@ -1,0 +1,22 @@
+{
+  "id": "20260823-lobsters-ai-ml-001",
+  "title": "Robot comment classifier",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://entropicthoughts.com/ai-comment-classifier",
+  "summary": "该项目是一个机器人评论分类器，旨在通过机器学习技术自动识别和分类网络评论中的机器人（bot）或AI生成的内容。项目基于逻辑回归（Logistic Regression）和支持向量机（SVM）模型，利用大型语言模型（LLM）生成的输出作为训练数据，从而实现对评论的自动分类。该分类器能够有效区分人类评论和AI生成的评论，适用于社交媒体平台、论坛、新闻评论区等场景，帮助平台管理员过滤垃圾信息、维护社区秩序。项目提供了完整的训练流程和模型评估方法，适合对机器学习、自然语言处理感兴趣的开发者、数据科学家以及需要内容审核解决方案的团队使用。通过该项目，用户可以学习如何利用传统机器学习模型处理文本分类任务，并了解如何结合LLM生成数据来增强模型性能。",
+  "abstract": "该项目是一个基于逻辑回归和SVM的机器人评论分类器，利用LLM输出作为训练数据，自动识别AI生成的评论，适用于内容审核和社区管理。",
+  "tags": [
+    "评论分类",
+    "机器学习",
+    "逻辑回归",
+    "SVM",
+    "LLM"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "entropicthoughts.com by kqr",
+  "published_at": "2026-08-22T05:18:39-05:00",
+  "fetched_at": "2026-08-23T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

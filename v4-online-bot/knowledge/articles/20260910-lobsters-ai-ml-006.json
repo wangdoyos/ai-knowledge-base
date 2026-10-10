@@ -1,0 +1,22 @@
+{
+  "id": "20260910-lobsters-ai-ml-006",
+  "title": "Better AI code comment detector",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://entropicthoughts.com/better-ai-comment-classifier",
+  "summary": "Better AI code comment detector 是一个用于检测 AI 生成代码注释的分类器项目。该项目基于逻辑回归模型，训练数据来自 LLM 生成的注释和人工编写的注释，旨在帮助开发者识别代码中由 AI 生成的注释，以便进行审查或管理。项目解决了 AI 生成代码注释可能带来的误导或质量问题，提供了自动化的检测工具。核心特性包括使用逻辑回归进行高效分类，训练数据来自真实 LLM 输出，并提供了分类器的实现和评估。适合需要管理 AI 辅助开发代码的团队、研究 AI 生成代码特征的开发者，以及希望提高代码审查效率的个人。",
+  "abstract": "Better AI code comment detector 是一个基于逻辑回归的 AI 生成代码注释检测器，通过训练区分 LLM 和人工注释，帮助开发者识别 AI 生成的注释，提升代码审查效率。",
+  "tags": [
+    "AI检测",
+    "代码注释",
+    "逻辑回归",
+    "LLM",
+    "分类器"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "entropicthoughts.com by kqr",
+  "published_at": "2026-09-09T13:27:24-05:00",
+  "fetched_at": "2026-09-10T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

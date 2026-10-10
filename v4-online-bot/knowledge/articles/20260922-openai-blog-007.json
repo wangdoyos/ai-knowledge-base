@@ -1,0 +1,21 @@
+{
+  "id": "20260922-openai-blog-007",
+  "title": "Building standards for the next phase of AI",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/building-standards-next-phase-ai",
+  "summary": "这是 OpenAI 发布的一篇公司博客，主题是为人工智能的下一阶段构建全球标准。文章指出，随着 AI 能力快速提升，现有零散的评估与治理方式已不足以应对系统性风险，因此呼吁建立共享的全球 AI 标准。核心内容包括：推动协调一致的模型评估方法、建立透明的报告机制、以及跨国界的治理框架，以提升 AI 安全性。文章强调标准应覆盖能力评估、风险披露、部署后监测等环节，并倡导政府、企业、研究机构多方协作。该博客适合 AI 政策制定者、安全研究者、企业合规与治理团队，以及关注 AI 监管趋势的技术从业者阅读，帮助他们理解 OpenAI 对全球 AI 标准化的立场与路线图。",
+  "abstract": "OpenAI 发布博客，呼吁为 AI 下一阶段建立全球共享标准，通过协调评估、透明报告与协同治理来提升安全性，适合政策与安全从业者参考。",
+  "tags": [
+    "AI治理",
+    "AI安全",
+    "全球标准",
+    "政策",
+    "OpenAI"
+  ],
+  "category": "other",
+  "language": "en",
+  "published_at": "2026-09-21T10:00:00+00:00",
+  "fetched_at": "2026-09-22T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

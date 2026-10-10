@@ -1,0 +1,22 @@
+{
+  "id": "20260923-google-ai-blog-006",
+  "title": "Co-creating the future of fashion with Google",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+  "summary": "这是 Google 官方博客发布的一篇案例文章，介绍 Google 如何与知名时装设计师 Jane Wade 和 Sergio Hudson 合作，为纽约时装周（NYFW）的筹备工作定制开发 Google Flow 工具。Google Flow 是 Google 在生成式 AI 领域推出的创作工具，文章展示了 AI 技术如何被深度整合进时尚设计流程，帮助设计师在创意构思、视觉呈现、素材生成等环节提升效率。该项目体现了 Google 将 AI 从通用能力向垂直行业场景落地的策略，通过真实设计师的协作反馈来打磨产品。文章适合关注 AI 创意工具、生成式 AI 行业应用、时尚科技交叉领域的产品经理、设计师、AI 研究者以及对 Google AI 生态感兴趣的读者阅读。其核心价值在于提供了一个 AI 与传统创意行业协作的实践样本，展示了定制化 AI 工具如何服务于专业创作流程，而非仅仅停留在通用聊天或图像生成层面。",
+  "abstract": "Google 与设计师 Jane Wade、Sergio Hudson 合作，为纽约时装周定制 Google Flow 创作工具，展示生成式 AI 在时尚设计流程中的实际落地。",
+  "tags": [
+    "Google Flow",
+    "生成式AI",
+    "时尚科技",
+    "AI创作工具",
+    "行业应用"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "<name>Yeawon Choi</name><title>UX Designer</title><department>Envisioning Studio</department><company/>",
+  "published_at": "2026-09-18T13:00:00+00:00",
+  "fetched_at": "2026-09-23T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

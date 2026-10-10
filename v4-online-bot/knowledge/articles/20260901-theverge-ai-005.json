@@ -1,0 +1,22 @@
+{
+  "id": "20260901-theverge-ai-005",
+  "title": "Instagram cracks down on AI accounts pretending to be human",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+  "summary": "Instagram 正在采取措施应对日益增多的假冒人类 AI 账号，这些账号通常以 AI 生成的人物形象出现，难以辨别。Instagram 将把“AI creator”标签更名为“AI-generated profile”，以更明确地标识此类账号并非真实人类。此举旨在提高透明度，减少用户被误导的可能性。该平台还计划加强检测和移除违反规则的 AI 账号。此变化反映了社交媒体平台在 AI 内容管理上的新趋势，对普通用户、内容创作者和 AI 技术开发者均有影响。",
+  "abstract": "Instagram 将 AI 账号标签改为“AI-generated profile”，以更清晰地区分 AI 生成内容，减少误导，提升平台透明度。",
+  "tags": [
+    "Instagram",
+    "AI账号",
+    "内容审核",
+    "透明度",
+    "社交媒体"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "Thomas Ricker",
+  "published_at": "2026-08-31T09:00:00-04:00",
+  "fetched_at": "2026-09-01T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

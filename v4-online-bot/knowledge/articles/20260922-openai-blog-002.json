@@ -1,0 +1,21 @@
+{
+  "id": "20260922-openai-blog-002",
+  "title": "How V7 gives AI agents institutional memory",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/v7",
+  "summary": "V7 是一家利用 GPT-5.6 构建 AI 代理记忆系统的公司，其核心目标是为 AI 代理提供“机构记忆”（institutional memory）。传统上，企业内部的文档、邮件、聊天记录等知识分散在不同系统中，AI 代理难以有效利用这些信息来完成复杂任务。V7 通过将散落的公司文件转化为结构化、可追溯的上下文，使 AI 代理能够基于这些信息执行需要多步骤推理和来源链接的工作。该方案解决了 AI 代理在企业环境中缺乏长期记忆和上下文理解的问题，核心特性包括：自动提取和索引企业知识、生成可引用的来源链接、支持复杂工作流的自动化。适合需要部署 AI 代理来处理知识密集型任务的企业团队，尤其是那些希望代理能够引用内部文档并保持透明度的场景。",
+  "abstract": "V7 利用 GPT-5.6 将企业散落文件转化为 AI 代理可用的机构记忆，使代理能完成复杂且可溯源的工作。",
+  "tags": [
+    "AI代理",
+    "机构记忆",
+    "企业知识管理",
+    "GPT-5.6",
+    "上下文工程"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-21T00:00:00+00:00",
+  "fetched_at": "2026-09-22T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

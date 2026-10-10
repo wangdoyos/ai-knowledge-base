@@ -1,0 +1,22 @@
+{
+  "id": "20261010-lobsters-ai-ml-002",
+  "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://tracel.ai/blog/release-0.22.0/",
+  "summary": "Burn 0.22.0 是一个用 Rust 编写的深度学习框架的新版本发布，专注于提升构建速度、扩展性和自动调优能力。该版本通过优化编译流程显著减少了构建时间，使开发者能够更快地迭代模型。同时，它引入了更简单的扩展机制，允许用户轻松添加自定义操作、层或后端。智能自动调优功能可以自动选择最佳内核配置，提升运行时性能。Burn 适合需要高性能、跨平台部署的机器学习工程师和研究人员，尤其是那些希望利用 Rust 的安全性和效率来构建生产级 AI 应用的开发者。该版本进一步巩固了 Burn 作为 Rust 生态中领先深度学习框架的地位。",
+  "abstract": "Burn 0.22.0 发布，带来更快的构建速度、更简单的扩展方式和智能自动调优，提升 Rust 深度学习开发体验。",
+  "tags": [
+    "Rust",
+    "深度学习框架",
+    "自动调优",
+    "构建优化",
+    "扩展性"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "tracel.ai via nrposner",
+  "published_at": "2026-10-06T18:57:25-05:00",
+  "fetched_at": "2026-10-10T15:13:57+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

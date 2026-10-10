@@ -1,0 +1,22 @@
+{
+  "id": "20260912-theverge-ai-002",
+  "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+  "summary": "该内容是一篇来自 The Verge 的新闻报道，讲述新墨西哥州最高法院对律师 Stephen Aarons 处以 5000 美元罚款并裁定其藐视法庭的事件。Aarons 在为其当事人谋杀定罪进行上诉时，提交了由 AI（ChatGPT）生成的虚构证人和虚假警方证词，且未对事实主张和法律依据进行核实。法院指出，这些 AI 幻觉内容被直接写入法律文件，严重违反了律师的尽职义务。该事件是 AI 幻觉在法律领域造成实际危害的典型案例，凸显了生成式 AI 在专业场景中未经人工验证即使用的风险。报道适合法律从业者、AI 伦理研究者、合规与风险管理人士，以及关注 AI 落地风险的普通读者阅读。核心价值在于警示：AI 输出必须经过严格事实核查，尤其在法律、医疗等高风险领域，否则可能引发职业处罚和司法信任危机。",
+  "abstract": "新墨西哥州律师因在上诉文件中使用 ChatGPT 生成的虚构证人和假警方证词，被法院罚款 5000 美元并判藐视法庭。该案例警示 AI 幻觉在法律等高风险领域的严重风险，强调人工核实不可省略。",
+  "tags": [
+    "AI幻觉",
+    "法律科技",
+    "生成式AI风险",
+    "事实核查",
+    "司法案例"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-09-11T16:44:02-04:00",
+  "fetched_at": "2026-09-12T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

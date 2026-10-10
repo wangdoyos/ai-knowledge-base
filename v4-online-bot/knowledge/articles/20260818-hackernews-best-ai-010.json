@@ -1,0 +1,22 @@
+{
+  "id": "20260818-hackernews-best-ai-010",
+  "title": "AI;DR (AI; Didn't Read)",
+  "source": "hackernews-best-ai",
+  "source_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+  "summary": "AI;DR (AI; Didn't Read) 是一个由 Rick Manelius 提出的概念性项目，旨在利用人工智能技术自动生成文章摘要，帮助用户快速获取信息核心，避免阅读冗长全文。该项目源于对信息过载问题的观察，通过 AI 模型分析文章内容，提取关键要点，生成简洁摘要，并可能提供多级摘要（如 TL;DR 版本）。它主要面向需要高效处理大量信息的专业人士、研究人员和普通读者，尤其适合在浏览新闻、学术论文或技术文档时快速筛选内容。项目强调透明性和可控性，用户可自定义摘要长度和详细程度。目前该项目处于概念或早期原型阶段，但已在 Hacker News 上获得广泛讨论（993 分，612 条评论），显示出社区对 AI 辅助阅读工具的强烈兴趣。其核心价值在于节省时间、提升信息获取效率，并可能集成到浏览器扩展或阅读应用中。",
+  "abstract": "AI;DR 是一个利用 AI 自动生成文章摘要的项目，旨在解决信息过载问题，帮助用户快速获取核心内容，提升阅读效率。",
+  "tags": [
+    "AI摘要",
+    "信息过载",
+    "阅读效率",
+    "TL;DR",
+    "内容提取"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "mooreds",
+  "published_at": "2026-08-17T19:47:15+00:00",
+  "fetched_at": "2026-08-18T23:00:16+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

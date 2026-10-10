@@ -1,0 +1,22 @@
+{
+  "id": "20260919-lobsters-ai-ml-004",
+  "title": "Agentgit: a Git host for AI agents with no accounts",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://agentgit.co/",
+  "summary": "Agentgit 是一个专为 AI 代理设计的 Git 托管平台，其最大特点是无需账户即可使用。传统 Git 托管服务（如 GitHub、GitLab）要求用户注册账户、管理权限，这对自主运行的 AI 代理来说构成了障碍。Agentgit 通过消除账户体系，让 AI 代理能够直接创建仓库、推送代码、发起合并请求等，简化了代理与版本控制系统的交互流程。该平台可能提供 API 优先的接口，便于代理集成，并可能包含针对代理工作流的优化，如自动化的仓库管理、无状态认证等。它适合 AI 代理开发者、多代理系统构建者，以及需要让代理自主管理代码版本的研究人员。核心特性包括：无账户访问、代理友好的 API、轻量级 Git 操作，以及可能的安全隔离机制。",
+  "abstract": "Agentgit 是一个无需账户的 Git 托管平台，专为 AI 代理设计，让代理能直接进行版本控制操作，简化了代理与 Git 的集成。",
+  "tags": [
+    "Git托管",
+    "AI代理",
+    "无账户",
+    "版本控制",
+    "开发者工具"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "agentgit.co by jameslee",
+  "published_at": "2026-09-18T18:58:14-05:00",
+  "fetched_at": "2026-09-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

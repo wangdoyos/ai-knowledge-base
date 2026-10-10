@@ -1,0 +1,21 @@
+{
+  "id": "20261010-openai-blog-013",
+  "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/pollo-ai",
+  "summary": "Pollo AI 是 OpenAI 官方博客介绍的一个创意营销工具案例，它借助 GPT-5.6、GPT-6 Astra 以及 GPT-Image-2.5 等先进模型，帮助创作者将大胆的创意想法快速转化为精细图像和电影级视频广告。该项目解决的核心问题是传统广告创意制作流程冗长、成本高昂、需要专业设计与视频团队协作的痛点，通过多模态大模型实现从文本创意到视觉成品的端到端生成。核心特性包括：基于 GPT 系列模型的创意理解与扩展能力、GPT-Image-2.5 驱动的高质量图像生成、以及面向视频广告的自动化编排与渲染能力。适合广告创意人员、市场营销团队、独立内容创作者以及希望快速验证营销概念的中小企业使用。该案例展示了生成式 AI 在营销内容生产领域的实际落地方式，体现了从创意构思到成品交付的完整链路。",
+  "abstract": "Pollo AI 利用 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5，将创意想法自动转化为精细图像与电影级视频广告，为营销内容生产提供端到端生成方案。",
+  "tags": [
+    "多模态生成",
+    "广告创意",
+    "视频生成",
+    "图像生成",
+    "OpenAI"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-08T12:00:00+00:00",
+  "fetched_at": "2026-10-10T15:13:57+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

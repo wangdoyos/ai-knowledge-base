@@ -1,0 +1,21 @@
+{
+  "id": "20260819-openai-blog-014",
+  "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/chatgpt-for-teens",
+  "summary": "OpenAI 推出了专为青少年设计的 ChatGPT 版本，旨在帮助青少年学习、批判性思考并自信地使用 AI。该版本内置了更强的保护措施、健康使用功能以及额外的家长控制。它解决了青少年在使用 AI 时可能面临的安全和隐私问题，同时提供了适合其年龄的学习体验。核心特性包括：更严格的模型行为限制（如拒绝不当内容）、基于年龄的默认设置（如不用于训练模型）、家长控制面板（可管理功能使用）、以及防止过度使用的提醒功能。适合青少年学生、家长和教育工作者使用，以安全地探索 AI 技术。",
+  "abstract": "OpenAI 推出专为青少年设计的 ChatGPT 版本，内置更强的安全保护、健康使用功能和家长控制，帮助青少年安全地学习和使用 AI。",
+  "tags": [
+    "ChatGPT",
+    "青少年",
+    "AI安全",
+    "家长控制",
+    "教育"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "published_at": "2026-08-18T11:00:00+00:00",
+  "fetched_at": "2026-08-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

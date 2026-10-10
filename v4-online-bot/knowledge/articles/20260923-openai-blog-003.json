@@ -1,0 +1,21 @@
+{
+  "id": "20260923-openai-blog-003",
+  "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+  "summary": "本文是 OpenAI 发布的一篇企业案例博客，介绍了 Parallel 公司如何利用 GPT‑6 Astra 模型来加速其 AI 代理的研究与数据合成工作。Parallel 的核心业务是自动化收集和合成劳动力市场数据，此前依赖早期模型时，研究周期长、成本高。通过接入 GPT‑6 Astra，Parallel 的代理在完成相同的研究与合成任务时，时间缩短了一半，成本也降低了一半。这一改进直接提升了 Parallel 产品的响应速度和可扩展性，使其能够更高效地处理大规模、动态变化的就业市场信息。文章强调了新模型在推理效率、指令遵循和长上下文处理方面的提升，使得代理可以自主完成多步骤研究流程，减少人工干预。该案例适合关注 AI 代理落地、LLM 成本优化以及劳动力市场数据智能化的技术决策者、产品经理和开发者阅读，展示了前沿模型在真实商业场景中的降本增效潜力。",
+  "abstract": "OpenAI 案例：Parallel 使用 GPT‑6 Astra 驱动研究代理，将劳动力市场数据的研究与合成时间及成本各减半，展示了新模型在代理工作流中的降本增效能力。",
+  "tags": [
+    "GPT-6 Astra",
+    "AI代理",
+    "成本优化",
+    "劳动力市场数据",
+    "OpenAI案例"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-22T12:00:00+00:00",
+  "fetched_at": "2026-09-23T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

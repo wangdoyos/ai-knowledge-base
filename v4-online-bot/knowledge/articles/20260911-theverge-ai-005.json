@@ -1,0 +1,22 @@
+{
+  "id": "20260911-theverge-ai-005",
+  "title": "Slack can now vibe-code interactive charts and reports inside chats",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+  "summary": "Slack 即将推出名为 Slackforce Surfaces 的新功能，允许用户直接在聊天中通过自然语言描述需求，由 AI 自动生成交互式报告、投票、仪表盘、演示文稿、微网站等工具。该功能利用 AI 从相关对话和已连接的应用（如 Google Drive、Salesforce）中收集信息，并自动构建可交互的界面。这解决了团队在协作中需要快速创建数据驱动型工具但缺乏技术能力的问题，将低代码/无代码能力与 AI 结合，进一步降低创作门槛。核心特性包括：自然语言驱动、跨应用数据集成、实时交互式输出、内嵌于聊天环境。适合产品经理、运营人员、数据分析师以及任何需要在 Slack 中快速构建可视化协作工具的非技术用户。",
+  "abstract": "Slack 推出 Slackforce Surfaces，用户可用自然语言让 AI 在聊天中生成交互式报告、仪表盘等工具，并自动整合 Google Drive、Salesforce 等应用数据。",
+  "tags": [
+    "Slack",
+    "AI 生成",
+    "交互式报告",
+    "低代码",
+    "协作工具"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-09-10T17:25:21-04:00",
+  "fetched_at": "2026-09-11T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20260903-lobsters-ai-ml-002",
+  "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://arxiv.org/abs/2604.25580",
+  "summary": "该论文（arXiv:2604.25580）深入探讨了Perspective API在NLP、CSS和LLM评估中的测量基础设施问题。Perspective API是一个广泛使用的毒性检测工具，但作者通过案例研究揭示了其局限性，包括对边缘群体的偏见、评分不一致性以及缺乏透明度。论文提出了改进测量基础设施的建议，如采用更细粒度的评估指标、引入人类反馈机制、增强模型可解释性，并强调跨学科合作的重要性。该研究对从事内容审核、社会计算和LLM安全评估的研究人员和工程师具有重要参考价值，有助于构建更公平、可靠的评估体系。",
+  "abstract": "该论文批判性分析了Perspective API在NLP、CSS和LLM评估中的不足，并提出改进测量基础设施的建议，强调公平性与透明度，适合内容审核和LLM安全领域的研究者。",
+  "tags": [
+    "Perspective API",
+    "测量基础设施",
+    "LLM评估",
+    "偏见",
+    "内容审核"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "arxiv.org via 355E3B",
+  "published_at": "2026-09-02T06:52:23-05:00",
+  "fetched_at": "2026-09-03T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20260930-openai-blog-002",
+  "title": "Towards safety cases for frontier AI training",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+  "summary": "本文是 OpenAI 发布的一篇公司博客，主题为“迈向前沿 AI 训练的安全案例”。文章提出了针对前沿 AI 训练的安全案例早期指南，旨在系统性地管理训练过程中的安全风险。内容涵盖技术保障措施（如模型行为监控、异常检测）、操作实践（如训练流程规范、人员权限管理）以及错位事件调查（如模型行为偏离预期时的响应机制）。该指南为 AI 安全团队、研究人员和政策制定者提供了框架性参考，帮助他们在开发强大 AI 系统时建立可验证的安全论证。核心价值在于将安全案例方法引入前沿 AI 训练，推动行业形成更严谨的安全实践。适合 AI 安全从业者、大模型研发团队以及对 AI 治理感兴趣的人士阅读。",
+  "abstract": "OpenAI 发布前沿 AI 训练安全案例早期指南，涵盖技术保障、操作实践与错位事件调查，为 AI 安全团队提供框架参考。",
+  "tags": [
+    "AI安全",
+    "前沿AI",
+    "安全案例",
+    "训练安全",
+    "OpenAI"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-09-28T19:00:00+00:00",
+  "fetched_at": "2026-09-30T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20260820-lobsters-ai-ml-008",
+  "title": "Liquid Types as a behavioural sandbox for agents",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+  "summary": "该项目提出了一种新颖的智能体行为沙箱方法，利用液体类型（Liquid Types）作为逻辑护栏，为AI智能体提供形式化的行为约束。液体类型是一种依赖类型，能够通过细化类型（refinement types）表达更精确的谓词约束，从而在编译期或运行期验证智能体的行为是否符合预期。该项目旨在解决智能体在复杂环境中可能出现的不可预测行为，通过类型系统确保智能体的动作在逻辑上安全、合法。核心特性包括：将智能体的行为建模为类型化的状态转换，使用液体类型定义行为的前置条件和后置条件，以及提供形式化的验证机制。适合对AI安全、形式化验证、类型系统感兴趣的开发者、研究人员，以及需要构建高可靠性智能体系统的工程师。",
+  "abstract": "该项目利用液体类型为AI智能体构建行为沙箱，通过类型系统提供逻辑护栏，确保智能体行为的安全性和可预测性，适合对AI安全和形式化验证感兴趣的开发者。",
+  "tags": [
+    "液体类型",
+    "智能体安全",
+    "形式化验证",
+    "类型系统",
+    "行为沙箱"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "wiki.alcidesfonseca.com by alcides",
+  "published_at": "2026-08-19T05:16:54-05:00",
+  "fetched_at": "2026-08-20T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

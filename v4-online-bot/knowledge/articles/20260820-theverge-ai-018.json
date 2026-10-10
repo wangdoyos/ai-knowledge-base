@@ -1,0 +1,22 @@
+{
+  "id": "20260820-theverge-ai-018",
+  "title": "Meta AI is getting a Mac app",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+  "summary": "Meta AI 正在推出专为 Mac 设计的应用程序，该应用集成了其 AI 聊天机器人。用户可以通过共享屏幕窗口，让 AI 根据屏幕内容提供建议、回答问题或生成内容。此外，Meta AI 在 Mac 上还支持跨应用听写功能，提升了用户在不同应用中的输入效率。该应用旨在将 AI 助手无缝集成到 macOS 生态系统中，为用户提供更智能、更便捷的交互体验。适合 Mac 用户、内容创作者、办公人员以及任何希望利用 AI 提高生产力的用户。",
+  "abstract": "Meta AI 推出 Mac 应用，集成 AI 聊天机器人，支持屏幕共享、内容生成和跨应用听写，提升 macOS 用户的生产力。",
+  "tags": [
+    "Meta AI",
+    "Mac 应用",
+    "AI 聊天机器人",
+    "屏幕共享",
+    "听写"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "Emma Roth",
+  "published_at": "2026-08-19T13:00:00-04:00",
+  "fetched_at": "2026-08-20T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20260818-hackernews-best-ai-013",
+  "title": "How to disable or avoid intrusive AI",
+  "source": "hackernews-best-ai",
+  "source_url": "https://www.librarian.net/notoai/",
+  "summary": "这是一个由 librarian.net 发布的文章，标题为“How to disable or avoid intrusive AI”，旨在帮助用户应对日益侵入性的 AI 功能。文章针对当前 AI 技术（如 Copilot、AI 搜索、AI 助手等）在操作系统、浏览器、搜索引擎和各类应用中的强制集成，提供了详细的禁用或规避方法。内容涵盖 Windows、macOS、iOS、Android 等主流平台，以及 Chrome、Edge、Firefox 等浏览器和 Google、Bing 等搜索引擎的设置调整。文章强调用户对 AI 功能的选择权，并提供了逐步操作指南，适合希望减少 AI 干扰、保护隐私或偏好传统界面的用户。该文章在 Hacker News 上引发了广泛讨论，反映了公众对 AI 侵入性的关注。",
+  "abstract": "本文提供了一份实用指南，教用户如何在操作系统、浏览器和搜索引擎中禁用或规避侵入性 AI 功能，以保护隐私和保持传统用户体验。",
+  "tags": [
+    "AI",
+    "隐私",
+    "禁用指南",
+    "用户体验",
+    "技术教程"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "ColinWright",
+  "published_at": "2026-08-17T14:07:56+00:00",
+  "fetched_at": "2026-08-18T23:00:16+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

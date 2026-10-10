@@ -1,0 +1,21 @@
+{
+  "id": "20260917-openai-blog-009",
+  "title": "How workers are unlocking new ways of working",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/unlocking-new-ways-of-working",
+  "summary": "这是 OpenAI 经济研究团队发布的一篇公司博客，基于实际使用数据，分析了工作者如何将 AI 应用于传统角色之外，并识别出哪些新活动逐渐成为他们日常工作中反复出现的部分。文章揭示了 AI 在工作场景中的实际使用模式，超越了简单的自动化，展示了工作者如何利用 AI 进行创造性问题解决、跨领域协作和技能扩展。核心发现包括：AI 不仅用于提高效率，还催生了新的工作方式，如快速原型设计、个性化内容生成和复杂决策支持。该研究适合企业管理者、未来工作研究者、AI 产品设计师以及希望了解 AI 如何重塑工作流程的普通读者。通过真实案例和数据，文章为理解 AI 与人类工作的融合提供了实证基础，并指出了未来工作技能的发展方向。",
+  "abstract": "OpenAI 经济研究揭示工作者如何将 AI 用于传统角色之外，并识别出成为日常工作反复组成部分的新活动，为理解 AI 重塑工作方式提供实证。",
+  "tags": [
+    "AI 与工作",
+    "经济研究",
+    "未来工作",
+    "OpenAI",
+    "工作流程"
+  ],
+  "category": "other",
+  "language": "en",
+  "published_at": "2026-09-16T09:00:00+00:00",
+  "fetched_at": "2026-09-17T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

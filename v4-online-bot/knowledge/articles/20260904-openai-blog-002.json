@@ -1,0 +1,21 @@
+{
+  "id": "20260904-openai-blog-002",
+  "title": "Safety overview: GPT-6 Astra",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/safety-overview-gpt-6-astra",
+  "summary": "OpenAI 发布了 GPT-6 Astra，这是其最强大的广泛部署模型，也是首个在 Preparedness Framework 下达到“关键”网络安全能力级别的模型。该模型在推理、多模态理解和指令遵循方面有显著提升，同时引入了新的安全机制，包括增强的对抗性测试、红队评估和部署后监控。GPT-6 Astra 旨在平衡能力与安全，适用于需要高级 AI 辅助的企业和研究机构，特别是在处理复杂任务和敏感数据时。其安全框架强调预防滥用，确保模型在网络安全等高风险领域的可靠性。",
+  "abstract": "GPT-6 Astra 是 OpenAI 最先进的模型，首次达到关键网络安全能力级别，具备强大的推理和多模态能力，并配备严格的安全评估框架。",
+  "tags": [
+    "GPT-6",
+    "OpenAI",
+    "安全",
+    "网络安全",
+    "大语言模型"
+  ],
+  "category": "llm",
+  "language": "zh",
+  "published_at": "2026-09-03T00:00:00+00:00",
+  "fetched_at": "2026-09-04T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

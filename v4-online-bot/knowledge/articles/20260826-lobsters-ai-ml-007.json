@@ -1,0 +1,22 @@
+{
+  "id": "20260826-lobsters-ai-ml-007",
+  "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://arxiv.org/abs/2408.06602",
+  "summary": "该研究探讨了人们对人工智能（AI）预测个人行为的信念背后的心理因素。研究旨在回答一个核心问题：人们为何会相信AI对自己行为的预测，即使这些预测可能并不准确？通过一系列实验，研究者考察了AI预测的准确性、解释的详细程度、用户的个人特质（如对不确定性的容忍度、技术信任度）以及AI的拟人化程度等因素对信念的影响。研究发现，AI预测的准确性并非唯一决定因素，用户对AI的信任、对预测的期望以及AI解释的合理性都显著影响信念。此外，用户倾向于高估AI的能力，尤其是在预测涉及自我相关行为时。该研究为AI系统设计提供了启示，强调在提供预测时需考虑用户心理，避免过度依赖AI。适合AI研究者、人机交互设计师、心理学研究者以及关注AI伦理的读者。",
+  "abstract": "本研究通过实验探索影响人们相信AI预测个人行为的心理因素，发现准确性并非唯一关键，用户信任、解释合理性和拟人化程度均显著影响信念，为AI设计提供心理学视角。",
+  "tags": [
+    "AI预测",
+    "心理因素",
+    "人机交互",
+    "信任",
+    "行为预测"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "arxiv.org via dilawar",
+  "published_at": "2026-08-25T10:03:24-05:00",
+  "fetched_at": "2026-08-26T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

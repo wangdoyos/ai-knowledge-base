@@ -1,0 +1,22 @@
+{
+  "id": "20260904-lobsters-ai-ml-004",
+  "title": "LLMs and self-referentiality",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://scottaaronson.blog/?p=10046",
+  "summary": "该仓库是Scott Aaronson博客上的一篇文章，题为“LLMs and self-referentiality”，探讨了大型语言模型（LLMs）与自我指涉性之间的关系。文章深入分析了LLMs在处理自我指涉内容时的行为，例如模型如何理解并生成关于自身的描述，以及这种能力对模型的可解释性、安全性和对齐性的影响。Aaronson结合理论计算机科学和人工智能的视角，讨论了自我指涉可能导致的不一致性和潜在风险，并提出了可能的应对策略。文章适合对AI理论、模型行为和安全对齐感兴趣的研究人员、开发者及爱好者阅读，提供了独特的思考角度和深刻的见解。",
+  "abstract": "本文探讨大型语言模型与自我指涉性的交互，分析模型对自身描述的理解与生成，及其对AI安全与可解释性的影响，适合AI研究者和爱好者阅读。",
+  "tags": [
+    "LLM",
+    "自我指涉",
+    "AI安全",
+    "可解释性",
+    "理论计算机科学"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "scottaaronson.blog via carlana",
+  "published_at": "2026-09-03T08:39:13-05:00",
+  "fetched_at": "2026-09-04T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20260924-theverge-ai-005",
+  "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+  "summary": "本文报道了 Meta 对其新推出的 AI 智能体 Muse 进行的一系列功能升级。Muse 智能体现在拥有专属电子邮件地址，能够自主收发邮件以完成用户委托的任务，例如预订、查询或协调事务。此外，Meta 还宣布 Muse 将支持视频聊天功能，用户可以通过视频与智能体进行更自然的交互。这些更新表明 Meta 正在快速迭代其 AI 智能体产品，旨在让 Muse 从简单的聊天机器人演变为能够主动执行任务、多渠道沟通的智能助手。该报道适合关注 AI 智能体发展、Meta AI 产品动态以及人机交互趋势的读者，尤其是产品经理、开发者和科技爱好者。核心价值在于展示了 AI 智能体从被动应答向主动执行和多媒体交互的演进方向。",
+  "abstract": "Meta 为其 AI 智能体 Muse 推出重大更新：赋予专属邮箱以自主执行任务，并新增视频聊天功能，标志着智能体向主动执行与多模态交互演进。",
+  "tags": [
+    "Meta",
+    "AI智能体",
+    "视频聊天",
+    "邮件集成",
+    "产品更新"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Jay Peters",
+  "published_at": "2026-09-23T19:19:42-04:00",
+  "fetched_at": "2026-09-24T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

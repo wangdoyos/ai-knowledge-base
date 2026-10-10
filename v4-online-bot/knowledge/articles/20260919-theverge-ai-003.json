@@ -1,0 +1,22 @@
+{
+  "id": "20260919-theverge-ai-003",
+  "title": "Security researchers used Claude to help them hack into OpenAI",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+  "summary": "这是一篇来自 The Verge 的新闻报道，讲述三名独立安全研究员组成的团队 Hacktron 利用 Anthropic 的 Claude Opus 4.8 和 5 模型，在不到 72 小时内成功入侵了 OpenAI 员工账户。据报道，他们借此访问了 OpenAI 名为 Monorepo 的 GitHub 仓库，该仓库据称包含 OpenAI 的算法机密。该事件凸显了前沿大模型在自动化漏洞挖掘、社工攻击与渗透测试中的强大能力，也引发了关于 AI 安全、模型滥用风险以及企业防御策略的广泛讨论。内容适合关注 AI 安全、红队测试、LLM 能力边界与合规治理的从业者、研究人员及技术决策者阅读，帮助理解大模型被武器化后的现实威胁与防御紧迫性。",
+  "abstract": "安全团队 Hacktron 借助 Claude Opus 4.8/5，在 72 小时内攻破 OpenAI 员工账户并访问其 Monorepo 仓库，暴露大模型被用于攻击的现实风险。",
+  "tags": [
+    "AI安全",
+    "Claude",
+    "OpenAI",
+    "渗透测试",
+    "大模型滥用"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Stevie Bonifield",
+  "published_at": "2026-09-18T11:30:16-04:00",
+  "fetched_at": "2026-09-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.3
+}

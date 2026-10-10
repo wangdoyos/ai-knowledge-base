@@ -1,0 +1,22 @@
+{
+  "id": "20260917-theverge-ai-004",
+  "title": "Google will now let any AI agent run your smart home",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+  "summary": "Google 宣布通过 Model Context Protocol (MCP) 开放其智能家居平台，允许第三方 AI 代理（如 Claude、Open Claw 等）访问和控制用户的联网设备，并分析家庭数据。这一集成名为 Google Home MCP，旨在让 AI 代理能够监控智能家居状态、执行操作（如调节灯光、温度）并基于数据做出决策。该举措解决了智能家居生态封闭、AI 代理难以直接与设备交互的问题，核心特性包括标准化协议、跨平台兼容性以及数据访问权限。适合智能家居用户、AI 开发者以及希望构建自动化场景的技术爱好者。通过 MCP，AI 代理可以更自然地融入日常生活，实现主动式智能家居管理。",
+  "abstract": "Google 通过 MCP 协议开放智能家居，允许第三方 AI 代理控制设备并分析数据，推动智能家居自动化。",
+  "tags": [
+    "智能家居",
+    "MCP",
+    "AI代理",
+    "Google Home",
+    "自动化"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Jennifer Pattison Tuohy",
+  "published_at": "2026-09-16T13:00:00-04:00",
+  "fetched_at": "2026-09-17T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

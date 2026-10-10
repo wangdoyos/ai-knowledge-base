@@ -1,0 +1,21 @@
+{
+  "id": "20260827-openai-blog-003",
+  "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+  "summary": "OpenAI 宣布将其 ChatGPT for Teachers 项目扩展至美国 55 个学区，为超过 10 万名教育工作者和教职员工提供安全的 AI 工具、培训和支持。该项目旨在帮助教师利用 ChatGPT 进行课程规划、个性化教学、行政任务自动化等，从而提升教学效率和质量。通过提供专门针对教育场景优化的功能，如数据隐私保护、内容过滤和教师专用模板，ChatGPT for Teachers 确保 AI 工具在课堂中的安全使用。此次扩展是 OpenAI 与教育机构合作的一部分，旨在推动 AI 在教育领域的普及，并解决教师工作负担过重的问题。适合教育管理者、教师、教育科技从业者以及关注 AI 教育应用的研究人员关注。",
+  "abstract": "OpenAI 将 ChatGPT for Teachers 扩展至美国 55 个学区，为超过 10 万名教育工作者提供安全的 AI 工具和培训，以提升教学效率并减轻教师负担。",
+  "tags": [
+    "ChatGPT",
+    "教育",
+    "AI工具",
+    "教师",
+    "OpenAI"
+  ],
+  "category": "tool",
+  "language": "en",
+  "published_at": "2026-08-26T10:00:00+00:00",
+  "fetched_at": "2026-08-27T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

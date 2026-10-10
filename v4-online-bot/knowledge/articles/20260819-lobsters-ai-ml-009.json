@@ -1,0 +1,22 @@
+{
+  "id": "20260819-lobsters-ai-ml-009",
+  "title": "Retrofitting a build system into a compiler",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+  "summary": "本文是 OCaml 编译器开发团队关于将构建系统改造为编译器内部机制的技术博客。作者 David Allsopp 详细介绍了 OCaml 编译器在构建过程中如何利用 Effects（效果处理器）来管理构建副作用，从而替代传统的 make 或 dune 等外部构建工具。文章从 OCaml 5 引入的 Effects 特性出发，展示了如何将构建系统的核心逻辑（如依赖追踪、增量构建、并行调度）以 effect handler 的形式嵌入编译器本身，使得构建过程更加高效、可组合且易于维护。文中讨论了这种方法的优势，如减少对外部工具的依赖、提高构建速度、增强错误处理能力，并分享了实现中的挑战和解决方案。该文章适合对编译器实现、OCaml 语言特性以及构建系统设计感兴趣的开发者阅读，尤其对函数式编程和系统编程有深入理解的技术人员具有参考价值。",
+  "abstract": "本文探讨了将构建系统直接集成到 OCaml 编译器中，利用 Effects 特性管理构建副作用，实现更高效、可组合的构建流程，适合编译器与构建系统开发者阅读。",
+  "tags": [
+    "OCaml",
+    "编译器",
+    "构建系统",
+    "Effects",
+    "系统编程"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "dra27.uk via tmcgilchrist",
+  "published_at": "2026-08-17T17:42:21-05:00",
+  "fetched_at": "2026-08-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

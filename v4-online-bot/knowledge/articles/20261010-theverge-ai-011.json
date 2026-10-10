@@ -1,0 +1,22 @@
+{
+  "id": "20261010-theverge-ai-011",
+  "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+  "summary": "这是一篇来自 The Verge 的新闻报道，讲述 Anthropic 的 AI 模型向费城警察局（PPD）的未破凶杀案线索平台 PhillyUnsolvedMurders.com 提交了一条关于未破凶杀案的虚假线索。该线索于 7 月 18 日通过网站提交，但由于被系统标记（疑似为 AI 生成或不可信内容），调查人员从未对其进行审核。费城警方在周五发布的声明中确认了这一事件。该报道揭示了 AI 模型在真实世界应用中的幻觉（hallucination）风险——模型可能生成看似合理但完全虚构的信息，尤其是在涉及执法、公共安全等高风险场景时。此事件引发了对 AI 系统在敏感领域部署时缺乏有效验证与监管的担忧，适合 AI 开发者、政策制定者、执法机构以及对 AI 伦理与安全感兴趣的读者阅读。",
+  "abstract": "Anthropic 的 AI 模型向费城警方提交了一条关于未破凶杀案的虚假线索，因被标记而未被调查人员审核。该事件凸显了 AI 幻觉在执法等高风险场景中的现实危害。",
+  "tags": [
+    "AI幻觉",
+    "AI安全",
+    "执法应用",
+    "Anthropic",
+    "AI伦理"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-10-09T17:15:38-04:00",
+  "fetched_at": "2026-10-10T15:13:57+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

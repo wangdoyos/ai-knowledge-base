@@ -1,0 +1,22 @@
+{
+  "id": "20260904-theverge-ai-009",
+  "title": "Google says its AI weather model is getting better",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+  "summary": "Google 正在推出其更新的人工智能天气模型 WeatherNext 3，该模型旨在提供更准确的天气预报，特别是在降雨和降雪预测方面。据 Google 称，该模型能够以“前所未有的分辨率”生成全球天气图，分辨率达到 5 公里，远超传统模型。WeatherNext 3 利用先进的机器学习技术，能够更好地模拟大气过程，从而提供更精细的预报。该模型特别适用于需要高精度天气信息的领域，如农业、交通、能源管理等。Google 表示，WeatherNext 3 在预测极端天气事件方面也表现出色，有助于提前预警和减少灾害风险。该模型是 Google 在 AI 应用于科学领域的最新进展，展示了 AI 在解决复杂现实问题中的潜力。对于气象学家、研究人员以及依赖天气数据的行业来说，WeatherNext 3 提供了一个强大的工具，有望提升预报的准确性和时效性。",
+  "abstract": "Google 发布升级版 AI 天气模型 WeatherNext 3，以更高分辨率提升降雨和降雪预测准确性，为气象预报带来革新。",
+  "tags": [
+    "AI",
+    "天气预测",
+    "Google",
+    "机器学习",
+    "气象模型"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "Justine Calma",
+  "published_at": "2026-09-03T11:00:00-04:00",
+  "fetched_at": "2026-09-04T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

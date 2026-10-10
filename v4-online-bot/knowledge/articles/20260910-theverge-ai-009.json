@@ -1,0 +1,22 @@
+{
+  "id": "20260910-theverge-ai-009",
+  "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+  "summary": "OpenAI 宣布其 AI 系统解决了数学领域著名的千禧年大奖难题之一——纳维-斯托克斯方程，这一成就本应是胜利的时刻，但结果却因非传统的方式而变得复杂。该突破不仅证明了 AI 在数学领域的巨大潜力，也引发了学术界对 AI 研究方法和伦理的担忧。文章探讨了 AI 如何快速改变数学研究，以及这一进展对学术界和社会的深远影响。适合对 AI 应用、数学研究和科技伦理感兴趣的读者。",
+  "abstract": "OpenAI 声称解决了千禧年难题纳维-斯托克斯方程，展示了 AI 在数学领域的突破性能力，但引发学术界的争议和反思。",
+  "tags": [
+    "OpenAI",
+    "数学",
+    "AI突破",
+    "千禧年难题",
+    "学术争议"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "Robert Hart",
+  "published_at": "2026-09-09T17:16:34-04:00",
+  "fetched_at": "2026-09-10T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

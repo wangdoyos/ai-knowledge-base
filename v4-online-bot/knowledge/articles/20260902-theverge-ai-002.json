@@ -1,0 +1,22 @@
+{
+  "id": "20260902-theverge-ai-002",
+  "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+  "summary": "Anthropic 发布了其最新 AI 模型 Claude Fable 5.1 和 Mythos 5.1，旨在解决客户对价格、数据保留和过度安全防护的批评。据称，Fable 5.1 在性能上优于 Fable 5，但价格通常降低约 25%，对于复杂的代理任务（agentic tasks）成本最高可降低 45%。这一降价策略主要得益于定价结构的优化。该模型特别适合需要大规模部署 AI 代理的企业和开发者，能够在降低成本的同时保持高性能。此外，Anthropic 还改进了数据保留政策，并调整了安全机制，以减少对用户请求的过度拦截。该发布反映了 AI 行业在平衡性能、成本与安全方面的趋势，尤其针对代理式 AI 工作负载的优化。",
+  "abstract": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，性能更强，价格降低 25% 至 45%，特别优化代理任务，并改进数据保留和安全机制。",
+  "tags": [
+    "Claude",
+    "Anthropic",
+    "AI模型",
+    "代理任务",
+    "降价"
+  ],
+  "category": "llm",
+  "language": "zh",
+  "author": "Stevie Bonifield",
+  "published_at": "2026-09-01T18:01:36-04:00",
+  "fetched_at": "2026-09-02T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

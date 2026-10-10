@@ -1,0 +1,21 @@
+{
+  "id": "20260831-hackernews-best-ai-003",
+  "title": "No AI Fridays",
+  "source": "hackernews-best-ai",
+  "source_url": "https://noaifridays.com/",
+  "summary": "No AI Fridays 是一个由开发者发起的倡议网站，旨在鼓励开发者在每周五不使用 AI 编程工具（如 GitHub Copilot、ChatGPT 等），回归手动编码，以保持和提升编程基本功。该项目源于对 AI 辅助编程可能导致的技能退化的担忧，通过社区参与和打卡机制，倡导一种平衡使用 AI 的方式。网站提供了参与规则、资源推荐和社区讨论，适合所有依赖 AI 工具但希望保持核心编程能力的开发者。该倡议在 Hacker News 上引发了广泛讨论，反映了开发者社区对 AI 影响的复杂态度。",
+  "abstract": "No AI Fridays 是一个开发者倡议，鼓励每周五不使用 AI 编程工具，以保持编程基本功，平衡 AI 依赖。",
+  "tags": [
+    "AI 编程",
+    "开发者倡议",
+    "编程技能",
+    "No AI Fridays"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "xendo",
+  "published_at": "2026-08-30T12:31:05+00:00",
+  "fetched_at": "2026-08-31T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

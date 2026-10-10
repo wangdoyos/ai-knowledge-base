@@ -1,0 +1,22 @@
+{
+  "id": "20260922-lobsters-ai-ml-006",
+  "title": "ChatGPT now knows what you do on other websites via ad collector",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+  "summary": "本文揭露了 ChatGPT 通过广告收集器获取用户在其他网站上的浏览行为数据，从而让 AI 能够“知道”用户在其他网站的活动。文章指出，这种数据收集机制可能涉及隐私泄露和用户行为追踪，引发了对 AI 助手透明度和数据伦理的担忧。核心问题在于，用户可能并不清楚自己的浏览数据被用于训练或增强 ChatGPT 的个性化响应。文章适合关注 AI 隐私、数据安全以及广告技术交叉领域的读者阅读，提醒人们在使用 AI 服务时注意个人数据的流向。",
+  "abstract": "文章揭示 ChatGPT 通过广告收集器获取用户在其他网站的浏览行为，引发隐私与数据伦理担忧。",
+  "tags": [
+    "隐私",
+    "数据收集",
+    "ChatGPT",
+    "广告追踪",
+    "AI伦理"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "buchodi.com via jrgtt",
+  "published_at": "2026-09-20T12:43:10-05:00",
+  "fetched_at": "2026-09-22T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

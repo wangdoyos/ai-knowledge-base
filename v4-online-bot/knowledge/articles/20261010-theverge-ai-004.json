@@ -1,0 +1,22 @@
+{
+  "id": "20261010-theverge-ai-004",
+  "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+  "summary": "本文报道了 OpenAI 突然发布大量数学成果后，数学界超过三打数学家的反应。他们用“惊人”“压倒性”“前所未有”“超现实”“纯粹疯狂”等词形容这一事件。文章描述了数学家们在惊叹、兴奋之余，对成果规模、正确性和意义的困惑与不确定。核心在于 OpenAI 的 AI 在数学领域展现出超乎预期的能力，可能对数学研究范式产生深远影响，但需要数年时间才能消化和理解。适合关注 AI 前沿、AI for Science、数学与 AI 交叉领域的研究者、从业者和科技爱好者阅读。",
+  "abstract": "OpenAI 突然发布大量数学成果，数学家们用“纯粹疯狂”形容，称需数年才能理解。这标志着 AI 在数学领域的能力跃升，引发学界震动与反思。",
+  "tags": [
+    "OpenAI",
+    "数学",
+    "AI for Science",
+    "大模型",
+    "科研范式"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Robert Hart",
+  "published_at": "2026-10-09T15:09:44-04:00",
+  "fetched_at": "2026-10-10T15:13:57+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

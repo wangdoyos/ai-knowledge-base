@@ -1,0 +1,22 @@
+{
+  "id": "20260828-google-ai-blog-003",
+  "title": "3 new ways to plan and book travel in Search",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+  "summary": "Google 在官方博客中宣布，其搜索产品中的 AI Mode 新增了旅行规划和预订功能。该功能利用生成式 AI 技术，帮助用户更高效地规划旅行，包括预订酒店、追踪机票价格，以及查看航空里程和奖励。用户可以通过自然语言查询获取个性化的旅行建议，并直接在搜索结果中完成预订操作。这一更新旨在简化旅行规划流程，减少用户在多个网站间切换的麻烦。该功能适合经常旅行、希望节省时间和精力的用户，尤其是那些需要比较价格、管理里程和奖励的旅客。Google 通过整合 AI 能力，提升了搜索的实用性和智能化水平，进一步巩固了其在搜索领域的领先地位。",
+  "abstract": "Google 搜索的 AI Mode 新增旅行规划与预订功能，支持酒店预订、机票价格追踪及里程奖励查看，通过自然语言交互简化旅行规划流程。",
+  "tags": [
+    "Google Search",
+    "AI Mode",
+    "旅行规划",
+    "机票追踪",
+    "酒店预订"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "<name>James Byers</name><title>Group Product Manager, Search</title><department/><company/>",
+  "published_at": "2026-08-27T16:00:00+00:00",
+  "fetched_at": "2026-08-28T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

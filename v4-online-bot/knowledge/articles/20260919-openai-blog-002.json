@@ -1,0 +1,21 @@
+{
+  "id": "20260919-openai-blog-002",
+  "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/hex-gpt-6-astra",
+  "summary": "Hex 是一家提供数据分析和可视化平台的公司，其数据代理（data agents）能够帮助用户从复杂数据中获取答案。然而，传统的分析结果往往以文本或简单图表呈现，难以直观展示和分享。通过集成 OpenAI 的 GPT-6 Astra 模型，Hex 的数据代理现在可以将分析答案自动转化为交互式可视化报告。这些报告不仅美观、易于理解，还支持员工进行分享和协作。核心特性包括：自动生成交互式图表、智能选择可视化类型、支持自然语言查询、以及无缝集成到 Hex 的工作流中。该项目适合数据分析师、业务人员以及任何需要快速从数据中获取洞察并生成可分享报告的用户。GPT-6 Astra 的加入显著提升了 Hex 数据代理的可用性和输出质量，使得数据分析结果更加生动和易于传播。",
+  "abstract": "Hex 利用 GPT-6 Astra 将复杂数据分析答案转化为交互式可视化报告，让员工轻松分享和协作。",
+  "tags": [
+    "数据可视化",
+    "GPT-6",
+    "数据分析",
+    "智能代理",
+    "交互式报告"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "fetched_at": "2026-09-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

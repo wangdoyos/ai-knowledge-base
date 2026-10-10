@@ -1,0 +1,21 @@
+{
+  "id": "20260924-openai-blog-002",
+  "title": "Sam Altman’s remarks at the United Nations Security Council",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+  "summary": "这是 OpenAI CEO Sam Altman 在联合国安理会上的发言记录，主要讨论了人工智能安全、人类控制以及国际合作等关键议题。Altman 强调了 AI 技术的快速发展带来的全球性挑战，呼吁各国共同制定安全标准和监管框架，确保 AI 的发展符合人类价值观。他提到 OpenAI 在 AI 安全方面的努力，包括技术研究和政策倡导，并指出国际社会需要合作应对 AI 可能带来的风险，如滥用、偏见和失控。该发言适合政策制定者、AI 研究人员、企业领导者以及对 AI 治理感兴趣的人士阅读，提供了关于 AI 安全与全球治理的前沿观点。",
+  "abstract": "OpenAI CEO Sam Altman 在联合国安理会发言，探讨 AI 安全、人类控制与国际合作，呼吁全球共同监管 AI 发展。",
+  "tags": [
+    "AI安全",
+    "国际合作",
+    "政策",
+    "OpenAI",
+    "治理"
+  ],
+  "category": "other",
+  "language": "en",
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "fetched_at": "2026-09-24T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

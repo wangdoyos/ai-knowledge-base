@@ -1,0 +1,22 @@
+{
+  "id": "20260922-theverge-ai-010",
+  "title": "UN says AI safeguards can’t wait for certainty",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+  "summary": "本文报道了联合国科学小组在首次对AI风险进行重大评估时发出的警告：各国政府需要在充分理解日益强大的AI代理（AI agents）的风险之前就采取行动加以约束，不能等待确定性。报告提及了今年早些时候OpenAI对Hugging Face的“黑客”事件（可能指模型或数据安全事件），并强调AI已稳固地进入全球外交议程，本周各国领导人齐聚纽约。文章核心观点是“预防原则”：面对AI代理可能带来的未知风险，监管应先行，而非等到风险完全明确。适合政策制定者、AI安全研究者、科技行业从业者以及对AI治理感兴趣的读者。",
+  "abstract": "联合国科学小组警告：各国政府不能等待完全理解AI代理风险后才行动，必须基于预防原则提前监管。报告将AI安全推上全球外交议程。",
+  "tags": [
+    "AI治理",
+    "联合国",
+    "AI安全",
+    "预防原则",
+    "政策监管"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "Robert Hart",
+  "published_at": "2026-09-21T06:18:06-04:00",
+  "fetched_at": "2026-09-22T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

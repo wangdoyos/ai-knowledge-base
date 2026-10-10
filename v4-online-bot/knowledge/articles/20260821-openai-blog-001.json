@@ -1,0 +1,21 @@
+{
+  "id": "20260821-openai-blog-001",
+  "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/stampli",
+  "summary": "Stampli 是一家提供应付账款自动化解决方案的公司，其案例展示了如何利用 OpenAI 的 Codex 和 ChatGPT Work 工具将产品发布周期从数周压缩至数天，实现了 68% 的启动时间缩减。该案例详细描述了 Stampli 在面临固定截止日期和设计资源受限的情况下，如何通过 AI 辅助编码和自动化工作流，加速了前端开发、内容生成和测试等环节，从而显著提升团队效率。此案例不仅体现了 AI 在软件开发中的实际应用价值，也为其他企业提供了利用大语言模型优化工作流程的参考。适合对 AI 辅助开发、企业效率提升感兴趣的读者。",
+  "abstract": "Stampli 利用 OpenAI 的 Codex 和 ChatGPT Work 将产品发布周期从数周压缩至数天，启动时间缩减 68%，展示了 AI 在加速软件开发中的巨大潜力。",
+  "tags": [
+    "AI辅助开发",
+    "ChatGPT Work",
+    "Codex",
+    "效率提升",
+    "案例研究"
+  ],
+  "category": "tool",
+  "language": "en",
+  "published_at": "2026-08-20T00:00:00+00:00",
+  "fetched_at": "2026-08-21T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

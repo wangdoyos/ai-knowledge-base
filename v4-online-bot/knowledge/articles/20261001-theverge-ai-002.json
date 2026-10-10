@@ -1,0 +1,22 @@
+{
+  "id": "20261001-theverge-ai-002",
+  "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+  "summary": "Google 正式发布下一代前沿 AI 模型 Gemini 4 Argon，由 Google DeepMind 高级副总裁兼首席 AI 架构师 Koray Kavukcuoglu 宣布。该模型在复杂工作流中展现出前沿性能，覆盖真实世界软件工程、法律与金融等企业知识工作，以及网络安全防御等场景。然而，Google 目前限制访问权限，仅向“可信网络防御者”开放，理由是模型能力过于强大，可能被滥用。这一策略反映了前沿 AI 模型在安全与开放之间的权衡。对于关注 AI 前沿进展、网络安全、企业级 AI 应用以及 AI 治理的开发者、研究人员和企业决策者而言，该消息具有重要参考价值。Gemini 4 Argon 的发布标志着 AI 模型能力进一步提升，同时也引发了关于访问控制、安全风险与行业应用的讨论。",
+  "abstract": "Google 发布 Gemini 4 Argon 前沿模型，在软件工程、企业知识工作和网络安全防御中表现卓越，但仅限“可信网络防御者”访问，凸显能力与安全的平衡。",
+  "tags": [
+    "Gemini 4",
+    "Google",
+    "前沿模型",
+    "网络安全",
+    "访问控制"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Jay Peters",
+  "published_at": "2026-09-30T16:41:41-04:00",
+  "fetched_at": "2026-10-01T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

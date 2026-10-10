@@ -1,0 +1,21 @@
+{
+  "id": "20260827-openai-blog-004",
+  "title": "Learning never stops: How AI makes learning continuous",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/learning-never-stops",
+  "summary": "OpenAI 发布了一份新报告，探讨学生和教育工作者如何利用 ChatGPT 使学习更加持续，将支持延伸到课堂之外。报告基于对用户使用情况的观察和调研，展示了 ChatGPT 在个性化学习、即时答疑、作业辅助、语言学习等方面的应用场景。它强调了 AI 作为学习伙伴的潜力，能够提供随时随地的支持，帮助学习者克服时间、地点和资源限制，促进终身学习。报告还讨论了教育工作者如何将 AI 整合到教学中，以及需要注意的伦理和隐私问题。该报告适合教育工作者、学生、教育科技从业者以及对 AI 教育应用感兴趣的研究人员阅读，旨在启发对 AI 赋能教育的深入思考和实践。",
+  "abstract": "OpenAI 报告揭示学生和教师如何利用 ChatGPT 实现课堂之外的持续学习，展示 AI 作为个性化学习伙伴的潜力，推动终身学习。",
+  "tags": [
+    "AI教育",
+    "ChatGPT",
+    "持续学习",
+    "教育科技",
+    "OpenAI"
+  ],
+  "category": "other",
+  "language": "zh",
+  "published_at": "2026-08-26T10:00:00+00:00",
+  "fetched_at": "2026-08-27T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

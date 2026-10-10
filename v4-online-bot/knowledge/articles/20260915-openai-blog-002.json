@@ -1,0 +1,21 @@
+{
+  "id": "20260915-openai-blog-002",
+  "title": "How Fyxer built an AI executive assistant people trust",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/fyxer",
+  "summary": "Fyxer 是一款基于 OpenAI 模型的 AI 行政助理，旨在帮助用户高效管理邮箱并自动撰写符合个人风格的邮件。它通过微调、记忆机制和真实用户反馈，学习每位用户的写作习惯与偏好，从而在整理收件箱、分类邮件、起草回复时保持一致的个性化语气。该项目解决了职场人士在邮件处理上耗时过多、难以维持专业沟通风格的问题。核心特性包括：智能收件箱整理、个性化邮件草稿生成、持续学习用户反馈以优化输出。适合需要处理大量邮件、希望提升沟通效率并保持个人品牌一致性的商务人士、高管及团队使用。",
+  "abstract": "Fyxer 利用 OpenAI 模型、微调与记忆机制，打造能学习用户语气、自动整理收件箱并起草邮件的 AI 行政助理，让邮件处理更高效、更个性化。",
+  "tags": [
+    "AI助理",
+    "邮件自动化",
+    "个性化写作",
+    "OpenAI",
+    "微调"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-14T12:00:00+00:00",
+  "fetched_at": "2026-09-15T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

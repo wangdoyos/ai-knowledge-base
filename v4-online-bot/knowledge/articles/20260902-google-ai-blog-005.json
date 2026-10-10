@@ -1,0 +1,22 @@
+{
+  "id": "20260902-google-ai-blog-005",
+  "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+  "summary": "Google Pics 是 Google 推出的图像创建与编辑工具，基于最新的 Nano Banana 模型构建，现已集成到 Google Workspace 中。该工具旨在简化用户在文档、幻灯片等办公场景中的图像处理流程，支持通过自然语言生成和编辑图像，无需专业设计技能。Google Pics 的核心优势在于其与 Workspace 的无缝集成，用户可以直接在 Docs、Slides 等应用中调用，提升工作效率。该工具适合需要快速创建或修改图像的办公人员、教育工作者和内容创作者，尤其适合非设计背景的用户。通过 Nano Banana 模型，Google Pics 能够理解复杂的指令，生成高质量、符合上下文的图像，从而降低创作门槛，增强协作体验。",
+  "abstract": "Google Pics 是 Google 推出的图像创建与编辑工具，基于 Nano Banana 模型，集成于 Workspace，支持自然语言生成和编辑图像，适合办公场景快速创作。",
+  "tags": [
+    "图像生成",
+    "图像编辑",
+    "Google Workspace",
+    "Nano Banana",
+    "AI工具"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "<name>Meg Whittenberger</name><title>Google Pics Product Manager</title><department/><company/>",
+  "published_at": "2026-09-01T16:00:00+00:00",
+  "fetched_at": "2026-09-02T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

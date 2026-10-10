@@ -1,0 +1,73 @@
+# RSS 数据源配置（与 v2-automation/pipeline/rss_sources.yaml 同格式）
+#
+# 字段说明：
+#   name     - 数据源名称（唯一标识，用于日志与去重）
+#   url      - RSS/Atom feed 地址
+#   category - 分类：general（综合技术）/ research（AI 研究）/ company-blog（公司博客）/ media（科技媒体）/ zh-community（中文社区）
+#   enabled  - 是否启用采集（量过大或 RSS 可用性未确认的源默认 false）
+
+sources:
+  # ── 综合技术 ──────────────────────────────
+  - name: hackernews-best-ai
+    url: "https://hnrss.org/best?q=AI+OR+LLM+OR+agent+OR+RAG"
+    category: general
+    enabled: true
+
+  - name: lobsters-ai-ml
+    url: "https://lobste.rs/t/ai,ml.rss"
+    category: general
+    enabled: true
+
+  - name: reddit-machinelearning
+    url: "https://www.reddit.com/r/MachineLearning/hot.rss"
+    category: general
+    enabled: true  # Reddit RSS 需自定义 User-Agent，否则可能被限流（429）
+
+  - name: reddit-localllama
+    url: "https://www.reddit.com/r/LocalLLaMA/hot.rss"
+    category: general
+    enabled: true  # Reddit RSS 需自定义 User-Agent，否则可能被限流（429）
+
+  # ── AI 研究 ──────────────────────────────
+  - name: arxiv-cs-ai
+    url: "https://rss.arxiv.org/rss/cs.AI"
+    category: research
+    enabled: false  # 每日数百篇，量过大，按需开启
+
+  # ── 公司博客 ──────────────────────────────
+  - name: openai-blog
+    url: "https://openai.com/blog/rss.xml"
+    category: company-blog
+    enabled: true
+
+  - name: anthropic-research
+    url: "https://www.anthropic.com/rss.xml"
+    category: company-blog
+    enabled: false  # Anthropic 无官方确认的 RSS 端点，启用前需先验证可用性
+
+  - name: huggingface-blog
+    url: "https://huggingface.co/blog/feed.xml"
+    category: company-blog
+    enabled: true
+
+  - name: google-ai-blog
+    url: "https://blog.google/technology/ai/rss/"
+    category: company-blog
+    enabled: true
+
+  # ── 科技媒体 ──────────────────────────────
+  - name: theverge-ai
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    category: media
+    enabled: true
+
+  # ── 中文社区 ──────────────────────────────
+  - name: jiqizhixin
+    url: "https://www.jiqizhixin.com/rss"
+    category: zh-community
+    enabled: false  # 默认关闭，启用前需确认 RSS 可用性
+
+  - name: qbitai
+    url: "https://www.qbitai.com/feed"
+    category: zh-community
+    enabled: false  # 默认关闭，启用前需确认 RSS 可用性

@@ -1,0 +1,21 @@
+{
+  "id": "20260830-theverge-ai-002",
+  "title": "Musicians-turned-detectives are hunting for AI grifters",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+  "summary": "这篇文章报道了音乐家转型为侦探，追踪利用AI生成音乐进行欺诈的行为。随着音频生成工具和平台的日益复杂，互联网上充斥着由AI生成的音乐，这些音乐的旋律和声音是从人类艺术家的作品中算法衍生出来的。虽然有些人立即承认使用了AI，但其他人否认使用该技术。文章探讨了这些音乐家如何通过技术手段识别AI生成的音乐，并揭露那些不诚实的创作者。该项目涉及AI生成内容的检测和版权问题，对于音乐行业、AI伦理和内容创作者具有重要价值。",
+  "abstract": "音乐家们利用技术手段追踪AI生成的音乐，揭露那些否认使用AI的创作者，保护原创艺术家的权益。",
+  "tags": [
+    "AI音乐",
+    "版权保护",
+    "内容检测",
+    "音乐产业"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "Charles Pulliam-Moore",
+  "published_at": "2026-08-29T08:00:00-04:00",
+  "fetched_at": "2026-08-30T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

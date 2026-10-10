@@ -1,0 +1,22 @@
+{
+  "id": "20260819-github-005",
+  "title": "CherryHQ/cherry-studio",
+  "source": "github",
+  "source_url": "https://github.com/CherryHQ/cherry-studio",
+  "summary": "Cherry Studio 是一个面向 AI 生产力场景的桌面客户端，提供智能聊天、自主代理（Agent）和 300+ 预设助手（Assistants）功能。它统一集成了多家前沿大语言模型（LLM），用户可以在一个界面中无缝切换使用不同模型，无需在多个平台间切换。项目旨在提升个人和团队的工作效率，通过对话式交互完成写作、编程、翻译、总结等任务。其核心特性包括：多模型统一接入、丰富的助手模板、支持自定义 Agent 工作流、以及本地数据存储保障隐私。适合需要频繁使用多种 AI 模型的知识工作者、开发者、研究人员以及希望构建个性化 AI 工作流的用户。该项目在 GitHub 上拥有超过 5 万星标，社区活跃，持续迭代，是当前热门的 AI 生产力工具之一。",
+  "abstract": "Cherry Studio 是一款 AI 生产力桌面应用，集成智能聊天、自主代理和 300+ 助手，统一接入前沿 LLM，帮助用户高效完成各类任务。",
+  "tags": [
+    "AI 生产力",
+    "桌面应用",
+    "多模型",
+    "Agent",
+    "助手"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "CherryHQ",
+  "published_at": "2024-05-24T01:56:26+00:00",
+  "fetched_at": "2026-08-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20261010-openai-blog-003",
+  "title": "LegalOn halves Codex costs while maintaining development speed",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/legalon-halves-codex-costs",
+  "summary": "本文是 OpenAI 官方发布的一篇企业案例博客，介绍了法律科技公司 LegalOn 如何通过优化使用策略，将 Codex（OpenAI 的代码生成模型）的每日预估成本削减了 65%，同时保持开发速度不下降。LegalOn 的核心做法包括：将不同能力等级的模型（Astra、Sol、Luna）与具体任务进行匹配，避免用高成本模型处理简单任务；同时制定并执行预算管理策略，对模型调用进行精细化控制。该案例展示了在 AI 辅助软件开发中，成本与效率并非不可兼得，通过合理的模型路由和预算治理，企业可以在不牺牲生产力的前提下显著降低 LLM 使用成本。适合正在使用或计划引入 AI 编程助手的企业技术管理者、工程效能团队以及关注 LLM 成本优化的开发者阅读，为其提供可借鉴的落地经验。",
+  "abstract": "LegalOn 通过将 Codex 模型按任务分级匹配并实施预算管理，在保持开发速度的同时将每日成本降低 65%，为 AI 编程助手的成本优化提供了可复用的实践案例。",
+  "tags": [
+    "成本优化",
+    "Codex",
+    "AI编程",
+    "模型路由",
+    "企业案例"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-08T12:00:00+00:00",
+  "fetched_at": "2026-10-10T15:13:57+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20261010-openai-blog-012",
+  "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/sophos",
+  "summary": "这是一篇 OpenAI 官方发布的客户案例博客，介绍网络安全公司 Sophos 如何借助 OpenAI 的 Daybreak 能力改造其托管检测与响应（MDR）工作流。Sophos 面临的核心问题是安全分析师每天要处理海量告警，人工调查耗时且难以规模化。通过引入 OpenAI 模型，Sophos 将威胁调查时间缩短了 96%，并实现了 52% 的 MDR 案件自动化处理，同时保留人工审核环节以确保判断质量与合规性。该方案的价值在于把大模型用于安全运营中心（SOC）的告警分诊、上下文关联与初步研判，让分析师聚焦高价值事件。适合安全运营团队、MDR 服务商、企业 CISO 以及关注 LLM 在垂直行业落地的技术决策者阅读，可作为 AI 驱动安全自动化的参考案例。",
+  "abstract": "OpenAI 客户案例：Sophos 用 Daybreak 将网络威胁调查时间缩短 96%，自动化 52% 的 MDR 案件，同时保留人工监督。",
+  "tags": [
+    "网络安全",
+    "MDR",
+    "OpenAI",
+    "案例研究",
+    "安全自动化"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-09T07:00:00+00:00",
+  "fetched_at": "2026-10-10T15:13:57+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

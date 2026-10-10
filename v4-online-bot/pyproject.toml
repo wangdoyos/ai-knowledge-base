@@ -1,0 +1,17 @@
+[project]
+name = "v3-multi-agent"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "aiohttp>=3.14.3",
+    "certifi>=2026.7.22",
+    "langgraph>=1.2.11",
+    "pyyaml>=6.0.3",
+    "truststore>=0.10.4",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "python-dotenv>=1.2.2",
+]

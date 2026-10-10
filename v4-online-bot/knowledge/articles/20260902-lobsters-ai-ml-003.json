@@ -1,0 +1,22 @@
+{
+  "id": "20260902-lobsters-ai-ml-003",
+  "title": "44% on ARC-AGI-1 in 67 cents",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://mvakde.github.io/blog/44-on-arc-1/",
+  "summary": "该博客文章介绍了一种以极低成本（67美分）在ARC-AGI-1基准测试上达到44%准确率的方法。ARC-AGI-1是一个旨在评估人工智能系统抽象推理能力的基准测试，要求模型解决从未见过的视觉推理任务。文章详细描述了作者如何通过精心设计的提示词和利用大型语言模型（LLM）的上下文学习能力，在不进行任何微调的情况下，实现了这一具有竞争力的性能。作者强调了成本效益和简单性，展示了LLM在抽象推理任务上的潜力，并讨论了方法的局限性以及未来改进的方向。该文章适合对LLM推理能力、基准测试和低成本AI解决方案感兴趣的研究者和开发者阅读。",
+  "abstract": "该博客展示了一种以极低成本（67美分）在ARC-AGI-1基准上达到44%准确率的方法，通过巧妙利用LLM的上下文学习，无需微调，为低成本AI推理提供了新思路。",
+  "tags": [
+    "LLM",
+    "ARC-AGI",
+    "推理",
+    "低成本",
+    "上下文学习"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "mvakde.github.io via Yogthos",
+  "published_at": "2026-09-01T12:15:18-05:00",
+  "fetched_at": "2026-09-02T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

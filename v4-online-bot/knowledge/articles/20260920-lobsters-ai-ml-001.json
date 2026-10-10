@@ -1,0 +1,22 @@
+{
+  "id": "20260920-lobsters-ai-ml-001",
+  "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://spectrum.ieee.org/llms-for-chip-design",
+  "summary": "本文是 IEEE Spectrum 对 OpenAI 使用自家 LLM 设计 Jalapeño 芯片的报道。OpenAI 将大语言模型引入芯片设计流程，利用 LLM 辅助完成架构探索、RTL 代码生成、验证测试等环节，从而缩短设计周期、降低人力成本。Jalapeño 芯片是 OpenAI 自研的专用芯片，用于优化其 AI 工作负载。文章详细介绍了 LLM 在芯片设计中的具体应用方式、取得的成效以及面临的挑战，展示了 LLM 在硬件设计领域的潜力。适合芯片设计工程师、AI 研究者以及对 LLM 应用感兴趣的技术人员阅读。",
+  "abstract": "OpenAI 利用自家 LLM 设计 Jalapeño 芯片，展示了 LLM 在芯片设计自动化中的潜力，可加速设计流程并降低成本。",
+  "tags": [
+    "LLM",
+    "芯片设计",
+    "OpenAI",
+    "自动化",
+    "硬件"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "spectrum.ieee.org via vaultdmn",
+  "published_at": "2026-09-19T04:52:30-05:00",
+  "fetched_at": "2026-09-20T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

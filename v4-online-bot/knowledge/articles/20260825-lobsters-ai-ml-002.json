@@ -1,0 +1,22 @@
+{
+  "id": "20260825-lobsters-ai-ml-002",
+  "title": "AI Chip Architectures",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://www.jepeake.com/ai-chip-architectures",
+  "summary": "AI Chip Architectures 是一个专注于人工智能芯片架构的技术知识库，由 Jepeake 维护。该仓库系统性地整理了当前主流 AI 芯片的设计原理、架构特点、性能对比以及应用场景，涵盖 GPU、TPU、NPU、FPGA 等多种硬件平台。内容深入浅出，既包括基础概念（如矩阵乘法加速、内存带宽优化），也涉及前沿技术（如存内计算、光互连、Chiplet 设计）。仓库旨在帮助硬件工程师、AI 研究人员和学生理解 AI 计算需求与芯片设计之间的紧密联系，从而更好地进行软硬件协同设计。通过丰富的图表、案例和参考文献，该仓库为读者提供了从入门到进阶的完整学习路径，是了解 AI 芯片领域不可多得的综合性资源。",
+  "abstract": "AI Chip Architectures 是一个系统梳理 AI 芯片设计原理与架构的技术知识库，涵盖 GPU、TPU、NPU 等主流硬件，适合硬件工程师、AI 研究者及学生深入理解 AI 计算与芯片设计的协同。",
+  "tags": [
+    "AI芯片",
+    "硬件架构",
+    "GPU",
+    "TPU",
+    "NPU"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "jepeake.com via sanxiyn",
+  "published_at": "2026-08-23T20:37:10-05:00",
+  "fetched_at": "2026-08-25T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

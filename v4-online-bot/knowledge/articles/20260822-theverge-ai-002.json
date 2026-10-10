@@ -1,0 +1,22 @@
+{
+  "id": "20260822-theverge-ai-002",
+  "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+  "summary": "LinkedIn 于 7 月 30 日宣布推出“看起来像 AI 垃圾内容”按钮，旨在帮助用户标记平台上的低质量 AI 生成内容。据首席产品官 Hari Srinivasan 周四发布的帖子，已有超过一百万人点击了该按钮，该按钮位于帖子右上角的三个点菜单中。此功能是 LinkedIn 应对 AI 生成内容泛滥、维护内容质量的重要举措。它允许用户反馈疑似 AI 生成的低质量帖子，从而帮助平台优化内容推荐算法，减少垃圾信息对用户体验的负面影响。该功能适合 LinkedIn 用户、内容创作者以及关注社交媒体内容治理和 AI 伦理的研究者。通过用户反馈，LinkedIn 可以更精准地识别和过滤低质量内容，提升平台内容的可信度和价值。这一举措也反映了主流社交平台在 AI 时代对内容质量管理的积极探索。",
+  "abstract": "LinkedIn 推出“看起来像 AI 垃圾内容”按钮，已有超百万人使用，用于标记低质量 AI 生成内容，以改善平台内容质量。",
+  "tags": [
+    "LinkedIn",
+    "AI 内容治理",
+    "用户反馈",
+    "内容质量",
+    "社交媒体"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "Jay Peters",
+  "published_at": "2026-08-21T17:25:50-04:00",
+  "fetched_at": "2026-08-22T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20261010-openai-blog-007",
+  "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/oracle",
+  "summary": "这是一篇来自 OpenAI 官方博客的企业案例文章，讲述 Oracle 如何借助 ChatGPT Work 与 Codex 将原本需要数天完成的工作压缩到几分钟。文章覆盖招聘、工程和运营三大场景，核心思路是把专家知识沉淀为快速、可重复的工作流，让非专家也能高效完成原本依赖资深人员的任务。在招聘环节，团队用 ChatGPT 快速生成职位描述、筛选简历和整理面试反馈；在工程环节，Codex 被用于代码生成、审查与迁移等任务，显著缩短开发周期；在运营环节，则通过对话式助手自动化文档处理、数据汇总和跨团队沟通。文章强调的关键价值在于：不是简单替代人力，而是把分散在少数专家脑中的经验转化为可复用的提示词与流程模板，从而提升整体组织效率。该内容适合企业决策者、工程管理者、HR 与运营负责人，以及希望了解大模型在大型企业中真实落地方式的读者参考。",
+  "abstract": "OpenAI 官方博客案例：Oracle 用 ChatGPT Work 与 Codex 把招聘、工程、运营中原本数天的工作压缩到几分钟，核心是把专家知识转化为可重复的工作流。",
+  "tags": [
+    "企业落地",
+    "ChatGPT",
+    "Codex",
+    "工作流自动化",
+    "案例研究"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-08T16:00:00+00:00",
+  "fetched_at": "2026-10-10T15:13:57+08:00",
+  "status": "reviewed",
+  "quality_score": 4.1
+}

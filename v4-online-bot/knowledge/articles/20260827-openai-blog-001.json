@@ -1,0 +1,21 @@
+{
+  "id": "20260827-openai-blog-001",
+  "title": "How loveholidays is making everyone a builder with Codex",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/loveholidays",
+  "summary": "loveholidays是一家在线旅游公司，他们利用OpenAI的Codex工具，将软件开发能力普及到整个公司，使非技术团队成员也能参与产品开发。通过Codex的自然语言编程能力，员工可以将想法快速转化为可运行的产品原型或功能，从而加速创新周期。该案例展示了AI辅助编程如何降低技术门槛，促进跨部门协作，并提升整体生产效率。对于希望利用AI工具赋能团队、加速产品迭代的企业，尤其是旅游、电商等行业，具有参考价值。",
+  "abstract": "loveholidays通过OpenAI Codex让非技术人员也能参与软件开发，将想法快速转化为产品，提升创新效率。",
+  "tags": [
+    "Codex",
+    "AI编程",
+    "低代码",
+    "企业应用",
+    "OpenAI"
+  ],
+  "category": "tool",
+  "language": "en",
+  "published_at": "2026-08-26T00:00:00+00:00",
+  "fetched_at": "2026-08-27T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20260901-lobsters-ai-ml-001",
+  "title": "Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
+  "summary": "本文探讨了一种创新的AI Agent应用方式：利用Fortune 500公司公开发布的文件（如SEC filings、年度报告、产品文档等）作为数据源，通过AI Agent自动解析并执行其中的代码或逻辑，从而在外部实现对大型企业内部流程的模拟或操作。作者展示了如何将非结构化数据转化为可执行的代码，使AI Agent能够理解并利用这些信息进行自动化任务，如数据分析、流程模拟、甚至触发特定操作。文章强调了这种方法的潜在价值，包括提高效率、降低成本，并指出其可能带来的伦理和法律问题。适合对AI Agent、数据挖掘和自动化感兴趣的开发者、研究人员及企业决策者阅读。",
+  "abstract": "本文介绍了一种利用Fortune 500公司公开文件驱动AI Agent执行代码的新方法，展示了如何将非结构化数据转化为可操作指令，实现外部自动化，并讨论了其应用前景与风险。",
+  "tags": [
+    "AI Agent",
+    "数据驱动",
+    "自动化",
+    "Fortune 500",
+    "公开数据"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "medium.com via btp",
+  "published_at": "2026-08-31T11:39:11-05:00",
+  "fetched_at": "2026-09-01T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20260915-openai-blog-004",
+  "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/cognition-devin-testing-with-astra",
+  "summary": "这是 OpenAI 官方发布的一篇公司博客，介绍 Cognition 公司如何利用 GPT‑6 Astra 增强其 AI 软件工程师 Devin 的自我测试能力。Devin 是一款能够自主完成编程任务的 AI Agent，但此前在验证自身代码是否正确方面存在短板。通过集成 GPT‑6 Astra，Devin 可以更可靠地编写和执行测试、验证软件功能是否按预期工作，从而减少人类工程师在代码审查上的负担，提升整体交付效率。该博客属于产品案例分享，展示了 GPT‑6 Astra 在代码生成与测试验证场景中的实际应用价值，适合关注 AI 编程助手、自动化测试、LLM 在软件工程中落地的开发者、技术管理者以及 AI 产品研究人员阅读。内容以英文为主，信息完整度中等，主要面向技术决策者和 AI 工程实践者。",
+  "abstract": "OpenAI 博客介绍 Cognition 如何用 GPT‑6 Astra 提升 Devin 的自我测试能力，让 AI 工程师能验证自己的代码，减少人工审查、加速交付。",
+  "tags": [
+    "AI编程",
+    "自动化测试",
+    "GPT-6",
+    "Devin",
+    "代码审查"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-11T16:00:00+00:00",
+  "fetched_at": "2026-09-15T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

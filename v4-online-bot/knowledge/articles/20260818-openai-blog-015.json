@@ -1,0 +1,21 @@
+{
+  "id": "20260818-openai-blog-015",
+  "title": "The Defender’s Window",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/the-defenders-window",
+  "summary": "The Defender's Window 是 OpenAI 发布的一篇博客文章，探讨了人工智能如何重塑网络安全领域，对攻击者和防御者都产生了深远影响。文章强调了在 AI 时代，安全团队需要采取新的策略来应对日益复杂的威胁。OpenAI 分享了自身在加强防御方面的实践，包括如何利用 AI 技术来检测和响应安全事件，以及如何构建更健壮的安全体系。文章还提供了具体的建议，帮助安全团队在 AI 驱动的威胁环境中保持领先，例如采用 AI 辅助的安全运营、持续监控和快速响应机制。该文章适合网络安全专业人士、AI 研究人员以及企业安全决策者阅读，以了解 AI 在安全领域的最新趋势和最佳实践。",
+  "abstract": "OpenAI 探讨 AI 如何重塑网络安全，分享自身防御实践，并为安全团队提供应对 AI 驱动威胁的策略建议。",
+  "tags": [
+    "网络安全",
+    "AI安全",
+    "OpenAI",
+    "防御策略",
+    "威胁检测"
+  ],
+  "category": "tool",
+  "language": "en",
+  "published_at": "2026-08-17T05:30:00+00:00",
+  "fetched_at": "2026-08-18T23:00:16+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

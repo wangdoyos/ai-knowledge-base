@@ -1,0 +1,21 @@
+{
+  "id": "20260911-openai-blog-003",
+  "title": "Now everyone can put data to work",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/put-data-to-work",
+  "summary": "这是 OpenAI 官方发布的一篇产品博客，介绍 ChatGPT Work 中新增的 Data agent（数据智能体）。该功能旨在让任何人都能“把数据用起来”：用户可以用自然语言连接公司内部数据源，由 AI 自动完成数据探索、洞察发现，并生成可交互的仪表盘，而无需编写 SQL 或依赖专业 BI 工具。核心特性包括：自然语言驱动的数据查询与分析、企业数据源连接、自动生成可视化与交互式仪表盘，以及面向非技术用户的低门槛体验。它解决的是传统数据分析门槛高、业务人员依赖数据团队排期、洞察获取周期长的问题。适合企业内业务人员、运营、市场、产品经理等非技术角色，以及希望快速做数据探索和汇报的分析师与管理者。作为 OpenAI 官方博客，其信息权威性高，但属于产品发布公告，技术实现细节有限。",
+  "abstract": "OpenAI 在 ChatGPT Work 中推出 Data agent，让用户用自然语言连接公司数据、发现洞察并生成交互式仪表盘，把数据分析门槛降到人人可用。",
+  "tags": [
+    "Data Agent",
+    "ChatGPT",
+    "自然语言分析",
+    "数据可视化",
+    "企业数据"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-10T15:00:00+00:00",
+  "fetched_at": "2026-09-11T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.3
+}

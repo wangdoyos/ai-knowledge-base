@@ -1,0 +1,22 @@
+{
+  "id": "20260821-theverge-ai-004",
+  "title": "Slack is launching collaborative vibe-coding channels",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+  "summary": "Slack 推出了名为 Slack Code 的新功能，旨在为团队提供专门的协作式“氛围编码”（vibe-coding）频道。该功能允许团队成员与 AI 代理在同一个频道内共同编码，无需在不同工具和对话之间切换。Slack Code 包含开放的项目特定代码频道，并设有专用用户标签，同时提供代码变更对比和 HTML 输出预览功能，以便在项目发布前进行检查。这一创新旨在简化团队协作流程，提升开发效率，特别适合希望将 AI 辅助编码集成到日常沟通工具中的开发团队。",
+  "abstract": "Slack 推出 Slack Code 功能，为团队提供专门的协作式编码频道，支持与 AI 代理共同编码，并集成代码对比和预览功能，旨在简化开发流程。",
+  "tags": [
+    "Slack",
+    "协作编码",
+    "AI代理",
+    "开发工具",
+    "vibe-coding"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "Jess Weatherbed",
+  "published_at": "2026-08-20T08:00:00-04:00",
+  "fetched_at": "2026-08-21T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20260819-google-ai-blog-006",
+  "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+  "summary": "AMIE（Articulate Medical Intelligence Explorer）是谷歌研究团队开发的一款医疗人工智能系统，旨在通过实时视频咨询提供临床诊断支持。该系统在模拟环境中进行了首次研究，展示了其与患者进行自然、流畅对话的能力，并能根据对话内容提供可能的诊断建议。AMIE 利用大型语言模型（LLM）技术，结合医学知识库，能够理解患者描述的症状，提出相关问题，并给出初步的医疗建议。该系统特别适用于远程医疗场景，可辅助医生进行初步筛查和患者教育，提高医疗服务的可及性和效率。尽管目前仅在模拟环境中测试，但 AMIE 展示了 AI 在医疗领域应用的巨大潜力，未来有望成为临床医生的得力助手，改善患者体验。",
+  "abstract": "谷歌推出医疗 AI 系统 AMIE，在模拟环境中实现实时临床视频咨询，展示 AI 在远程医疗和诊断辅助方面的潜力。",
+  "tags": [
+    "医疗AI",
+    "视频咨询",
+    "大型语言模型",
+    "远程医疗",
+    "AMIE"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "<name>Anil Palepu</name><title>Research Lead</title><department/><company/>",
+  "published_at": "2026-08-11T17:00:00+00:00",
+  "fetched_at": "2026-08-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20260903-openai-blog-004",
+  "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/atv-big-air-tour",
+  "summary": "ATV Big Air Tour 是一家极限运动赛事公司，通过使用 ChatGPT 企业版（ChatGPT Work）将原本需要 3 天的工作缩短至 3 小时，大幅提升了营销、商品化等环节的效率。该公司利用 ChatGPT 将商品照片快速转化为库存网站，仅用 15 分钟即完成。这一案例展示了 ChatGPT 在非技术领域的实际应用价值，尤其适合中小企业、活动策划和电商团队参考，以低门槛实现工作流程自动化。",
+  "abstract": "ATV Big Air Tour 利用 ChatGPT 企业版将 3 天的工作压缩至 3 小时，并快速生成库存网站，展示了 AI 在营销和运营中的高效应用。",
+  "tags": [
+    "ChatGPT",
+    "效率提升",
+    "营销自动化",
+    "库存管理",
+    "企业应用"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "published_at": "2026-09-02T12:00:00+00:00",
+  "fetched_at": "2026-09-03T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

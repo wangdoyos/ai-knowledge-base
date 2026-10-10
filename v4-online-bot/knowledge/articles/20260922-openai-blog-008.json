@@ -1,0 +1,21 @@
+{
+  "id": "20260922-openai-blog-008",
+  "title": "Expanding OpenAI Academy with new learning paths",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+  "summary": "OpenAI Academy 是 OpenAI 推出的官方学习平台，旨在帮助不同背景的用户掌握实用的人工智能技能。本次扩展新增了多条学习路径，覆盖员工、开发者、领导者、教育工作者和学生等五类人群。每条路径都围绕实际应用场景设计，提供从基础概念到高级实践的课程内容，帮助用户构建并展示可验证的 AI 技能。对于企业团队，可以借助这些路径进行内部培训，提升全员 AI 素养；开发者能学习 API 使用、模型微调等进阶内容；教育工作者和学生则能获得教学与学习资源。该平台强调动手实践，通过项目、测验和认证来证明能力。整体而言，OpenAI Academy 降低了 AI 学习门槛，为个人和组织提供了系统化的成长路线，是快速融入 AI 时代的实用指南。",
+  "abstract": "OpenAI Academy 新增多条学习路径，面向员工、开发者、领导者、教育者和学生，提供系统化 AI 技能培训，帮助用户构建并展示实用 AI 能力。",
+  "tags": [
+    "OpenAI",
+    "AI教育",
+    "学习路径",
+    "技能培训",
+    "LLM"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-09-21T07:00:00+00:00",
+  "fetched_at": "2026-09-22T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20261010-google-ai-blog-009",
+  "title": "Introducing Playground: Create and play custom games",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+  "summary": "Playground 是 Google 推出的实验性游戏平台，旨在让用户通过自然语言或简单操作创建、游玩和分享自定义游戏。该平台利用 AI 技术（可能基于大语言模型或生成式 AI）降低游戏创作门槛，用户无需编程即可生成游戏内容。核心特性包括：快速生成游戏、即时游玩、社区分享。它解决了传统游戏开发需要专业知识和工具的问题，让普通用户也能成为创作者。适合游戏爱好者、教育工作者、创意人士以及希望快速原型化游戏想法的开发者。作为实验性项目，它展示了 AI 在互动娱乐领域的应用潜力，可能集成 Google 的 AI 模型如 Gemini。目前处于早期阶段，但代表了 AI 驱动内容创作的趋势。",
+  "abstract": "Google 推出实验性游戏平台 Playground，用户可通过 AI 创建、游玩和分享自定义游戏，降低游戏创作门槛，适合创意人士和游戏爱好者。",
+  "tags": [
+    "游戏平台",
+    "AI生成",
+    "实验性",
+    "Google",
+    "用户创作"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "<name>Maryam Karimzadehgan</name><title>Software Engineer</title><department>AI Innovation + Research</department><company/>",
+  "published_at": "2026-10-07T12:00:00+00:00",
+  "fetched_at": "2026-10-10T15:13:57+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

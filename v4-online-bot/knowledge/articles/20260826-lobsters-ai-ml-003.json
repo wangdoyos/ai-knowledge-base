@@ -1,0 +1,22 @@
+{
+  "id": "20260826-lobsters-ai-ml-003",
+  "title": "A Manifesto for Responsible Agentic Coding",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://www.techwerkers.nl/en/posts/manifesto-responsible-agentic-coding/",
+  "summary": "该仓库是一篇关于负责任智能体编码（Responsible Agentic Coding）的宣言，由 Techwerkers 发布。它针对当前 AI 编程助手（如 Copilot、Cursor 等）在软件开发中日益普及的背景下，提出了一套指导原则，旨在确保 AI 辅助编码的过程是安全、可靠、可审计且符合伦理的。宣言强调人类开发者应保持对代码的最终控制权，AI 生成的代码必须经过严格审查，并确保透明度和可追溯性。它呼吁开发者、团队和组织采用负责任的实践，包括明确 AI 的边界、持续验证、文档化决策，以及建立反馈机制。该宣言适合所有使用 AI 编程工具的开发者、技术团队负责人、AI 工具设计者以及关注 AI 伦理的从业者阅读，以指导他们在实际工作中平衡效率与责任。",
+  "abstract": "一份关于负责任地使用 AI 编程助手的宣言，强调人类控制、代码审查、透明度和伦理实践，旨在指导开发者安全高效地利用 AI 编码工具。",
+  "tags": [
+    "AI编程",
+    "负责任开发",
+    "代码审查",
+    "伦理",
+    "智能体"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "techwerkers.nl via chobeat",
+  "published_at": "2026-08-25T12:17:14-05:00",
+  "fetched_at": "2026-08-26T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

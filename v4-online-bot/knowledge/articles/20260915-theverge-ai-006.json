@@ -1,0 +1,22 @@
+{
+  "id": "20260915-theverge-ai-006",
+  "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+  "summary": "本文报道了微软发布一份37页的“人本主义AI行为准则”，强调在AI安全担忧日益加剧的背景下，人的因素比AI更重要。文章提及Anthropic CEO Dario Amodei呼吁协调放缓AI发展，以及研究人员警告AI模型进步可能超出安全部署和验证复杂系统的能力。该准则旨在为AI开发提供伦理框架，确保技术发展以人为本。适合AI伦理研究者、政策制定者、AI开发者以及对AI安全治理感兴趣的读者。",
+  "abstract": "微软发布37页“人本主义AI行为准则”，回应AI安全担忧，强调人的价值高于AI，并提及行业呼吁放缓AI发展。",
+  "tags": [
+    "AI伦理",
+    "AI安全",
+    "微软",
+    "行为准则",
+    "人本主义"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "Tom Warren",
+  "published_at": "2026-09-14T09:00:00-04:00",
+  "fetched_at": "2026-09-15T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20260919-theverge-ai-006",
+  "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+  "summary": "这是一篇来自 The Verge 的新闻报道，基于《纽约时报》诉 OpenAI 与微软案中最新解封的法庭文件。文件显示，OpenAI 和微软内部早已意识到，用网络内容训练 AI 模型会引发一个「末日循环」（doom loop）：AI 抓取网站内容、生成摘要式回答，导致用户不再点击原始网站，网站流量与广告收入下降，内容生产者失去动力，最终可被 AI 抓取的高质量内容枯竭。内部文档甚至将这种大规模抓取描述为「人类历史上最大的劳动盗窃」。报道还涉及 Google「零点击」搜索对开放网络的冲击，以及新闻出版商的困境。该内容适合关注 AI 版权、数据伦理、媒体生态与监管政策的读者，是理解当前 AI 与内容产业冲突的重要一手材料。",
+  "abstract": "解封法庭文件显示，OpenAI 和微软内部早知用网络内容训练 AI 会形成「末日循环」：抓取内容、截流流量、摧毁内容生态，甚至自称是「人类史上最大劳动盗窃」。",
+  "tags": [
+    "AI版权",
+    "数据抓取",
+    "新闻媒体",
+    "OpenAI",
+    "监管诉讼"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "Terrence O’Brien",
+  "published_at": "2026-09-18T17:07:24-04:00",
+  "fetched_at": "2026-09-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

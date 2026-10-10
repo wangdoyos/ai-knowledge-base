@@ -1,0 +1,22 @@
+{
+  "id": "20260917-theverge-ai-010",
+  "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+  "summary": "Snap 正在推出名为 Specs Intelligence 的全新 AI 助手，计划登陆 iOS 和 Mac 平台。该工具的核心能力是连接用户的其他数字账户，从而帮助处理工作任务、追踪旅行信息等日常事务。从定位上看，Specs Intelligence 与 Meta 的 Muse、Google Gemini 的 Spark 等 AI 助手类似，但 Snap 将其宣传为一种“预期式 AI 服务”（anticipatory AI service），强调它能够主动预判用户需求并提供帮助，而非仅仅被动响应指令。这一产品是 Snap 在 AI 助手领域的重要布局，旨在通过跨账户整合与情境感知提升用户效率。适合关注 AI 助手、生产力工具以及 Snap 生态发展的用户和开发者了解。目前该工具的具体功能细节、隐私处理方式及上线时间尚未完全披露，但其“预期式”理念代表了 AI 助手从被动问答向主动服务演进的趋势。",
+  "abstract": "Snap 推出 Specs Intelligence AI 助手，登陆 iOS 和 Mac，可连接其他数字账户，主打“预期式 AI 服务”，帮助处理工作与旅行等事务。",
+  "tags": [
+    "AI助手",
+    "Snap",
+    "iOS",
+    "Mac",
+    "预期式AI"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Jay Peters",
+  "published_at": "2026-09-16T19:40:00-04:00",
+  "fetched_at": "2026-09-17T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

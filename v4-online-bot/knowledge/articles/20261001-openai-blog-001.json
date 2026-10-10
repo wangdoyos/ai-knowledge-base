@@ -1,0 +1,21 @@
+{
+  "id": "20261001-openai-blog-001",
+  "title": "Disrupting a coordinated model-distillation campaign",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+  "summary": "本文是 OpenAI 发布的一篇公司博客，详细披露了其如何发现并阻断一场有组织的模型蒸馏攻击活动。该活动旨在通过对抗性手段提取 OpenAI 受保护模型的推理过程，从而绕过安全限制、复制模型能力。OpenAI 在博客中介绍了攻击者的技术手法、攻击规模以及所采取的防御措施，并强调了持续加强对抗性蒸馏防御的重要性。文章还讨论了模型蒸馏对 AI 安全、知识产权和公平竞争的影响，并呼吁行业合作应对此类威胁。对于 AI 安全研究者、模型开发者、政策制定者以及关注大模型安全与合规的从业者来说，本文提供了来自一线厂商的实战经验和防御思路，有助于理解当前模型窃取与防御的攻防态势。",
+  "abstract": "OpenAI 披露其成功阻断了一场有组织的模型蒸馏攻击，该攻击试图提取受保护模型的推理能力。博客分享了攻击手法与防御策略，强调加强对抗性蒸馏防御的重要性。",
+  "tags": [
+    "模型蒸馏",
+    "AI安全",
+    "对抗攻击",
+    "OpenAI",
+    "防御策略"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-09-30T10:30:00+00:00",
+  "fetched_at": "2026-10-01T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

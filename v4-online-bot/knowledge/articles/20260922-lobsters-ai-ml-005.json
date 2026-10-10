@@ -1,0 +1,22 @@
+{
+  "id": "20260922-lobsters-ai-ml-005",
+  "title": "A study of sequence weighting at scale",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+  "summary": "本文是 Jane Street 技术博客上关于大规模序列加权的研究文章。文章探讨了在机器学习训练中，如何对序列数据进行加权以优化模型性能。序列加权是处理变长序列、不平衡数据或强调重要样本时的关键技术，尤其在自然语言处理、时间序列预测等领域有广泛应用。文章可能介绍了不同加权策略（如按长度、频率、重要性等）在大规模数据集上的实验比较，分析了加权对模型收敛速度、泛化能力的影响，并提供了实践建议。适合机器学习工程师、数据科学家以及对训练优化感兴趣的研究人员阅读，帮助他们在实际项目中更有效地设计加权方案。",
+  "abstract": "Jane Street 博客分享大规模序列加权的研究，探讨不同加权策略对模型训练的影响，为 ML 工程师提供实践指导。",
+  "tags": [
+    "序列加权",
+    "机器学习",
+    "训练优化",
+    "大规模数据",
+    "Jane Street"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "blog.janestreet.com via eatonphil",
+  "published_at": "2026-09-20T20:18:47-05:00",
+  "fetched_at": "2026-09-22T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

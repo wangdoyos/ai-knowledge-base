@@ -1,0 +1,21 @@
+{
+  "id": "20260923-openai-blog-002",
+  "title": "Introducing GPT-6 Sol and Luna",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+  "summary": "这是 OpenAI 官方发布的一篇公司博客，正式介绍了 GPT-6 系列的两个新模型：Sol 和 Luna。这两个模型旨在将前沿智能（frontier intelligence）带入日常工作场景，但分别针对不同的能力与成本平衡点。Sol 可能更侧重于高性能和复杂任务处理，而 Luna 则可能在保持较高能力的同时优化成本，适合更广泛的日常使用。该博客详细阐述了两个模型的设计理念、技术特点、适用场景以及性能基准，帮助开发者和企业根据自身需求选择合适的模型。对于 AI 应用开发者、产品经理以及关注大模型进展的技术人员来说，这篇文章提供了重要的选型参考和最新动态。",
+  "abstract": "OpenAI 发布 GPT-6 Sol 和 Luna 两个模型，分别平衡能力与成本，将前沿智能带入日常工作。",
+  "tags": [
+    "GPT-6",
+    "OpenAI",
+    "大语言模型",
+    "模型发布",
+    "AI应用"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-09-22T18:00:00+00:00",
+  "fetched_at": "2026-09-23T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

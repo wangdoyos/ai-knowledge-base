@@ -1,0 +1,22 @@
+{
+  "id": "20261001-theverge-ai-003",
+  "title": "The AI Tamagotchis are coming",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+  "summary": "本文是 The Verge 的一篇科技报道，讨论 Meta 和 OpenAI 两家公司即将推出的 AI 硬件设备。文章指出，尽管 AI 在手机和电脑上取得了广泛应用，但在专用硬件设备上却屡屡失败。未来一年内，Meta 和 OpenAI 将尝试改变这一局面，且两者似乎押注于相似的路径：通过可爱的软件智能体（cutesy software agents）来测试用户对物理硬件的接受度。文章将这类设备比喻为“AI 电子宠物”（AI Tamagotchis），暗示其形态可能是带有拟人化或宠物化交互的独立硬件。内容涉及 AI Agent 从纯软件向软硬结合方向演进的趋势，适合关注 AI 产品形态、消费级 AI 硬件以及 OpenAI、Meta 战略动向的读者。",
+  "abstract": "The Verge 报道 Meta 与 OpenAI 将在未来一年推出以可爱软件智能体为核心的 AI 硬件设备，试图打破 AI 专用硬件屡屡失败的局面，探索“AI 电子宠物”式的新形态。",
+  "tags": [
+    "AI硬件",
+    "AI Agent",
+    "OpenAI",
+    "Meta",
+    "消费级AI"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Hayden Field",
+  "published_at": "2026-09-30T14:07:38-04:00",
+  "fetched_at": "2026-10-01T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

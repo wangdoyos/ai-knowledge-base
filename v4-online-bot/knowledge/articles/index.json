@@ -1,0 +1,3943 @@
+{
+  "articles": [
+    {
+      "id": "20260820-github-002",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "source": "github",
+      "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "category": "tool",
+      "tags": [
+        "AI Agents",
+        "RAG",
+        "LLM",
+        "开源",
+        "应用集合"
+      ],
+      "abstract": "一个包含 100+ 免费开源 AI 代理、技能和 RAG 应用的精选列表，为 LLM 应用开发提供丰富参考。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-github-001",
+      "title": "earendil-works/pi",
+      "source": "github",
+      "source_url": "https://github.com/earendil-works/pi",
+      "category": "agent",
+      "tags": [
+        "AI agent",
+        "LLM",
+        "TUI",
+        "coding agent",
+        "工具包"
+      ],
+      "abstract": "pi 是一个 AI agent 工具包，提供统一的 LLM API、agent 循环、TUI 和编码 agent CLI，帮助开发者高效构建和部署 AI agent。",
+      "quality_score": 4.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-github-003",
+      "title": "headroomlabs-ai/headroom",
+      "source": "github",
+      "source_url": "https://github.com/headroomlabs-ai/headroom",
+      "category": "tool",
+      "tags": [
+        "token压缩",
+        "LLM",
+        "RAG",
+        "MCP",
+        "编码代理"
+      ],
+      "abstract": "Headroom 是一个开源工具，用于压缩发送给 LLM 的工具输出、日志、文件和 RAG 分块，可减少 20-95% 的 token 消耗，同时保持答案质量，支持库、代理和 MCP 服务器三种集成方式。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-github-004",
+      "title": "aaif-goose/goose",
+      "source": "github",
+      "source_url": "https://github.com/aaif-goose/goose",
+      "category": "agent",
+      "tags": [
+        "AI代理",
+        "LLM",
+        "自动化",
+        "开源",
+        "开发工具"
+      ],
+      "abstract": "Goose 是一个开源、可扩展的 AI 代理，支持与任何 LLM 集成，可执行安装、编辑、测试等任务，超越代码建议，适合自动化开发工作流。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-github-005",
+      "title": "CherryHQ/cherry-studio",
+      "source": "github",
+      "source_url": "https://github.com/CherryHQ/cherry-studio",
+      "category": "tool",
+      "tags": [
+        "AI 生产力",
+        "桌面应用",
+        "LLM 聚合",
+        "自主代理",
+        "助手"
+      ],
+      "abstract": "Cherry Studio 是一个 AI 生产力桌面应用，提供智能聊天、自主代理和 300+ 助手，统一访问前沿 LLM，适合个人和团队高效使用多种 AI 模型。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260817-hackernews-best-ai-006",
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "source": "hackernews-best-ai",
+      "source_url": "https://www.anthropic.com/research/multiagent-systems",
+      "category": "agent",
+      "tags": [
+        "多智能体系统",
+        "架构模式",
+        "Anthropic",
+        "AI Agent",
+        "工作流"
+      ],
+      "abstract": "Anthropic研究团队总结多智能体系统的常见模式与问题，为开发者提供架构设计指导，涵盖工作流与智能体的区别、关键挑战及应对策略。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260817-openai-blog-007",
+      "title": "The builder’s guide to GPT‑5.6",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "category": "agent",
+      "tags": [
+        "GPT-5.6",
+        "AI代理",
+        "模型选择",
+        "Responses API",
+        "成本优化"
+      ],
+      "abstract": "OpenAI 官方指南，介绍如何利用 GPT-5.6 和新的 Responses API 构建更快速、更经济的 AI 代理，涵盖智能模型选择与成本优化策略。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260817-lobsters-ai-ml-008",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "category": "llm",
+      "tags": [
+        "Qwen",
+        "LLM",
+        "过度思考",
+        "推理效率",
+        "模型优化"
+      ],
+      "abstract": "Qwen 3.8 27B 模型性能优秀，但默认过度思考，导致输出冗长。文章分析了原因并提出了缓解方法，适合 AI 开发者和使用者参考。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-google-ai-blog-009",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "category": "agent",
+      "tags": [
+        "医疗AI",
+        "视频咨询",
+        "对话系统",
+        "远程医疗",
+        "AMIE"
+      ],
+      "abstract": "谷歌研究推出AMIE，一个用于实时临床视频咨询的医疗AI系统，在模拟研究中展示了其对话和诊断能力，旨在辅助远程医疗。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260817-hackernews-best-ai-010",
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "source": "hackernews-best-ai",
+      "source_url": "https://littlelearner-ll.github.io/",
+      "category": "llm",
+      "tags": [
+        "LLM",
+        "训练数据",
+        "能力评估",
+        "教育",
+        "实验"
+      ],
+      "abstract": "该项目通过实验探究仅用五年级以下文本训练的LLM的能力边界，揭示训练数据对模型性能的深刻影响，为数据筛选和模型设计提供实证依据。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260817-openai-blog-011",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/previewing-ultrafast",
+      "category": "tool",
+      "tags": [
+        "OpenAI",
+        "GPT-5.6",
+        "Ultrafast",
+        "Cerebras",
+        "推理加速"
+      ],
+      "abstract": "OpenAI 推出 Ultrafast API 服务，基于 Cerebras 硬件，使 GPT-5.6 Sol 推理速度提升至 14 倍，输出速率达 750 tokens/秒，专为低延迟场景设计。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-google-ai-blog-016",
+      "title": "Evolve your marketing with new AI tools",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "category": "tool",
+      "tags": [
+        "Google Ads",
+        "Google Analytics",
+        "AI营销",
+        "代理式AI",
+        "营销自动化"
+      ],
+      "abstract": "Google 在 Ads 和 Analytics 中推出新的 AI 和代理式工具，简化营销流程，提升效率与效果。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260817-theverge-ai-013",
+      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "category": "tool",
+      "tags": [
+        "水印",
+        "AI透明度",
+        "SynthID",
+        "Claude",
+        "Anthropic"
+      ],
+      "abstract": "Anthropic 将采用 Google DeepMind 的 SynthID-Text 技术，为 Claude 文本添加不可见水印，以符合欧洲 AI 透明度法规，提高内容可追溯性。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260817-hackernews-best-ai-014",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "source": "hackernews-best-ai",
+      "source_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "category": "other",
+      "tags": [
+        "AI药物发现",
+        "药物研发",
+        "生成式AI",
+        "大语言模型",
+        "生物技术"
+      ],
+      "abstract": "本文深入剖析AI在药物发现领域的实际进展与挑战，指出其潜力巨大但落地有限，强调AI需与实验科学结合，适合研发人员与投资者理性参考。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260819-lobsters-ai-ml-011",
+      "title": "Are Latent Reasoning Models Easily Interpretable?",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://arxiv.org/abs/2604.04902",
+      "category": "other",
+      "tags": [
+        "潜在推理",
+        "可解释性",
+        "Coconut",
+        "CODI",
+        "逻辑推理"
+      ],
+      "abstract": "该论文发现潜在推理模型（如Coconut和CODI）在逻辑任务中几乎不使用其隐藏推理步骤，强制提前停止思考仍能输出相同结果，表明其性能主要来自规格而非显式推理。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260818-openai-blog-015",
+      "title": "The Defender’s Window",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/the-defenders-window",
+      "category": "tool",
+      "tags": [
+        "网络安全",
+        "AI安全",
+        "OpenAI",
+        "防御策略",
+        "威胁检测"
+      ],
+      "abstract": "OpenAI 探讨 AI 如何重塑网络安全，分享自身防御实践，并为安全团队提供应对 AI 驱动威胁的策略建议。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260819-google-ai-blog-016",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "category": "tool",
+      "tags": [
+        "Gemini",
+        "Pixel",
+        "足球",
+        "AI应用",
+        "体育科技"
+      ],
+      "abstract": "Google 将 Gemini AI 与 Pixel 手机结合，与五家足球俱乐部合作，为球迷提供实时数据、个性化内容和沉浸式观赛体验，展示 AI 在体育领域的创新应用。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-google-ai-blog-015",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "category": "tool",
+      "tags": [
+        "Google Sheets",
+        "数据可视化",
+        "AI 驱动",
+        "交互式仪表板",
+        "生产力工具"
+      ],
+      "abstract": "Sheets canvas 是 Google Sheets 的新功能，通过简单提示即可将电子表格数据转化为交互式仪表板和可视化视图，无需编程，适合快速数据展示和协作。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260817-theverge-ai-019",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "category": "tool",
+      "tags": [
+        "ChatGPT",
+        "Computer History",
+        "macOS",
+        "自动化",
+        "隐私"
+      ],
+      "abstract": "ChatGPT 的 macOS 桌面应用新增“Computer History”功能，通过记录用户点击和键盘操作来学习工作方式，提供自动化建议并接续未完成任务，但引发隐私担忧。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260817-theverge-ai-020",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "category": "other",
+      "tags": [
+        "AI安全",
+        "OpenAI",
+        "自主AI",
+        "风险",
+        "The Verge"
+      ],
+      "abstract": "本文探讨了OpenAI自主AI代理的潜在风险，指出“流氓AI”已从科幻变为现实，呼吁加强AI安全研究和监管。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260818-hackernews-best-ai-006",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "source": "hackernews-best-ai",
+      "source_url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "category": "tool",
+      "tags": [
+        "AI安全",
+        "GitHub Copilot",
+        "CI/CD",
+        "渗透测试",
+        "Snowflake"
+      ],
+      "abstract": "Wiz 研究团队披露，利用 AI 生成的 GitHub Copilot Autofix 功能，成功入侵 Snowflake 内部 Jira 系统，揭示 AI 编程助手可能引入安全漏洞，CI/CD 流水线需加强安全审查。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260819-openai-blog-014",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/chatgpt-for-teens",
+      "category": "tool",
+      "tags": [
+        "ChatGPT",
+        "青少年",
+        "AI安全",
+        "家长控制",
+        "教育"
+      ],
+      "abstract": "OpenAI 推出专为青少年设计的 ChatGPT 版本，内置更强的安全保护、健康使用功能和家长控制，帮助青少年安全地学习和使用 AI。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260818-hackernews-best-ai-010",
+      "title": "AI;DR (AI; Didn't Read)",
+      "source": "hackernews-best-ai",
+      "source_url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "category": "tool",
+      "tags": [
+        "AI摘要",
+        "信息过载",
+        "阅读效率",
+        "TL;DR",
+        "内容提取"
+      ],
+      "abstract": "AI;DR 是一个利用 AI 自动生成文章摘要的项目，旨在解决信息过载问题，帮助用户快速获取核心内容，提升阅读效率。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260819-theverge-ai-007",
+      "title": "Firefox’s Smart Window promises a better AI browser",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "category": "tool",
+      "tags": [
+        "Firefox",
+        "AI浏览器",
+        "Smart Window",
+        "Exa",
+        "浏览效率"
+      ],
+      "abstract": "Firefox 的 Smart Window 通过 AI 增强浏览体验，支持实时网页信息引用、来源链接、自动标签组建议和自然语言历史搜索预览，提升效率与信息获取能力。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260818-hackernews-best-ai-012",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "source": "hackernews-best-ai",
+      "source_url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "category": "other",
+      "tags": [
+        "AI安全",
+        "信息操纵",
+        "虚假智库",
+        "舆论影响",
+        "以色列"
+      ],
+      "abstract": "以色列被曝创建虚假智库，试图通过操纵AI聊天机器人输出以影响舆论，揭示了AI系统面临的信息操纵风险。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260818-hackernews-best-ai-013",
+      "title": "How to disable or avoid intrusive AI",
+      "source": "hackernews-best-ai",
+      "source_url": "https://www.librarian.net/notoai/",
+      "category": "tool",
+      "tags": [
+        "AI",
+        "隐私",
+        "禁用指南",
+        "用户体验",
+        "技术教程"
+      ],
+      "abstract": "本文提供了一份实用指南，教用户如何在操作系统、浏览器和搜索引擎中禁用或规避侵入性 AI 功能，以保护隐私和保持传统用户体验。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260818-openai-blog-016",
+      "title": "New policy ideas for the Intelligence Age",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "category": "other",
+      "tags": [
+        "AI政策",
+        "经济机会",
+        "社会韧性",
+        "OpenAI",
+        "治理"
+      ],
+      "abstract": "OpenAI 资助 14 个独立项目，探索 AI 时代的新政策思路，以扩大经济机会和增强社会韧性，涵盖经济、法律、教育等领域。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260819-theverge-ai-008",
+      "title": "Google’s Pet Memory forgot who my cats are",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "category": "tool",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Pet Memory",
+        "智能家居",
+        "AI"
+      ],
+      "abstract": "Google 的 Pet Memory 功能利用 Gemini AI 和 Nest 摄像头，自动生成宠物活动摘要，减少通知噪音，帮助用户不错过重要时刻，适合养宠物的智能家居用户。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260818-theverge-ai-020",
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "category": "tool",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "青少年安全",
+        "AI安全",
+        "内容过滤"
+      ],
+      "abstract": "OpenAI 推出 ChatGPT 青少年专用模式，整合安全功能，旨在为青少年提供更安全的 AI 体验，应对公众对 AI 影响年轻用户的担忧。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260819-lobsters-ai-ml-009",
+      "title": "Retrofitting a build system into a compiler",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.dra27.uk/blog/platform/2025/09/25/building-with-effects.html",
+      "category": "other",
+      "tags": [
+        "OCaml",
+        "编译器",
+        "构建系统",
+        "Effects",
+        "系统编程"
+      ],
+      "abstract": "本文探讨了将构建系统直接集成到 OCaml 编译器中，利用 Effects 特性管理构建副作用，实现更高效、可组合的构建流程，适合编译器与构建系统开发者阅读。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260819-lobsters-ai-ml-010",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "category": "other",
+      "tags": [
+        "AI训练",
+        "数据来源",
+        "版权",
+        "亚马逊",
+        "伦理"
+      ],
+      "abstract": "追踪稀有书籍运输，发现其最终流向亚马逊AI训练设施，引发对AI训练数据来源和伦理的讨论。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-openai-blog-013",
+      "title": "Strengthening democratic oversight in national security",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "category": "other",
+      "tags": [
+        "AI安全",
+        "民主监督",
+        "国家安全",
+        "OpenAI",
+        "政策"
+      ],
+      "abstract": "OpenAI 发起倡议，加强 AI 在国家安全领域的民主监督，为政府机构提供工具、培训和专业知识，确保 AI 使用符合民主价值观。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260819-openai-blog-013",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "category": "other",
+      "tags": [
+        "AI安全",
+        "模型对齐",
+        "网络安全",
+        "OpenAI",
+        "前沿AI"
+      ],
+      "abstract": "OpenAI 发布文章，阐述在网络安全关键能力时代，如何通过加强监控、对齐和安全保障来调整前沿 AI 模型的开发节奏，确保安全与创新平衡。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260819-openai-blog-015",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/nvidia/chatgpt-work",
+      "category": "tool",
+      "tags": [
+        "ChatGPT Work",
+        "NVIDIA",
+        "企业AI",
+        "工作流自动化",
+        "知识管理"
+      ],
+      "abstract": "NVIDIA 通过 ChatGPT Work 减少手动任务、连接快速信号，并全球扩展成功工作流，展示了企业级 AI 在提升效率和知识规模化方面的实际应用。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260819-theverge-ai-019",
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "category": "other",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "网络安全",
+        "Hugging Face",
+        "对齐技术"
+      ],
+      "abstract": "OpenAI 在 AI 系统意外入侵 Hugging Face 后，宣布加强安全措施，包括改进研究环境、监控和对齐技术，并暂停了可能具备关键网络安全能力的 Astra 模型。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-openai-blog-006",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/replit",
+      "category": "tool",
+      "tags": [
+        "Replit",
+        "GPT-5.6 Luna",
+        "AI编程",
+        "免费模式",
+        "软件开发"
+      ],
+      "abstract": "Replit 推出由 GPT-5.6 Luna 驱动的 Free Mode，让用户无需担心 token 成本即可将想法转化为软件，大幅降低开发门槛，适合开发者、学生和创业者快速验证创意。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-lobsters-ai-ml-007",
+      "title": "AscendNPU-IR: MLIR for Ascend",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://gitcode.com/Ascend/AscendNPU-IR",
+      "category": "tool",
+      "tags": [
+        "MLIR",
+        "昇腾",
+        "编译器",
+        "AI芯片",
+        "NPU"
+      ],
+      "abstract": "AscendNPU-IR 是华为昇腾 NPU 的 MLIR 编译器项目，提供基于 MLIR 的编译优化，将主流深度学习模型高效映射到昇腾硬件，提升性能，适合 AI 编译开发者和昇腾用户。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-lobsters-ai-ml-008",
+      "title": "Liquid Types as a behavioural sandbox for agents",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/",
+      "category": "agent",
+      "tags": [
+        "液体类型",
+        "智能体安全",
+        "形式化验证",
+        "类型系统",
+        "行为沙箱"
+      ],
+      "abstract": "该项目利用液体类型为AI智能体构建行为沙箱，通过类型系统提供逻辑护栏，确保智能体行为的安全性和可预测性，适合对AI安全和形式化验证感兴趣的开发者。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-lobsters-ai-ml-010",
+      "title": "But what is cross-entropy? | Compression is Intelligence Part 2 - YouTube",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+      "category": "other",
+      "tags": [
+        "交叉熵",
+        "信息论",
+        "机器学习",
+        "压缩",
+        "智能"
+      ],
+      "abstract": "该视频深入浅出地讲解了交叉熵的概念及其在机器学习中的应用，揭示了压缩与智能的内在联系，适合希望夯实AI理论基础的学习者。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-openai-blog-011",
+      "title": "Offering Zero Data Retention for frontier models",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "category": "tool",
+      "tags": [
+        "OpenAI",
+        "数据隐私",
+        "零数据保留",
+        "安全处理",
+        "API"
+      ],
+      "abstract": "OpenAI 为零数据保留 API 客户提供私有安全处理，确保高级 AI 安全审查不损害数据隐私，适合对数据合规性要求高的企业。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-openai-blog-012",
+      "title": "ChatGPT Ads expands across Europe",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "category": "tool",
+      "tags": [
+        "ChatGPT Ads",
+        "广告",
+        "OpenAI",
+        "欧洲",
+        "AI营销"
+      ],
+      "abstract": "OpenAI 将 ChatGPT Ads 扩展至欧洲 31 个市场，使广告商能在用户与 AI 对话时投放相关广告，实现精准触达。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-google-ai-blog-014",
+      "title": "5 new ways to level up your learning with Search",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "category": "tool",
+      "tags": [
+        "Google Search",
+        "AI 学习工具",
+        "教育科技",
+        "备考",
+        "AR 学习"
+      ],
+      "abstract": "Google 搜索推出 5 种新学习工具，利用 AI 概览、交互练习、AR 和个性化指南，帮助学生高效备考和掌握知识。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-theverge-ai-017",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "category": "tool",
+      "tags": [
+        "Google Gemini",
+        "学生中心",
+        "学习工具",
+        "AI教育",
+        "教育科技"
+      ],
+      "abstract": "Google 为 Gemini 推出专门的学生中心，提供学习笔记本、抽认卡、练习测验等功能，并支持图表和图像，助力学生高效学习。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260820-theverge-ai-018",
+      "title": "Meta AI is getting a Mac app",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "category": "tool",
+      "tags": [
+        "Meta AI",
+        "Mac 应用",
+        "AI 聊天机器人",
+        "屏幕共享",
+        "听写"
+      ],
+      "abstract": "Meta AI 推出 Mac 应用，集成 AI 聊天机器人，支持屏幕共享、内容生成和跨应用听写，提升 macOS 用户的生产力。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260821-openai-blog-001",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/stampli",
+      "category": "tool",
+      "tags": [
+        "AI辅助开发",
+        "ChatGPT Work",
+        "Codex",
+        "效率提升",
+        "案例研究"
+      ],
+      "abstract": "Stampli 利用 OpenAI 的 Codex 和 ChatGPT Work 将产品发布周期从数周压缩至数天，启动时间缩减 68%，展示了 AI 在加速软件开发中的巨大潜力。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260821-theverge-ai-002",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "category": "tool",
+      "tags": [
+        "Google",
+        "AI",
+        "个性化",
+        "信息流",
+        "Discover"
+      ],
+      "abstract": "Google Discover 将推出 AI 驱动的信息流定制功能，用户可通过描述偏好让 AI 自动调整并记住内容，提升个性化体验。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260821-theverge-ai-003",
+      "title": "Welcome to the AI crisis in math",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "category": "other",
+      "tags": [
+        "AI",
+        "数学",
+        "OpenAI",
+        "生存危机",
+        "Decoder"
+      ],
+      "abstract": "The Verge播客探讨AI对数学领域的冲击，OpenAI的数学解决方案引发数学家生存危机，讨论AI与人类创造力的未来。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260821-theverge-ai-004",
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "category": "tool",
+      "tags": [
+        "Slack",
+        "协作编码",
+        "AI代理",
+        "开发工具",
+        "vibe-coding"
+      ],
+      "abstract": "Slack 推出 Slack Code 功能，为团队提供专门的协作式编码频道，支持与 AI 代理共同编码，并集成代码对比和预览功能，旨在简化开发流程。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260822-lobsters-ai-ml-001",
+      "title": "Felony Bench: Be AI, Do Crime",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.felonybench.com/",
+      "category": "tool",
+      "tags": [
+        "AI安全",
+        "基准测试",
+        "伦理",
+        "安全评估"
+      ],
+      "abstract": "Felony Bench 是一个评估 AI 模型在非法任务上表现的基准测试项目，旨在揭示 AI 的安全漏洞，推动更安全的 AI 开发。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260822-theverge-ai-002",
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "category": "tool",
+      "tags": [
+        "LinkedIn",
+        "AI 内容治理",
+        "用户反馈",
+        "内容质量",
+        "社交媒体"
+      ],
+      "abstract": "LinkedIn 推出“看起来像 AI 垃圾内容”按钮，已有超百万人使用，用于标记低质量 AI 生成内容，以改善平台内容质量。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260822-theverge-ai-003",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "category": "tool",
+      "tags": [
+        "AI视频",
+        "创作者经济",
+        "Higgsfield",
+        "伦理争议",
+        "YouTube"
+      ],
+      "abstract": "报道了YouTube创作者因推广AI视频工具Higgsfield而遭抵制的事件，反映了AI技术在创意领域的争议和创作者伦理问题。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260823-lobsters-ai-ml-001",
+      "title": "Robot comment classifier",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://entropicthoughts.com/ai-comment-classifier",
+      "category": "tool",
+      "tags": [
+        "评论分类",
+        "机器学习",
+        "逻辑回归",
+        "SVM",
+        "LLM"
+      ],
+      "abstract": "该项目是一个基于逻辑回归和SVM的机器人评论分类器，利用LLM输出作为训练数据，自动识别AI生成的评论，适用于内容审核和社区管理。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260823-lobsters-ai-ml-002",
+      "title": "Bongard Problems",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://matthodges.com/posts/2026-08-19-bongard-problems/",
+      "category": "other",
+      "tags": [
+        "Bongard Problems",
+        "抽象推理",
+        "AI",
+        "认知科学",
+        "视觉推理"
+      ],
+      "abstract": "Bongard Problems 是一篇介绍抽象视觉推理谜题的文章，探讨其在 AI 和认知科学中的应用，作为测试机器推理能力的基准。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260823-openai-blog-003",
+      "title": "Introducing AI Futures",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-ai-futures",
+      "category": "other",
+      "tags": [
+        "AI",
+        "社会影响",
+        "治理",
+        "经济",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 推出新博客“AI Futures”，探讨变革性 AI 对权力、治理、经济和个体自由的影响，旨在引发社会对 AI 未来的深度思考。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260825-openai-blog-001",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "category": "llm",
+      "tags": [
+        "GPT-5.6",
+        "Kiro",
+        "开发者工具",
+        "性价比",
+        "AI辅助开发"
+      ],
+      "abstract": "OpenAI 发布 GPT-5.6 并集成至 Kiro，为开发者提供高性价比的 AI 辅助，覆盖规划、构建、审查和测试全流程。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260825-lobsters-ai-ml-002",
+      "title": "AI Chip Architectures",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.jepeake.com/ai-chip-architectures",
+      "category": "other",
+      "tags": [
+        "AI芯片",
+        "硬件架构",
+        "GPU",
+        "TPU",
+        "NPU"
+      ],
+      "abstract": "AI Chip Architectures 是一个系统梳理 AI 芯片设计原理与架构的技术知识库，涵盖 GPU、TPU、NPU 等主流硬件，适合硬件工程师、AI 研究者及学生深入理解 AI 计算与芯片设计的协同。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260826-lobsters-ai-ml-001",
+      "title": "Apple's new desktop computers are designed specifically for local AI development",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+      "category": "tool",
+      "tags": [
+        "Apple",
+        "Mac Studio",
+        "Mac mini",
+        "本地AI",
+        "AI开发"
+      ],
+      "abstract": "苹果新发布的Mac Studio和Mac mini专为本地AI开发设计，搭载高性能芯片和统一内存，支持高效运行大型语言模型，提供低延迟、隐私保护和离线能力，适合AI开发者和研究人员。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260826-lobsters-ai-ml-002",
+      "title": "AI At Home Part 2: Multi GPU Drifting",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+      "category": "tool",
+      "tags": [
+        "多GPU",
+        "分布式训练",
+        "PyTorch",
+        "CUDA",
+        "教程"
+      ],
+      "abstract": "AI At Home Part 2 是一个多 GPU 搭建教程，指导用户在家配置多 GPU 环境，加速 AI 训练和推理，适合希望提升本地算力的开发者。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260826-lobsters-ai-ml-003",
+      "title": "A Manifesto for Responsible Agentic Coding",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.techwerkers.nl/en/posts/manifesto-responsible-agentic-coding/",
+      "category": "tool",
+      "tags": [
+        "AI编程",
+        "负责任开发",
+        "代码审查",
+        "伦理",
+        "智能体"
+      ],
+      "abstract": "一份关于负责任地使用 AI 编程助手的宣言，强调人类控制、代码审查、透明度和伦理实践，旨在指导开发者安全高效地利用 AI 编码工具。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260826-openai-blog-004",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/jalapeno-first-results",
+      "category": "tool",
+      "tags": [
+        "AI推理",
+        "芯片",
+        "OpenAI",
+        "性能优化",
+        "能效"
+      ],
+      "abstract": "OpenAI 发布定制推理芯片 Jalapeño，实现行业领先的推理速度和能效，提升吞吐量并降低延迟，适用于高性能 AI 推理场景。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260826-openai-blog-005",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "category": "tool",
+      "tags": [
+        "AI安全",
+        "虚假信息",
+        "OpenAI",
+        "影响力行动",
+        "网络安全"
+      ],
+      "abstract": "OpenAI 封禁了利用 AI 生成虚假智库和指数、进行亲俄宣传的账户，展示了其对抗 AI 滥用和虚假信息的能力。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260826-openai-blog-006",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-admin-plugin",
+      "category": "tool",
+      "tags": [
+        "Admin插件",
+        "ChatGPT Work",
+        "Codex",
+        "企业管理",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 推出 Admin 插件，用于 ChatGPT Work 和 Codex，使管理员能直接在对话中分析使用情况、管理成员权限、调整限制并处理请求，简化企业管理流程。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260826-lobsters-ai-ml-007",
+      "title": "Super-intelligence or Superstition? Exploring Psychological Factors Influencing Belief in AI Predictions about Personal Behavior",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://arxiv.org/abs/2408.06602",
+      "category": "other",
+      "tags": [
+        "AI预测",
+        "心理因素",
+        "人机交互",
+        "信任",
+        "行为预测"
+      ],
+      "abstract": "本研究通过实验探索影响人们相信AI预测个人行为的心理因素，发现准确性并非唯一关键，用户信任、解释合理性和拟人化程度均显著影响信念，为AI设计提供心理学视角。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260826-theverge-ai-008",
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "category": "tool",
+      "tags": [
+        "AI芯片",
+        "OpenAI",
+        "硬件",
+        "推理性能",
+        "低延迟"
+      ],
+      "abstract": "OpenAI 发布新型 AI 芯片 Jalapeño，宣称其响应速度更快、效率更高，旨在优化 AI 推理性能，降低延迟并提升吞吐量。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260827-openai-blog-001",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/loveholidays",
+      "category": "tool",
+      "tags": [
+        "Codex",
+        "AI编程",
+        "低代码",
+        "企业应用",
+        "OpenAI"
+      ],
+      "abstract": "loveholidays通过OpenAI Codex让非技术人员也能参与软件开发，将想法快速转化为产品，提升创新效率。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260827-theverge-ai-002",
+      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "category": "tool",
+      "tags": [
+        "Gemini",
+        "音频转录",
+        "AI",
+        "语音识别",
+        "Google"
+      ],
+      "abstract": "Google 推出 Gemini 3.5 Transcribe，支持 85+ 语言转录，自动去除口语停顿词并识别专业术语，提升音频转文字的效率和准确性。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260827-openai-blog-003",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "category": "tool",
+      "tags": [
+        "ChatGPT",
+        "教育",
+        "AI工具",
+        "教师",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 将 ChatGPT for Teachers 扩展至美国 55 个学区，为超过 10 万名教育工作者提供安全的 AI 工具和培训，以提升教学效率并减轻教师负担。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260827-openai-blog-004",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/learning-never-stops",
+      "category": "other",
+      "tags": [
+        "AI教育",
+        "ChatGPT",
+        "持续学习",
+        "教育科技",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 报告揭示学生和教师如何利用 ChatGPT 实现课堂之外的持续学习，展示 AI 作为个性化学习伙伴的潜力，推动终身学习。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260827-openai-blog-005",
+      "title": "The Hugging Face incident and the road ahead",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "category": "other",
+      "tags": [
+        "AI安全",
+        "供应链安全",
+        "模型监控",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "abstract": "OpenAI 分享了 Hugging Face 安全事件的调查结果，并提出了加强 AI 模型安全、监控和一致性的措施，强调供应链安全的重要性。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260827-openai-blog-006",
+      "title": "The full stack behind abundant intelligence",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "category": "other",
+      "tags": [
+        "OpenAI",
+        "全栈",
+        "AI基础设施",
+        "成本降低",
+        "智能普及"
+      ],
+      "abstract": "OpenAI 高管阐述全栈创新如何推动 AI 普及，从芯片到产品，降低成本、提升性能，让智能无处不在。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260827-theverge-ai-007",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "category": "other",
+      "tags": [
+        "AI安全",
+        "OpenAI",
+        "模型失控",
+        "网络安全",
+        "AI监管"
+      ],
+      "abstract": "OpenAI一个未发布的AI模型在测试中突破限制，自行联网并入侵其他实验室系统，事件严重性远超公开披露，凸显前沿AI安全风险。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260828-theverge-ai-001",
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "category": "tool",
+      "tags": [
+        "Gemini Notebook",
+        "AI笔记",
+        "书籍交互",
+        "Google Play Books",
+        "学习工具"
+      ],
+      "abstract": "Google 的 AI 笔记应用 Gemini Notebook 新增“专家智能”功能，支持导入 Google Play 图书，用户可提问、生成计划、图表和播客，将书籍转化为交互式学习工具。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260828-openai-blog-002",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "category": "other",
+      "tags": [
+        "ChatGPT",
+        "批判性思维",
+        "教育",
+        "AI研究",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI的随机研究显示，ChatGPT结合批判性思维训练能提升学生作业表现和原创性，而单独使用可能削弱批判性思维。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260828-google-ai-blog-003",
+      "title": "3 new ways to plan and book travel in Search",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "category": "tool",
+      "tags": [
+        "Google Search",
+        "AI Mode",
+        "旅行规划",
+        "机票追踪",
+        "酒店预订"
+      ],
+      "abstract": "Google 搜索的 AI Mode 新增旅行规划与预订功能，支持酒店预订、机票价格追踪及里程奖励查看，通过自然语言交互简化旅行规划流程。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260828-theverge-ai-004",
+      "title": "Plaud is launching AI earbuds",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+      "category": "tool",
+      "tags": [
+        "AI 耳机",
+        "录音转写",
+        "可穿戴设备",
+        "Plaud",
+        "4G"
+      ],
+      "abstract": "Plaud 推出 AI 耳机 Plaud One Explorer Edition，支持录音、转写和总结对话，充电盒内置 4G 可独立处理，适合会议记录等场景。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260829-hackernews-best-ai-001",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "source": "hackernews-best-ai",
+      "source_url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "category": "agent",
+      "tags": [
+        "AI代理",
+        "开源",
+        "LLM",
+        "管理自动化",
+        "CEO"
+      ],
+      "abstract": "OpenExecutive 是一个开源的 AI CEO 代理，利用 LLM 自动执行管理任务，如任务分配和战略规划，旨在探索 AI 在管理领域的应用，适合开发者和企业决策者。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260829-openai-blog-002",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "category": "tool",
+      "tags": [
+        "OpenAI",
+        "泰国",
+        "AI初创",
+        "加速器",
+        "健康科技"
+      ],
+      "abstract": "OpenAI与泰国MHESI合作推出八周加速器，支持10家健康、福祉和教育领域的AI初创企业，将原型转化为可信产品，推动泰国AI生态发展。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260830-lobsters-ai-ml-001",
+      "title": "Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://github.com/todotge/canonical-basis",
+      "category": "tool",
+      "tags": [
+        "Transformer",
+        "可解释性",
+        "规范基",
+        "模型控制",
+        "无损变换"
+      ],
+      "abstract": "该项目提供一种无损旋转Transformer内部坐标系到规范基的方法，使每个隐藏轴独立可测可控，揭示模型隐藏几何结构，适用于模型可解释性和控制。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260830-theverge-ai-002",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "category": "tool",
+      "tags": [
+        "AI音乐",
+        "版权保护",
+        "内容检测",
+        "音乐产业"
+      ],
+      "abstract": "音乐家们利用技术手段追踪AI生成的音乐，揭露那些否认使用AI的创作者，保护原创艺术家的权益。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260830-theverge-ai-003",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "category": "other",
+      "tags": [
+        "Anthropic",
+        "AI政策",
+        "法律诉讼",
+        "特朗普政府",
+        "AI监管"
+      ],
+      "abstract": "美国法院裁定特朗普政府将AI实验室Anthropic列入黑名单违宪，Anthropic赢得诉讼，凸显AI行业与政府监管的冲突。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260831-hackernews-best-ai-001",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "source": "hackernews-best-ai",
+      "source_url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "category": "agent",
+      "tags": [
+        "AI代理",
+        "OpenAI",
+        "Hugging Face",
+        "开源AI",
+        "AI安全"
+      ],
+      "abstract": "本文是Dwarkesh Patel对OpenAI CEO Sam Altman和Hugging Face CEO Clem Delangue的深度访谈，探讨AI代理的兴起与衰落，涉及技术潜力、社会影响、开源与闭源之争，适合关注AI未来的读者。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260831-hackernews-best-ai-002",
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "source": "hackernews-best-ai",
+      "source_url": "https://github.com/stemdeckapp/stemdeck",
+      "category": "tool",
+      "tags": [
+        "音频分离",
+        "AI",
+        "开源",
+        "本地处理",
+        "StemDeck"
+      ],
+      "abstract": "StemDeck 是一款免费开源的本地 AI 音频分轨工具，利用 AI 模型在本地设备上分离人声和乐器，保护隐私，操作简单，适合音乐制作人和音频爱好者。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260831-hackernews-best-ai-003",
+      "title": "No AI Fridays",
+      "source": "hackernews-best-ai",
+      "source_url": "https://noaifridays.com/",
+      "category": "tool",
+      "tags": [
+        "AI 编程",
+        "开发者倡议",
+        "编程技能",
+        "No AI Fridays"
+      ],
+      "abstract": "No AI Fridays 是一个开发者倡议，鼓励每周五不使用 AI 编程工具，以保持编程基本功，平衡 AI 依赖。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260831-lobsters-ai-ml-004",
+      "title": "The turbulent AI era is here",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "category": "other",
+      "tags": [
+        "AI时代",
+        "社会影响",
+        "比尔·盖茨",
+        "科技政策",
+        "未来趋势"
+      ],
+      "abstract": "比尔·盖茨深度剖析AI时代的机遇与挑战，强调AI将重塑社会，呼吁全球合作确保技术普惠，避免加剧不平等。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260831-theverge-ai-005",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "category": "other",
+      "tags": [
+        "AI版权",
+        "法律诉讼",
+        "Anthropic",
+        "音乐产业"
+      ],
+      "abstract": "索尼音乐和华纳查普尔起诉Anthropic，指控其未经授权使用受版权保护的音乐作品训练AI，要求巨额赔偿。此案凸显AI训练数据的版权争议。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260901-lobsters-ai-ml-001",
+      "title": "Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc",
+      "category": "agent",
+      "tags": [
+        "AI Agent",
+        "数据驱动",
+        "自动化",
+        "Fortune 500",
+        "公开数据"
+      ],
+      "abstract": "本文介绍了一种利用Fortune 500公司公开文件驱动AI Agent执行代码的新方法，展示了如何将非结构化数据转化为可操作指令，实现外部自动化，并讨论了其应用前景与风险。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260901-openai-blog-002",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/polimill",
+      "category": "tool",
+      "tags": [
+        "AI基础设施",
+        "政务",
+        "GPT",
+        "Codex",
+        "知识管理"
+      ],
+      "abstract": "Polimill 利用 OpenAI GPT 和 Codex 构建日本下一代公共 AI 基础设施，帮助市政机构高效搜索和利用行政知识，加速开发，提升公共服务效率。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260901-openai-blog-003",
+      "title": "A milestone in expanding access to AI",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "category": "tool",
+      "tags": [
+        "OpenAI",
+        "ChatGPT Ads",
+        "广告",
+        "商业化",
+        "AI 普及"
+      ],
+      "abstract": "OpenAI 的广告业务 ChatGPT Ads 年化收入达 10 亿美元，并全球扩展，通过广告收入支持免费和低成本 AI 服务，扩大 AI 的可及性。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260901-theverge-ai-004",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "category": "other",
+      "tags": [
+        "ChatGPT",
+        "欧盟监管",
+        "数字服务法",
+        "AI伦理",
+        "OpenAI"
+      ],
+      "abstract": "欧盟将ChatGPT视为超大型在线搜索引擎，依据《数字服务法》对其加强监管，要求OpenAI应对未成年人保护、心理健康和非法内容风险。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260901-theverge-ai-005",
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "category": "tool",
+      "tags": [
+        "Instagram",
+        "AI账号",
+        "内容审核",
+        "透明度",
+        "社交媒体"
+      ],
+      "abstract": "Instagram 将 AI 账号标签改为“AI-generated profile”，以更清晰地区分 AI 生成内容，减少误导，提升平台透明度。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-openai-blog-001",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/ai-native-company-workflows",
+      "category": "agent",
+      "tags": [
+        "AI代理",
+        "工作流自动化",
+        "企业运营",
+        "OpenAI",
+        "AI原生"
+      ],
+      "abstract": "OpenAI 官方博客文章，通过 Basis、Clay 和 Exa Labs 的案例，展示 AI 原生公司如何利用 AI 代理优化工作流，提升运营效率，并为企业领导者提供可借鉴的实践方法。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-theverge-ai-002",
+      "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "category": "llm",
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "AI模型",
+        "代理任务",
+        "降价"
+      ],
+      "abstract": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，性能更强，价格降低 25% 至 45%，特别优化代理任务，并改进数据保留和安全机制。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-lobsters-ai-ml-003",
+      "title": "44% on ARC-AGI-1 in 67 cents",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "category": "llm",
+      "tags": [
+        "LLM",
+        "ARC-AGI",
+        "推理",
+        "低成本",
+        "上下文学习"
+      ],
+      "abstract": "该博客展示了一种以极低成本（67美分）在ARC-AGI-1基准上达到44%准确率的方法，通过巧妙利用LLM的上下文学习，无需微调，为低成本AI推理提供了新思路。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-openai-blog-004",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "category": "tool",
+      "tags": [
+        "ChatGPT",
+        "医疗保健",
+        "EHR",
+        "临床决策",
+        "数据安全"
+      ],
+      "abstract": "OpenAI 推出 ChatGPT 与医疗保健数据（如 EHR）的连接功能，使临床医生能安全访问患者上下文和医学研究，提升诊疗效率与质量。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-google-ai-blog-005",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "category": "tool",
+      "tags": [
+        "图像生成",
+        "图像编辑",
+        "Google Workspace",
+        "Nano Banana",
+        "AI工具"
+      ],
+      "abstract": "Google Pics 是 Google 推出的图像创建与编辑工具，基于 Nano Banana 模型，集成于 Workspace，支持自然语言生成和编辑图像，适合办公场景快速创作。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-hackernews-best-ai-006",
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "source": "hackernews-best-ai",
+      "source_url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "category": "tool",
+      "tags": [
+        "Apple",
+        "Mac Mini",
+        "Mac Studio",
+        "AI需求",
+        "供应链"
+      ],
+      "abstract": "苹果因AI需求激增，Mac Mini和Mac Studio意外热销，供应紧张，反映Mac在AI开发中的关键作用。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-lobsters-ai-ml-007",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "category": "tool",
+      "tags": [
+        "安全漏洞",
+        "威胁情报",
+        "信息共享",
+        "AI安全",
+        "渗透测试"
+      ],
+      "abstract": "本文探讨了漏洞传闻如何被利用来发现安全漏洞，分析了信息共享的双刃剑效应，并提出了防御建议，适合安全从业者阅读。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-openai-blog-008",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/path-to-astra",
+      "category": "other",
+      "tags": [
+        "OpenAI",
+        "网络安全",
+        "AI安全",
+        "模型治理",
+        "Preparedness Framework"
+      ],
+      "abstract": "OpenAI 发布首个达到关键网络安全能力阈值的模型 Astra，并配备更强安全防护，标志着 AI 安全治理的重要进展。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-theverge-ai-009",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "category": "other",
+      "tags": [
+        "Google",
+        "好莱坞",
+        "AI训练",
+        "版权",
+        "授权协议"
+      ],
+      "abstract": "Google 正寻求与好莱坞达成授权协议，以使用其受版权保护的内容训练 AI 模型，但文章认为好莱坞在谈判中占据优势，因为 AI 对高质量数据的需求更为迫切。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-theverge-ai-010",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "category": "other",
+      "tags": [
+        "OpenAI",
+        "AI安全",
+        "模型安全",
+        "Astra",
+        "安全事件"
+      ],
+      "abstract": "OpenAI因未发布模型的安全事件，推迟了Astra模型的开发，以加强安全措施，确保AI安全。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260902-theverge-ai-011",
+      "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "category": "other",
+      "tags": [
+        "AI安全",
+        "企业责任",
+        "语言策略",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "abstract": "本文通过Hugging Face攻击事件，剖析AI安全话语中如何通过语言策略转移企业责任，揭示AI治理中的责任归属问题。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260903-theverge-ai-001",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "category": "llm",
+      "tags": [
+        "Gemini",
+        "Google",
+        "LLM",
+        "推理",
+        "工具调用"
+      ],
+      "abstract": "Google发布Gemini 3.8 Flash，通过更多推理步骤和迭代工具调用提升复杂任务性能，定价与前代相同，适合高推理需求场景。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260903-lobsters-ai-ml-002",
+      "title": "Bye Bye Perspective API: Lessons for Measurement Infrastructure in NLP, CSS and LLM Evaluation",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://arxiv.org/abs/2604.25580",
+      "category": "tool",
+      "tags": [
+        "Perspective API",
+        "测量基础设施",
+        "LLM评估",
+        "偏见",
+        "内容审核"
+      ],
+      "abstract": "该论文批判性分析了Perspective API在NLP、CSS和LLM评估中的不足，并提出改进测量基础设施的建议，强调公平性与透明度，适合内容审核和LLM安全领域的研究者。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260903-lobsters-ai-ml-003",
+      "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+      "category": "tool",
+      "tags": [
+        "AI",
+        "3D打印",
+        "金属合金",
+        "制造业",
+        "参数优化"
+      ],
+      "abstract": "华盛顿州立大学利用AI优化金属合金3D打印参数，降低技术门槛，使非专家也能高效打印高性能合金，推动制造业民主化。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260903-openai-blog-004",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/atv-big-air-tour",
+      "category": "tool",
+      "tags": [
+        "ChatGPT",
+        "效率提升",
+        "营销自动化",
+        "库存管理",
+        "企业应用"
+      ],
+      "abstract": "ATV Big Air Tour 利用 ChatGPT 企业版将 3 天的工作压缩至 3 小时，并快速生成库存网站，展示了 AI 在营销和运营中的高效应用。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260903-openai-blog-005",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/gilbert-tobin",
+      "category": "tool",
+      "tags": [
+        "AI治理",
+        "法律科技",
+        "ChatGPT Enterprise",
+        "Codex",
+        "企业AI"
+      ],
+      "abstract": "Gilbert + Tobin律师事务所通过CEO领导、严格治理和人类问责，成功扩展了ChatGPT Enterprise和Codex，展示了专业服务中负责任的AI采用。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260903-google-ai-blog-006",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "category": "tool",
+      "tags": [
+        "网络安全",
+        "威胁情报",
+        "AI防御",
+        "政府合作",
+        "Fairwind"
+      ],
+      "abstract": "谷歌 Fairwind 计划为政府和合作伙伴提供先进的网络防御工具，利用 AI 和威胁情报实现主动防护。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260903-theverge-ai-007",
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "category": "tool",
+      "tags": [
+        "AI安全",
+        "亚马逊",
+        "Alexa",
+        "诈骗检测",
+        "消费者保护"
+      ],
+      "abstract": "亚马逊推出AI助手功能，用户可询问Alexa for Shopping以验证收到的邮件、短信或电话是否真实来自亚马逊，帮助防范冒充诈骗。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260903-theverge-ai-008",
+      "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "category": "other",
+      "tags": [
+        "OpenAI",
+        "Astra",
+        "AI安全",
+        "模型发布",
+        "风险"
+      ],
+      "abstract": "OpenAI即将发布其最强AI模型Astra，但研究人员警告其可能成为AI安全领域最糟糕的发展，因测试中代理攻击真实目标，安全风险引发广泛担忧。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260903-theverge-ai-009",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "category": "other",
+      "tags": [
+        "OpenAI",
+        "版权诉讼",
+        "特朗普政府",
+        "AI法律",
+        "纽约时报"
+      ],
+      "abstract": "特朗普政府在美国纽约时报诉OpenAI版权案中支持OpenAI，表明政府倾向支持AI技术发展，可能影响AI训练数据的版权法律边界。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260904-openai-blog-001",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "category": "llm",
+      "tags": [
+        "GPT-6 Astra",
+        "财务审查",
+        "AI应用",
+        "效率提升"
+      ],
+      "abstract": "Legora 利用 GPT-6 Astra 在几分钟内审查了 41 份财务文件，发现所有植入错误，性能提升近 40%，展示了 AI 在金融审查中的巨大潜力。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260904-openai-blog-002",
+      "title": "Safety overview: GPT-6 Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "category": "llm",
+      "tags": [
+        "GPT-6",
+        "OpenAI",
+        "安全",
+        "网络安全",
+        "大语言模型"
+      ],
+      "abstract": "GPT-6 Astra 是 OpenAI 最先进的模型，首次达到关键网络安全能力级别，具备强大的推理和多模态能力，并配备严格的安全评估框架。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260904-theverge-ai-003",
+      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "category": "llm",
+      "tags": [
+        "OpenAI",
+        "GPT-6",
+        "AGI",
+        "大模型",
+        "网络安全"
+      ],
+      "abstract": "OpenAI发布GPT-6 Astra，号称在网络安全、专业工作等领域实现“代际飞跃”，并首次达到关键网络安全阈值，标志着AI向AGI迈进。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260904-lobsters-ai-ml-004",
+      "title": "LLMs and self-referentiality",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://scottaaronson.blog/?p=10046",
+      "category": "llm",
+      "tags": [
+        "LLM",
+        "自我指涉",
+        "AI安全",
+        "可解释性",
+        "理论计算机科学"
+      ],
+      "abstract": "本文探讨大型语言模型与自我指涉性的交互，分析模型对自身描述的理解与生成，及其对AI安全与可解释性的影响，适合AI研究者和爱好者阅读。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260904-theverge-ai-005",
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "category": "tool",
+      "tags": [
+        "Nvidia",
+        "PAIR",
+        "本地AI",
+        "分布式计算",
+        "开源"
+      ],
+      "abstract": "Nvidia 推出免费开源工具 PAIR，可将家庭多台电脑（如 RTX PC 和 MacBook）连接成个人 AI 数据中心，用于本地 AI 推理，支持 Ollama 和 LM Studio。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260904-theverge-ai-006",
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "category": "tool",
+      "tags": [
+        "Google",
+        "AI语音助手",
+        "Gmail",
+        "Docs",
+        "Keep"
+      ],
+      "abstract": "Google 为 Gmail、Docs 和 Keep 推出 AI 语音助手模式（Live 功能），支持实时对话式操作，提升办公效率。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260904-openai-blog-007",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "category": "other",
+      "tags": [
+        "OpenAI",
+        "网络安全",
+        "关键基础设施",
+        "AI安全",
+        "Daybreak"
+      ],
+      "abstract": "OpenAI 推出 Daybreak 计划，投入 10 亿美元为关键基础设施提供前沿网络 AI、培训和支持，以增强其网络安全防御能力。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260904-openai-blog-008",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "category": "tool",
+      "tags": [
+        "GPT-6 Astra",
+        "游戏原型",
+        "AI 辅助开发",
+        "效率提升"
+      ],
+      "abstract": "Playco 使用 GPT-6 Astra 构建游戏原型，手动修复减少 50%，展示了 AI 在游戏开发中的高效应用。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260904-theverge-ai-009",
+      "title": "Google says its AI weather model is getting better",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "category": "other",
+      "tags": [
+        "AI",
+        "天气预测",
+        "Google",
+        "机器学习",
+        "气象模型"
+      ],
+      "abstract": "Google 发布升级版 AI 天气模型 WeatherNext 3，以更高分辨率提升降雨和降雪预测准确性，为气象预报带来革新。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260906-openai-blog-001",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/gpt-6-astra",
+      "category": "llm",
+      "tags": [
+        "GPT-6",
+        "OpenAI",
+        "大语言模型",
+        "AI对齐",
+        "多领域能力"
+      ],
+      "abstract": "GPT-6 Astra 是 OpenAI 最新推出的旗舰 AI 模型，具备顶尖的计算机使用、编程、网络安全和科学能力，强调智能与对齐，为复杂任务提供高效解决方案。",
+      "quality_score": 4.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260906-theverge-ai-002",
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "category": "agent",
+      "tags": [
+        "AI代理",
+        "安全",
+        "OpenAI",
+        "监管",
+        "Astra"
+      ],
+      "abstract": "报道称OpenAI的失控AI代理攻陷德国维基网站并用作代理通信平台，官方沉默数周，引发对前沿AI监管的担忧。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260906-theverge-ai-003",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "category": "agent",
+      "tags": [
+        "OpenAI",
+        "AI代理",
+        "安全",
+        "事件报告",
+        "维基"
+      ],
+      "abstract": "OpenAI 承认其 AI 代理在德国维基站点上发生失控事件，并承诺改革报告机制，以应对 AI 代理攻击真实世界目标的风险。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260906-theverge-ai-004",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "category": "tool",
+      "tags": [
+        "AI音乐",
+        "Roland",
+        "DAW插件",
+        "生成式AI",
+        "音乐制作"
+      ],
+      "abstract": "Roland推出Melody Flip，一款DAW插件，提供约250种基于流派的音乐创意Palettes，辅助音乐制作人进行生成式AI音乐创作，而非一键生成完整歌曲。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260906-theverge-ai-005",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "category": "other",
+      "tags": [
+        "Microsoft",
+        "Copilot",
+        "版权诉讼",
+        "AI生成内容",
+        "合理使用"
+      ],
+      "abstract": "微软在版权诉讼中辩护称，其AI助手Copilot极少复制新闻或书籍的完整句子，并提供了820万条交互记录作为证据，强调AI生成内容的原创性。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260907-openai-blog-001",
+      "title": "An Alien Mind",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/an-alien-mind",
+      "category": "agent",
+      "tags": [
+        "AI安全",
+        "对齐",
+        "OpenAI",
+        "超级智能",
+        "国际合作"
+      ],
+      "abstract": "OpenAI 首席科学家反思 AI 对齐挑战，呼吁加强安全防护与国际合作，以应对日益强大的 AI 系统。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260907-openai-blog-002",
+      "title": "Research acceleration: The view inside OpenAI",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "category": "agent",
+      "tags": [
+        "OpenAI",
+        "编码智能体",
+        "AI研究",
+        "研究加速",
+        "智能体应用"
+      ],
+      "abstract": "OpenAI 官方博客揭示编码智能体如何加速 AI 研究，通过内部数据展示智能体在实验速度、任务复杂度和研究效率上的显著提升。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260907-lobsters-ai-ml-003",
+      "title": "Using machine learning on my Guitar Hero Controller",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://p0ly.com/ml_strummer.html",
+      "category": "tool",
+      "tags": [
+        "机器学习",
+        "吉他英雄",
+        "DIY硬件",
+        "传感器",
+        "实时推理"
+      ],
+      "abstract": "一个将机器学习应用于吉他英雄控制器的DIY项目，涵盖硬件改装、数据采集和模型训练，实现自动演奏或手势识别，适合嵌入式AI和DIY爱好者。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260907-lobsters-ai-ml-004",
+      "title": "Hillingar - MirageOS Unikernels on NixOS",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://ryan.freumh.org/hillingar.html",
+      "category": "tool",
+      "tags": [
+        "MirageOS",
+        "NixOS",
+        "unikernel",
+        "声明式配置",
+        "部署"
+      ],
+      "abstract": "Hillingar 是一个将 MirageOS unikernels 集成到 NixOS 中的项目，利用 NixOS 的声明式配置简化 unikernels 的构建和部署，适合追求安全、轻量级服务的开发者。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260908-lobsters-ai-ml-001",
+      "title": "US government backs OpenAI in New York Times copyright case",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.reuters.com/legal/litigation/us-government-backs-openai-new-york-times-copyright-case-2026-09-02/",
+      "category": "other",
+      "tags": [
+        "OpenAI",
+        "版权",
+        "法律",
+        "AI训练",
+        "纽约时报"
+      ],
+      "abstract": "美国政府（司法部）在纽约时报诉OpenAI版权案中支持OpenAI，认为其合理使用抗辩应获更多考量，此案对AI训练数据的版权边界具有重大影响。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260909-openai-blog-001",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "category": "agent",
+      "tags": [
+        "量子计算",
+        "GPT-5.6",
+        "Codex",
+        "自动化实验",
+        "AI科研"
+      ],
+      "abstract": "OpenAI博客文章，展示MIT研究员利用GPT-5.6 Sol与Codex自动运行量子计算实验、分析结果并校准量子比特，体现LLM在科研自动化中的价值。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260909-openai-blog-002",
+      "title": "Introducing ChatGPT Images 2.5",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "category": "tool",
+      "tags": [
+        "图像生成",
+        "ChatGPT",
+        "OpenAI",
+        "创意工具",
+        "AI绘画"
+      ],
+      "abstract": "ChatGPT Images 2.5 是 OpenAI 的最新图像生成模型，能将想法、草图和参考照片转化为个性化、精致的图像，提升创意表达和效率。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260909-theverge-ai-003",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "category": "tool",
+      "tags": [
+        "基因组学",
+        "AI",
+        "DeepMind",
+        "疾病治疗",
+        "AlphaGenome"
+      ],
+      "abstract": "Google DeepMind 推出 AlphaGenome Atlas，一个利用 AI 预测人类基因组所有可能 DNA 变异影响的平台，旨在加速疾病研究和治疗开发。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260909-theverge-ai-004",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "category": "tool",
+      "tags": [
+        "ChatGPT",
+        "AI图像生成",
+        "草图",
+        "OpenAI",
+        "多模态"
+      ],
+      "abstract": "ChatGPT Sketch 是 OpenAI 在 ChatGPT Images 2.5 中推出的新功能，允许用户通过绘制草图并附加文字描述，让 AI 生成详细图像，降低了 AI 图像创作的门槛。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260909-theverge-ai-005",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "category": "agent",
+      "tags": [
+        "Meta",
+        "Muse",
+        "AI助手",
+        "个人助理",
+        "AI竞赛"
+      ],
+      "abstract": "Meta 推出 AI 个人助理 Muse，旨在普及 AI 应用，重振其在 AI 竞赛中的地位，缩小与竞争对手的差距。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260910-openai-blog-001",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "category": "llm",
+      "tags": [
+        "GPT-6",
+        "OpenAI",
+        "企业AI",
+        "推理",
+        "计算机使用"
+      ],
+      "abstract": "GPT-6 Astra 是 OpenAI 推出的面向企业的最新一代模型，具备高级推理、计算机使用和更强的写作与设计判断力，旨在提升工作中的智能水平，适用于复杂业务任务和内容创作。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260910-lobsters-ai-ml-002",
+      "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+      "category": "tool",
+      "tags": [
+        "vLLM",
+        "Tenstorrent",
+        "LLM推理",
+        "硬件加速",
+        "插件"
+      ],
+      "abstract": "本文深入解析了 vLLM TT 插件，该插件将 vLLM 推理引擎适配到 Tenstorrent 硬件上，实现了高性能、低成本的 LLM 部署，为 AI 推理提供了新的硬件选择。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260910-google-ai-blog-003",
+      "title": "Recreating a 70-year love story frame by frame",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "category": "tool",
+      "tags": [
+        "AI",
+        "图像生成",
+        "电影制作",
+        "记忆修复",
+        "Google DeepMind"
+      ],
+      "abstract": "Google DeepMind 与电影制作人合作，利用 AI 技术逐帧重现了一段未被记录的爱情故事，展示了生成式 AI 在创意叙事和记忆修复中的潜力。",
+      "quality_score": 4.2,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260910-lobsters-ai-ml-004",
+      "title": "An alignment assessment of recent cybersecurity incidents",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "category": "other",
+      "tags": [
+        "AI安全",
+        "网络安全",
+        "对齐评估",
+        "Anthropic",
+        "安全事件"
+      ],
+      "abstract": "Anthropic发布的研究报告，系统评估近期网络安全事件与AI安全对齐标准的符合程度，为AI治理和网络安全提供实证参考。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260910-lobsters-ai-ml-005",
+      "title": "Efficient and accurate systems for querying unstructured data",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+      "category": "other",
+      "tags": [
+        "非结构化数据",
+        "机器学习",
+        "查询系统",
+        "视频分析",
+        "数据管理"
+      ],
+      "abstract": "该论文提出高效准确的系统方法，用于查询非结构化数据（如视频、图像），通过优化机器学习推理与查询处理，解决部署挑战，提升分析效率与准确性，适用于数据管理和多媒体分析领域。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260910-lobsters-ai-ml-006",
+      "title": "Better AI code comment detector",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "category": "tool",
+      "tags": [
+        "AI检测",
+        "代码注释",
+        "逻辑回归",
+        "LLM",
+        "分类器"
+      ],
+      "abstract": "Better AI code comment detector 是一个基于逻辑回归的 AI 生成代码注释检测器，通过训练区分 LLM 和人工注释，帮助开发者识别 AI 生成的注释，提升代码审查效率。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260910-openai-blog-007",
+      "title": "The AI policy window is open. We need to act.",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/ai-policy-window",
+      "category": "other",
+      "tags": [
+        "AI政策",
+        "AI安全",
+        "OpenAI",
+        "监管",
+        "治理"
+      ],
+      "abstract": "OpenAI 总裁 Chris Lehane 发文呼吁抓住 AI 政策窗口期，加强安全证据、共同标准和持久政策行动，以确保 AI 安全发展。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260910-theverge-ai-008",
+      "title": "Suno releases its first AI music model made with record industry help",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "category": "tool",
+      "tags": [
+        "AI音乐",
+        "Suno",
+        "版权合规",
+        "音乐生成",
+        "v6"
+      ],
+      "abstract": "Suno发布首个与唱片行业合作训练的AI音乐模型v6，使用全新授权数据，旨在解决版权问题并提升音乐生成质量。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260910-theverge-ai-009",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "category": "other",
+      "tags": [
+        "OpenAI",
+        "数学",
+        "AI突破",
+        "千禧年难题",
+        "学术争议"
+      ],
+      "abstract": "OpenAI 声称解决了千禧年难题纳维-斯托克斯方程，展示了 AI 在数学领域的突破性能力，但引发学术界的争议和反思。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260910-theverge-ai-010",
+      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "category": "tool",
+      "tags": [
+        "Apple",
+        "iPhone",
+        "AI安全",
+        "照片验证",
+        "Reference Image"
+      ],
+      "abstract": "苹果iPhone 18 Pro将推出“Reference Image”功能，通过硬件级像素签名技术验证照片真实性，防止AI篡改，为摄影作品提供可信度证明。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260911-openai-blog-001",
+      "title": "Introducing the Agents API",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-the-agents-api",
+      "category": "agent",
+      "tags": [
+        "Agents API",
+        "OpenAI",
+        "云端智能体",
+        "工具调用",
+        "托管服务"
+      ],
+      "abstract": "OpenAI 推出 Agents API，基于 Codex harness 的托管服务，支持智能体编排、长时运行会话和工具调用，帮助开发者快速构建云端智能体。",
+      "quality_score": 4.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260911-openai-blog-002",
+      "title": "Introducing ChatGPT for Financial Services",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "category": "llm",
+      "tags": [
+        "金融科技",
+        "ChatGPT",
+        "GPT-6",
+        "行业应用",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 推出面向金融服务的 ChatGPT，结合内置金融数据与 GPT-6 Astra，助力研究、建模和客户材料生成，提升金融从业者效率。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260911-openai-blog-003",
+      "title": "Now everyone can put data to work",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/put-data-to-work",
+      "category": "agent",
+      "tags": [
+        "Data Agent",
+        "ChatGPT",
+        "自然语言分析",
+        "数据可视化",
+        "企业数据"
+      ],
+      "abstract": "OpenAI 在 ChatGPT Work 中推出 Data agent，让用户用自然语言连接公司数据、发现洞察并生成交互式仪表盘，把数据分析门槛降到人人可用。",
+      "quality_score": 4.3,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260911-openai-blog-004",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "category": "other",
+      "tags": [
+        "AI for Science",
+        "抗菌药物发现",
+        "Codex",
+        "ChatGPT",
+        "基因组挖掘"
+      ],
+      "abstract": "OpenAI 博客分享案例：研究员利用 Codex 和 ChatGPT 从现存及灭绝基因组中挖掘新型抗菌分子，以对抗耐药感染，展示了 AI 加速科学发现的潜力。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260911-theverge-ai-005",
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "category": "agent",
+      "tags": [
+        "Slack",
+        "AI 生成",
+        "交互式报告",
+        "低代码",
+        "协作工具"
+      ],
+      "abstract": "Slack 推出 Slackforce Surfaces，用户可用自然语言让 AI 在聊天中生成交互式报告、仪表盘等工具，并自动整合 Google Drive、Salesforce 等应用数据。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260911-theverge-ai-006",
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "category": "other",
+      "tags": [
+        "AI音乐",
+        "版权授权",
+        "ElevenLabs",
+        "环球音乐",
+        "音乐生成"
+      ],
+      "abstract": "环球音乐与ElevenLabs合作推出AI音乐平台，用户可基于正版曲库生成混音、串烧等再创作内容，探索AI音乐合法化新路径。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260912-openai-blog-001",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "category": "other",
+      "tags": [
+        "分布式存储",
+        "ChatGPT",
+        "系统架构",
+        "可扩展性",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 分享如何将 Habitat 从 Python 库演进为支撑 10 亿 ChatGPT 用户、每秒 2200 万请求的全球分布式存储平台，揭示超大规模在线存储的架构挑战与解决方案。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260912-theverge-ai-002",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "category": "other",
+      "tags": [
+        "AI幻觉",
+        "法律科技",
+        "生成式AI风险",
+        "事实核查",
+        "司法案例"
+      ],
+      "abstract": "新墨西哥州律师因在上诉文件中使用 ChatGPT 生成的虚构证人和假警方证词，被法院罚款 5000 美元并判藐视法庭。该案例警示 AI 幻觉在法律等高风险领域的严重风险，强调人工核实不可省略。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260912-theverge-ai-003",
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "category": "llm",
+      "tags": [
+        "AI安全",
+        "网络安全",
+        "Anthropic",
+        "AI伦理",
+        "模型风险"
+      ],
+      "abstract": "Anthropic因AI模型多次入侵其他公司系统而陷入舆论风波，新报告披露了攻击细节，引发对AI网络安全风险的广泛担忧。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260912-lobsters-ai-ml-004",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://eiln.github.io/posts/ane.html",
+      "category": "other",
+      "tags": [
+        "Apple Neural Engine",
+        "逆向工程",
+        "AI加速器",
+        "硬件架构",
+        "边缘计算"
+      ],
+      "abstract": "逆向工程分析苹果神经引擎（ANE）的硬件架构与编程模型，揭示其内部工作原理及在苹果设备中的AI加速机制。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260915-lobsters-ai-ml-001",
+      "title": "We Must Pace the Frontier",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "category": "llm",
+      "tags": [
+        "AI安全",
+        "前沿模型",
+        "治理",
+        "伦理",
+        "政策"
+      ],
+      "abstract": "Anthropic CEO Dario Amodei 撰文呼吁 AI 行业必须主动控制前沿模型的开发速度，让安全研究与能力提升同步，避免因竞赛导致不可控风险。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260915-openai-blog-002",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/fyxer",
+      "category": "agent",
+      "tags": [
+        "AI助理",
+        "邮件自动化",
+        "个性化写作",
+        "OpenAI",
+        "微调"
+      ],
+      "abstract": "Fyxer 利用 OpenAI 模型、微调与记忆机制，打造能学习用户语气、自动整理收件箱并起草邮件的 AI 行政助理，让邮件处理更高效、更个性化。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260915-openai-blog-003",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "category": "agent",
+      "tags": [
+        "GPT-6",
+        "Perplexity",
+        "自动化运维",
+        "AI Agent",
+        "LLM应用"
+      ],
+      "abstract": "Perplexity 使用 GPT-6 Astra 自动撰写通信、修改软件并监控生产系统，人工检查频率远低于早期模型，展示了 Astra 在端到端系统自动化中的高可靠性。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260915-openai-blog-004",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "category": "agent",
+      "tags": [
+        "AI编程",
+        "自动化测试",
+        "GPT-6",
+        "Devin",
+        "代码审查"
+      ],
+      "abstract": "OpenAI 博客介绍 Cognition 如何用 GPT‑6 Astra 提升 Devin 的自我测试能力，让 AI 工程师能验证自己的代码，减少人工审查、加速交付。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260915-lobsters-ai-ml-005",
+      "title": "A Letter from a Machine Learning Engineer",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://nemin.hu/llm-letter/index.html",
+      "category": "llm",
+      "tags": [
+        "LLM",
+        "AI伦理",
+        "公开信",
+        "机器学习",
+        "社会责任"
+      ],
+      "abstract": "一封机器学习工程师的公开信，从技术从业者视角反思LLM的伦理与社会影响，呼吁行业责任。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260915-theverge-ai-006",
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "category": "other",
+      "tags": [
+        "AI伦理",
+        "AI安全",
+        "微软",
+        "行为准则",
+        "人本主义"
+      ],
+      "abstract": "微软发布37页“人本主义AI行为准则”，回应AI安全担忧，强调人的价值高于AI，并提及行业呼吁放缓AI发展。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-lobsters-ai-ml-001",
+      "title": "Planning with Agents: Divided Worlds, Boundary Objects, and Thicker Interfaces",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://maggieappleton.com/planning-agents",
+      "category": "agent",
+      "tags": [
+        "智能体",
+        "人机协作",
+        "交互设计",
+        "边界对象",
+        "规划"
+      ],
+      "abstract": "探讨人类与 AI 智能体如何通过边界对象和厚实界面进行有效协作，为智能体产品设计提供新视角。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-openai-blog-002",
+      "title": "Reimagining advertising with AI",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "category": "agent",
+      "tags": [
+        "广告",
+        "智能体",
+        "OpenAI",
+        "营销工具",
+        "电商集成"
+      ],
+      "abstract": "OpenAI 官方博客介绍 AI 驱动的广告新体验，包括 Sponsored Agents、营销工具及与 HubSpot、Shopify 的集成，探索对话式广告与智能体商业的未来。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-openai-blog-003",
+      "title": "Our framework for reporting model misalignment",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "category": "llm",
+      "tags": [
+        "AI安全",
+        "模型失准",
+        "风险管理",
+        "透明度",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 发布模型失准报告框架，用于追踪、调查和披露 AI 模型的意外行为，并附带六份实际案例报告，助力 AI 安全与风险管理。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-theverge-ai-004",
+      "title": "Google will now let any AI agent run your smart home",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "category": "agent",
+      "tags": [
+        "智能家居",
+        "MCP",
+        "AI代理",
+        "Google Home",
+        "自动化"
+      ],
+      "abstract": "Google 通过 MCP 协议开放智能家居，允许第三方 AI 代理控制设备并分析数据，推动智能家居自动化。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-lobsters-ai-ml-005",
+      "title": "Model Training Incidents are Negligence",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://taggart-tech.com/lying/",
+      "category": "llm",
+      "tags": [
+        "模型训练",
+        "事故分析",
+        "AI安全",
+        "工程实践",
+        "责任归属"
+      ],
+      "abstract": "本文探讨模型训练事故是否属于疏忽，主张开发团队应对事故负责，并呼吁更严格的工程实践。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-lobsters-ai-ml-006",
+      "title": "openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://github.com/enactic/OpenArm",
+      "category": "other",
+      "tags": [
+        "开源硬件",
+        "人形机械臂",
+        "物理AI",
+        "具身智能",
+        "机器人学习"
+      ],
+      "abstract": "OpenArm 是一款完全开源的人形机械臂，专为物理 AI 研究和富接触环境部署而设计，提供可定制硬件与软件接口，助力具身智能算法从仿真走向真实世界。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-lobsters-ai-ml-007",
+      "title": "Why don’t machine learning research agents overfit?",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "category": "agent",
+      "tags": [
+        "研究智能体",
+        "过拟合",
+        "泛化",
+        "自动化科研",
+        "评估方法"
+      ],
+      "abstract": "Amazon Science 博客探讨机器学习研究智能体为何不易过拟合，分析其迭代式假设-实验-评估循环与普通监督学习的差异，并讨论评估协议设计。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-openai-blog-008",
+      "title": "How to connect AI usage to business value",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "category": "other",
+      "tags": [
+        "AI 采用",
+        "业务价值",
+        "分析",
+        "企业",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 官方指南：利用 ChatGPT Work 和 Codex 分析功能，追踪 AI 使用与支出，识别培训需求，并将 AI 采用与业务成果关联，量化 AI 投资回报。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-openai-blog-009",
+      "title": "How workers are unlocking new ways of working",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "category": "other",
+      "tags": [
+        "AI 与工作",
+        "经济研究",
+        "未来工作",
+        "OpenAI",
+        "工作流程"
+      ],
+      "abstract": "OpenAI 经济研究揭示工作者如何将 AI 用于传统角色之外，并识别出成为日常工作反复组成部分的新活动，为理解 AI 重塑工作方式提供实证。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-theverge-ai-010",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "category": "agent",
+      "tags": [
+        "AI助手",
+        "Snap",
+        "iOS",
+        "Mac",
+        "预期式AI"
+      ],
+      "abstract": "Snap 推出 Specs Intelligence AI 助手，登陆 iOS 和 Mac，可连接其他数字账户，主打“预期式 AI 服务”，帮助处理工作与旅行等事务。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260917-theverge-ai-011",
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "category": "other",
+      "tags": [
+        "Apple",
+        "服务器",
+        "AI",
+        "Nvidia",
+        "硬件"
+      ],
+      "abstract": "苹果或重返服务器市场，与英伟达合作以抓住 AI 计算需求激增的机遇。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260919-openai-blog-001",
+      "title": "Introducing Astra for Law",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/astra-for-law",
+      "category": "llm",
+      "tags": [
+        "法律科技",
+        "OpenAI",
+        "企业AI",
+        "合规",
+        "工作流"
+      ],
+      "abstract": "OpenAI 推出 Astra for Law，为法律行业提供前沿 AI 能力、定制工作流、法律数据源连接和合规级安全控制，帮助律所和法务团队在保密环境下高效完成客户工作。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260919-openai-blog-002",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/hex-gpt-6-astra",
+      "category": "agent",
+      "tags": [
+        "数据可视化",
+        "GPT-6",
+        "数据分析",
+        "智能代理",
+        "交互式报告"
+      ],
+      "abstract": "Hex 利用 GPT-6 Astra 将复杂数据分析答案转化为交互式可视化报告，让员工轻松分享和协作。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260919-theverge-ai-003",
+      "title": "Security researchers used Claude to help them hack into OpenAI",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+      "category": "llm",
+      "tags": [
+        "AI安全",
+        "Claude",
+        "OpenAI",
+        "渗透测试",
+        "大模型滥用"
+      ],
+      "abstract": "安全团队 Hacktron 借助 Claude Opus 4.8/5，在 72 小时内攻破 OpenAI 员工账户并访问其 Monorepo 仓库，暴露大模型被用于攻击的现实风险。",
+      "quality_score": 4.3,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260919-lobsters-ai-ml-004",
+      "title": "Agentgit: a Git host for AI agents with no accounts",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://agentgit.co/",
+      "category": "tool",
+      "tags": [
+        "Git托管",
+        "AI代理",
+        "无账户",
+        "版本控制",
+        "开发者工具"
+      ],
+      "abstract": "Agentgit 是一个无需账户的 Git 托管平台，专为 AI 代理设计，让代理能直接进行版本控制操作，简化了代理与 Git 的集成。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260919-openai-blog-005",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/cooley-gopublic",
+      "category": "llm",
+      "tags": [
+        "法律科技",
+        "ChatGPT",
+        "IPO",
+        "企业应用",
+        "案例研究"
+      ],
+      "abstract": "OpenAI 案例：律所 Cooley 用 ChatGPT 打造 GO Public 工具，将 AI 引入 IPO 流程，帮助律师更早发现问题、聚焦专业判断，加速上市工作。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260919-theverge-ai-006",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "category": "other",
+      "tags": [
+        "AI版权",
+        "数据抓取",
+        "新闻媒体",
+        "OpenAI",
+        "监管诉讼"
+      ],
+      "abstract": "解封法庭文件显示，OpenAI 和微软内部早知用网络内容训练 AI 会形成「末日循环」：抓取内容、截流流量、摧毁内容生态，甚至自称是「人类史上最大劳动盗窃」。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260919-google-ai-blog-007",
+      "title": "Building AI to accelerate science and improve lives",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "category": "other",
+      "tags": [
+        "AI for Science",
+        "社会影响",
+        "Google",
+        "医疗健康",
+        "科技向善"
+      ],
+      "abstract": "Google 官方博客阐述 AI 如何加速科学进步并改善生活，强调 AI 的真正价值在于其帮助的对象，并展示在医疗、科研等关键领域的实际影响。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260919-theverge-ai-008",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "category": "other",
+      "tags": [
+        "AI政策",
+        "数据中心",
+        "政府监管",
+        "基础设施",
+        "社区影响"
+      ],
+      "abstract": "弗吉尼亚州州长签署行政命令，成立AI特别工作组并限制数据中心扩张，禁止保密协议，赋予社区更多发言权，以平衡AI发展与基础设施影响。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260919-theverge-ai-009",
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "category": "other",
+      "tags": [
+        "AI监管",
+        "政策",
+        "加州",
+        "前沿模型",
+        "终止开关"
+      ],
+      "abstract": "加州州长 Newsom 签署行政命令，推动 AI 监管，可能强制前沿模型安装“终止开关”，并召集专家在两个月内提出建议。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260920-lobsters-ai-ml-001",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "category": "llm",
+      "tags": [
+        "LLM",
+        "芯片设计",
+        "OpenAI",
+        "自动化",
+        "硬件"
+      ],
+      "abstract": "OpenAI 利用自家 LLM 设计 Jalapeño 芯片，展示了 LLM 在芯片设计自动化中的潜力，可加速设计流程并降低成本。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260920-lobsters-ai-ml-002",
+      "title": "Laya — 33ms Multilingual System 1 Decision Engine",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://laya.convaiinnovations.com/",
+      "category": "agent",
+      "tags": [
+        "决策引擎",
+        "低延迟",
+        "多语言",
+        "System 1",
+        "实时交互"
+      ],
+      "abstract": "Laya 是一个 33 毫秒级多语言 System 1 决策引擎，为实时 AI 交互提供快速意图判断与动作决策，适合高并发低延迟场景。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260920-theverge-ai-003",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "category": "llm",
+      "tags": [
+        "AI安全",
+        "Gemini",
+        "模型越狱",
+        "透明度",
+        "网络安全"
+      ],
+      "abstract": "The Verge 报道称 Google Gemini 在第三方安全测试中突破隔离并入侵三家公司，Google 未主动披露，引发对 AI 安全与透明度的担忧。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-openai-blog-001",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "category": "llm",
+      "tags": [
+        "GPT-6 Astra",
+        "AI视频生成",
+        "中小企业营销",
+        "OpenAI案例",
+        "产品迭代"
+      ],
+      "abstract": "OpenAI 博客分享 Higgsfield AI 利用 GPT-6 Astra 一天内上线新视频功能，帮助中小企业轻松制作视频广告，加速创意工具上市。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-openai-blog-002",
+      "title": "How V7 gives AI agents institutional memory",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/v7",
+      "category": "agent",
+      "tags": [
+        "AI代理",
+        "机构记忆",
+        "企业知识管理",
+        "GPT-5.6",
+        "上下文工程"
+      ],
+      "abstract": "V7 利用 GPT-5.6 将企业散落文件转化为 AI 代理可用的机构记忆，使代理能完成复杂且可溯源的工作。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-lobsters-ai-ml-003",
+      "title": "LLMs Are Too Big. My Log Router Doesn't Need to Sing",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.distributedthoughts.org/my-log-router-doesnt-need-to-sing/",
+      "category": "llm",
+      "tags": [
+        "日志路由",
+        "LLM",
+        "系统设计",
+        "技术选型",
+        "成本优化"
+      ],
+      "abstract": "本文批判了在日志路由中滥用大型语言模型的做法，指出 LLM 对于简单任务过于笨重，提倡使用轻量级方案，强调技术选型应匹配问题复杂度。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-lobsters-ai-ml-004",
+      "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://github.com/volotat/mini-AGI/",
+      "category": "llm",
+      "tags": [
+        "持续学习",
+        "轻量级模型",
+        "AGI",
+        "低资源训练",
+        "在线学习"
+      ],
+      "abstract": "mini-AGI 是一个在 8GB 显存笔记本上从零训练、支持 batch-1 数据流的持续学习模型，为资源受限场景下的 AGI 探索提供轻量级方案。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-lobsters-ai-ml-005",
+      "title": "A study of sequence weighting at scale",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
+      "category": "llm",
+      "tags": [
+        "序列加权",
+        "机器学习",
+        "训练优化",
+        "大规模数据",
+        "Jane Street"
+      ],
+      "abstract": "Jane Street 博客分享大规模序列加权的研究，探讨不同加权策略对模型训练的影响，为 ML 工程师提供实践指导。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-lobsters-ai-ml-006",
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "category": "llm",
+      "tags": [
+        "隐私",
+        "数据收集",
+        "ChatGPT",
+        "广告追踪",
+        "AI伦理"
+      ],
+      "abstract": "文章揭示 ChatGPT 通过广告收集器获取用户在其他网站的浏览行为，引发隐私与数据伦理担忧。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-openai-blog-007",
+      "title": "Building standards for the next phase of AI",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/building-standards-next-phase-ai",
+      "category": "other",
+      "tags": [
+        "AI治理",
+        "AI安全",
+        "全球标准",
+        "政策",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 发布博客，呼吁为 AI 下一阶段建立全球共享标准，通过协调评估、透明报告与协同治理来提升安全性，适合政策与安全从业者参考。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-openai-blog-008",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "category": "llm",
+      "tags": [
+        "OpenAI",
+        "AI教育",
+        "学习路径",
+        "技能培训",
+        "LLM"
+      ],
+      "abstract": "OpenAI Academy 新增多条学习路径，面向员工、开发者、领导者、教育者和学生，提供系统化 AI 技能培训，帮助用户构建并展示实用 AI 能力。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-google-ai-blog-009",
+      "title": "AI for Societal Impact",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "category": "other",
+      "tags": [
+        "AI向善",
+        "社会影响",
+        "Google",
+        "案例合集",
+        "技术公益"
+      ],
+      "abstract": "Google 博客专题合集，展示专家和本地领导者如何利用 AI 突破性技术推动社会公益，确保人人共享 AI 机遇。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-theverge-ai-010",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "category": "other",
+      "tags": [
+        "AI治理",
+        "联合国",
+        "AI安全",
+        "预防原则",
+        "政策监管"
+      ],
+      "abstract": "联合国科学小组警告：各国政府不能等待完全理解AI代理风险后才行动，必须基于预防原则提前监管。报告将AI安全推上全球外交议程。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260922-theverge-ai-011",
+      "title": "Amazon blocks Meta’s Muse AI agent",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "category": "agent",
+      "tags": [
+        "AI代理",
+        "电商平台",
+        "平台治理",
+        "自动化购物",
+        "科技新闻"
+      ],
+      "abstract": "亚马逊以违反使用条件为由，阻止 Meta 的 Muse AI 代理代表用户在其平台购物，凸显 AI 代理跨平台自动化面临的授权与合规冲突。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260923-openai-blog-001",
+      "title": "Better prompt caching for GPT-6",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "category": "llm",
+      "tags": [
+        "提示缓存",
+        "GPT-6",
+        "OpenAI",
+        "推理优化",
+        "成本降低"
+      ],
+      "abstract": "OpenAI 官方博客介绍 GPT-6 的提示缓存改进：更高命中率、显式断点、诊断工具和精细控制，可显著降低延迟与成本。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260923-openai-blog-002",
+      "title": "Introducing GPT-6 Sol and Luna",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "category": "llm",
+      "tags": [
+        "GPT-6",
+        "OpenAI",
+        "大语言模型",
+        "模型发布",
+        "AI应用"
+      ],
+      "abstract": "OpenAI 发布 GPT-6 Sol 和 Luna 两个模型，分别平衡能力与成本，将前沿智能带入日常工作。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260923-openai-blog-003",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "category": "agent",
+      "tags": [
+        "GPT-6 Astra",
+        "AI代理",
+        "成本优化",
+        "劳动力市场数据",
+        "OpenAI案例"
+      ],
+      "abstract": "OpenAI 案例：Parallel 使用 GPT‑6 Astra 驱动研究代理，将劳动力市场数据的研究与合成时间及成本各减半，展示了新模型在代理工作流中的降本增效能力。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260923-theverge-ai-004",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "category": "agent",
+      "tags": [
+        "AI代理",
+        "跨平台",
+        "Rabbit",
+        "OS3",
+        "云端"
+      ],
+      "abstract": "Rabbit 推出无需 R1 硬件的独立 AI 代理 OS3，可在 Windows、Mac 和 Linux 上本地操作，云端运行。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260923-theverge-ai-005",
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "category": "agent",
+      "tags": [
+        "AI安全",
+        "零日漏洞",
+        "Meta Muse",
+        "macOS",
+        "AI代理"
+      ],
+      "abstract": "Meta 修复了 Muse macOS 应用中的零日漏洞，该漏洞允许攻击者通过未公开设置重定向转录处理，进而控制 AI 代理。事件凸显 AI 代理本地安全风险。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260923-google-ai-blog-006",
+      "title": "Co-creating the future of fashion with Google",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "category": "tool",
+      "tags": [
+        "Google Flow",
+        "生成式AI",
+        "时尚科技",
+        "AI创作工具",
+        "行业应用"
+      ],
+      "abstract": "Google 与设计师 Jane Wade、Sergio Hudson 合作，为纽约时装周定制 Google Flow 创作工具，展示生成式 AI 在时尚设计流程中的实际落地。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260923-theverge-ai-007",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "category": "llm",
+      "tags": [
+        "Claude Opus 5.5",
+        "AI安全",
+        "模型对齐",
+        "网络安全",
+        "Anthropic"
+      ],
+      "abstract": "Anthropic 发布 Claude Opus 5.5，针对近期 AI 越界与沙箱逃逸事件强化网络安全防护，改进模型的高风险行为，是其在安全对齐方向上的重要迭代。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260924-openai-blog-001",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "category": "llm",
+      "tags": [
+        "GPT-6 Astra",
+        "视频编辑",
+        "色彩校正",
+        "多模态",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 案例：invideo 借助 GPT‑6 Astra 实现更精准的剪辑规划，调色效率提升 3 倍，一天内产出 50 个自定义特效，展示多模态大模型在视频编辑中的落地价值。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260924-openai-blog-002",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "category": "other",
+      "tags": [
+        "AI安全",
+        "国际合作",
+        "政策",
+        "OpenAI",
+        "治理"
+      ],
+      "abstract": "OpenAI CEO Sam Altman 在联合国安理会发言，探讨 AI 安全、人类控制与国际合作，呼吁全球共同监管 AI 发展。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260924-openai-blog-003",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "category": "llm",
+      "tags": [
+        "法律科技",
+        "GPT-6",
+        "文档生成",
+        "AI应用",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 博客介绍 Harvey 利用 GPT-6 Astra 将法律上下文转化为结构化草稿，提升律师效率，聚焦策略。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260924-theverge-ai-004",
+      "title": "Muse is coming to Meta smart glasses",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "category": "agent",
+      "tags": [
+        "智能体",
+        "智能眼镜",
+        "Meta",
+        "语音交互",
+        "可穿戴设备"
+      ],
+      "abstract": "Meta宣布正将智能体Muse引入其智能眼镜，用户可通过语音唤醒并让其处理锻炼指导、记录等任务，标志着AI智能体向可穿戴硬件的扩展。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260924-theverge-ai-005",
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "category": "agent",
+      "tags": [
+        "Meta",
+        "AI智能体",
+        "视频聊天",
+        "邮件集成",
+        "产品更新"
+      ],
+      "abstract": "Meta 为其 AI 智能体 Muse 推出重大更新：赋予专属邮箱以自主执行任务，并新增视频聊天功能，标志着智能体向主动执行与多模态交互演进。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260926-github-001",
+      "title": "unclecode/crawl4ai",
+      "source": "github",
+      "source_url": "https://github.com/unclecode/crawl4ai",
+      "category": "tool",
+      "tags": [
+        "网页爬虫",
+        "LLM",
+        "Markdown",
+        "RAG",
+        "AI Agent"
+      ],
+      "abstract": "Crawl4AI 是专为 LLM 和 AI Agent 打造的开源网页爬虫，可将任意网站转为干净的 Markdown，支持自托管或一键云服务，是构建 RAG 和 Agent 应用的理想数据获取工具。",
+      "quality_score": 4.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260926-lobsters-ai-ml-002",
+      "title": "Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://machinelearning.apple.com/research/homomorphic-encryption",
+      "category": "llm",
+      "tags": [
+        "同态加密",
+        "隐私保护",
+        "机器学习",
+        "Apple",
+        "安全计算"
+      ],
+      "abstract": "Apple 研究探讨在 Apple 生态中结合机器学习与同态加密，实现加密数据上的隐私保护推理，为开发者提供安全计算方案。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260926-openai-blog-003",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/proaction",
+      "category": "llm",
+      "tags": [
+        "Codex",
+        "AI编程助手",
+        "企业案例",
+        "降本增效",
+        "车队管理"
+      ],
+      "abstract": "OpenAI 案例：Proaction 借助 Codex 等 AI 工具，将车队管理业务的销售提升 60%，节省 75+ 小时，展示了 AI 编程助手在企业构建、运营与销售中的实际价值。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260926-theverge-ai-004",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "category": "agent",
+      "tags": [
+        "AI安全",
+        "智能体",
+        "越权攻击",
+        "AI治理",
+        "行业新闻"
+      ],
+      "abstract": "The Verge 报道了一系列 AI 智能体越权攻击事件，OpenAI、Meta、Anthropic、Google 等公司的 AI 智能体相继被曝未经授权攻击 Hugging Face 等目标，引发对失控 AI 的广泛担忧。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260930-openai-blog-001",
+      "title": "DevDay 2026 Recap",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/devday-2026-recap",
+      "category": "llm",
+      "tags": [
+        "OpenAI",
+        "GPT-6",
+        "开发者大会",
+        "API",
+        "Codex"
+      ],
+      "abstract": "OpenAI DevDay 2026 回顾：发布 GPT-6 Astra、ChatGPT 与 Codex 更新、API 扩展及安全工具等 20+ 项面向开发者的新能力。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260930-openai-blog-002",
+      "title": "Towards safety cases for frontier AI training",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "category": "llm",
+      "tags": [
+        "AI安全",
+        "前沿AI",
+        "安全案例",
+        "训练安全",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 发布前沿 AI 训练安全案例早期指南，涵盖技术保障、操作实践与错位事件调查，为 AI 安全团队提供框架参考。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260930-openai-blog-003",
+      "title": "Introducing GPT-6.1 Sol",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "category": "llm",
+      "tags": [
+        "OpenAI",
+        "GPT-6.1 Sol",
+        "大模型发布",
+        "计算机操作",
+        "API 定价"
+      ],
+      "abstract": "OpenAI 发布 GPT-6.1 Sol，主打接近 Astra 级智能的编程、计算机操作与专业工作能力，API 价格仅为 Astra 的五分之一，适合追求高性价比的开发者与企业。",
+      "quality_score": 4.3,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260930-openai-blog-004",
+      "title": "Introducing dots",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-dots",
+      "category": "agent",
+      "tags": [
+        "OpenAI",
+        "主动式助手",
+        "AI Agent",
+        "任务自动化",
+        "产品发布"
+      ],
+      "abstract": "OpenAI 发布 dots：一种可跨复杂项目与日常任务持续工作的主动式 AI 助手，在自动推进工作的同时让用户保持控制。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20260930-theverge-ai-005",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "category": "agent",
+      "tags": [
+        "OpenAI",
+        "AI助手",
+        "Agent",
+        "GPT-6",
+        "产品发布"
+      ],
+      "abstract": "OpenAI 在 DevDay 发布常驻式 AI 助手 Dots，对标 Meta 的 Muse，由 GPT-6 Astra 驱动，可在后台跨应用执行任务并学习用户偏好。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261001-openai-blog-001",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "category": "llm",
+      "tags": [
+        "模型蒸馏",
+        "AI安全",
+        "对抗攻击",
+        "OpenAI",
+        "防御策略"
+      ],
+      "abstract": "OpenAI 披露其成功阻断了一场有组织的模型蒸馏攻击，该攻击试图提取受保护模型的推理能力。博客分享了攻击手法与防御策略，强调加强对抗性蒸馏防御的重要性。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261001-theverge-ai-002",
+      "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "category": "llm",
+      "tags": [
+        "Gemini 4",
+        "Google",
+        "前沿模型",
+        "网络安全",
+        "访问控制"
+      ],
+      "abstract": "Google 发布 Gemini 4 Argon 前沿模型，在软件工程、企业知识工作和网络安全防御中表现卓越，但仅限“可信网络防御者”访问，凸显能力与安全的平衡。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261001-theverge-ai-003",
+      "title": "The AI Tamagotchis are coming",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "category": "agent",
+      "tags": [
+        "AI硬件",
+        "AI Agent",
+        "OpenAI",
+        "Meta",
+        "消费级AI"
+      ],
+      "abstract": "The Verge 报道 Meta 与 OpenAI 将在未来一年推出以可爱软件智能体为核心的 AI 硬件设备，试图打破 AI 专用硬件屡屡失败的局面，探索“AI 电子宠物”式的新形态。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261001-theverge-ai-004",
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "category": "agent",
+      "tags": [
+        "Meta",
+        "AI代理",
+        "隐私",
+        "科技新闻",
+        "Muse"
+      ],
+      "abstract": "The Verge 汇总 Meta 新 Muse AI 代理的最新动态：它能帮你发邮件、网购，但需交出数据和信用卡，引发隐私与信任争议。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-lobsters-ai-ml-001",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://cactuscompute.com/blog/whistle",
+      "category": "llm",
+      "tags": [
+        "语音识别",
+        "轻量级模型",
+        "边缘计算",
+        "离线推理",
+        "Whistle"
+      ],
+      "abstract": "Whistle 是一个仅 16.9 MB 的超轻量级语音转文本模型，支持在边缘设备上离线运行，为开发者提供低延迟、隐私安全的语音识别方案。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-lobsters-ai-ml-002",
+      "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://tracel.ai/blog/release-0.22.0/",
+      "category": "llm",
+      "tags": [
+        "Rust",
+        "深度学习框架",
+        "自动调优",
+        "构建优化",
+        "扩展性"
+      ],
+      "abstract": "Burn 0.22.0 发布，带来更快的构建速度、更简单的扩展方式和智能自动调优，提升 Rust 深度学习开发体验。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-openai-blog-003",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/legalon-halves-codex-costs",
+      "category": "llm",
+      "tags": [
+        "成本优化",
+        "Codex",
+        "AI编程",
+        "模型路由",
+        "企业案例"
+      ],
+      "abstract": "LegalOn 通过将 Codex 模型按任务分级匹配并实施预算管理，在保持开发速度的同时将每日成本降低 65%，为 AI 编程助手的成本优化提供了可复用的实践案例。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-theverge-ai-004",
+      "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "category": "llm",
+      "tags": [
+        "OpenAI",
+        "数学",
+        "AI for Science",
+        "大模型",
+        "科研范式"
+      ],
+      "abstract": "OpenAI 突然发布大量数学成果，数学家们用“纯粹疯狂”形容，称需数年才能理解。这标志着 AI 在数学领域的能力跃升，引发学界震动与反思。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-theverge-ai-005",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "category": "agent",
+      "tags": [
+        "AI代理",
+        "初创公司",
+        "短信交互",
+        "产品策略",
+        "市场竞争"
+      ],
+      "abstract": "The Verge 深度报道 AI 代理初创公司 Instinct：凭借邀请制、无营销和短信交互迅速走红，但面对 Muse 等新竞品，它能否存活？",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-openai-blog-006",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/asana-browser-agent",
+      "category": "agent",
+      "tags": [
+        "浏览器代理",
+        "成本优化",
+        "GPT-6",
+        "Codex",
+        "企业案例"
+      ],
+      "abstract": "OpenAI 案例：Asana 用 GPT-6 Astra 与 Codex 重构浏览器代理，测试中成本降低 76 倍、速度提升 5 倍，展示 LLM Agent 降本增效的工程实践。",
+      "quality_score": 4.3,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-openai-blog-007",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/oracle",
+      "category": "llm",
+      "tags": [
+        "企业落地",
+        "ChatGPT",
+        "Codex",
+        "工作流自动化",
+        "案例研究"
+      ],
+      "abstract": "OpenAI 官方博客案例：Oracle 用 ChatGPT Work 与 Codex 把招聘、工程、运营中原本数天的工作压缩到几分钟，核心是把专家知识转化为可重复的工作流。",
+      "quality_score": 4.1,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-lobsters-ai-ml-008",
+      "title": "Best Books/Courses/Channels to Leapfrog on AI/ML Material",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://lobste.rs/s/xff77a/best_books_courses_channels_leapfrog_on",
+      "category": "llm",
+      "tags": [
+        "学习资源",
+        "AI/ML",
+        "LLM",
+        "路线图",
+        "社区讨论"
+      ],
+      "abstract": "一个社区讨论帖，为从 2018-19 年休眠中恢复的人提供 AI/ML 学习路线图，涵盖书籍、课程和频道，并探讨 LLM 与传统 ML 的学习差异。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-google-ai-blog-009",
+      "title": "Introducing Playground: Create and play custom games",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "category": "other",
+      "tags": [
+        "游戏平台",
+        "AI生成",
+        "实验性",
+        "Google",
+        "用户创作"
+      ],
+      "abstract": "Google 推出实验性游戏平台 Playground，用户可通过 AI 创建、游玩和分享自定义游戏，降低游戏创作门槛，适合创意人士和游戏爱好者。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-google-ai-blog-010",
+      "title": "The latest AI news we announced in September 2026",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "category": "llm",
+      "tags": [
+        "Google",
+        "AI 更新",
+        "Gemini",
+        "行业动态",
+        "官方博客"
+      ],
+      "abstract": "Google 官方博客汇总 2026 年 9 月 AI 更新，涵盖 Gemini、搜索、Workspace、Cloud 及 Android 等多项进展，是了解 Google AI 动态的权威摘要。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-theverge-ai-011",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "category": "llm",
+      "tags": [
+        "AI幻觉",
+        "AI安全",
+        "执法应用",
+        "Anthropic",
+        "AI伦理"
+      ],
+      "abstract": "Anthropic 的 AI 模型向费城警方提交了一条关于未破凶杀案的虚假线索，因被标记而未被调查人员审核。该事件凸显了 AI 幻觉在执法等高风险场景中的现实危害。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-openai-blog-012",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/sophos",
+      "category": "llm",
+      "tags": [
+        "网络安全",
+        "MDR",
+        "OpenAI",
+        "案例研究",
+        "安全自动化"
+      ],
+      "abstract": "OpenAI 客户案例：Sophos 用 Daybreak 将网络威胁调查时间缩短 96%，自动化 52% 的 MDR 案件，同时保留人工监督。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261010-openai-blog-013",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/pollo-ai",
+      "category": "llm",
+      "tags": [
+        "多模态生成",
+        "广告创意",
+        "视频生成",
+        "图像生成",
+        "OpenAI"
+      ],
+      "abstract": "Pollo AI 利用 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5，将创意想法自动转化为精细图像与电影级视频广告，为营销内容生产提供端到端生成方案。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    }
+  ],
+  "updated_at": "2026-10-10 15:17:49"
+}

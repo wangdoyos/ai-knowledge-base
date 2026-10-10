@@ -1,0 +1,22 @@
+{
+  "id": "20261010-theverge-ai-005",
+  "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+  "summary": "本文是 The Verge 对 AI 代理初创公司 Instinct 的深度报道。Instinct 于 2025 年 8 月推出，采用邀请制、无营销、几乎无官网的独特策略，却迅速成为 AI 领域的热门话题。其核心产品是一个基于短信的 AI 代理，用户通过文本消息即可完成订餐、预订、信息查询等日常任务，界面简洁直观，获得广泛好评。然而，随着 Muse 等新竞品的出现，Instinct 面临严峻挑战。文章通过亲身体验和行业分析，探讨了 Instinct 的兴起、产品特点、市场定位以及能否在竞争激烈的 AI 代理赛道中存活。适合对 AI 代理、初创公司策略和产品设计感兴趣的读者。",
+  "abstract": "The Verge 深度报道 AI 代理初创公司 Instinct：凭借邀请制、无营销和短信交互迅速走红，但面对 Muse 等新竞品，它能否存活？",
+  "tags": [
+    "AI代理",
+    "初创公司",
+    "短信交互",
+    "产品策略",
+    "市场竞争"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Allison Johnson",
+  "published_at": "2026-10-09T10:00:00-04:00",
+  "fetched_at": "2026-10-10T15:13:57+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

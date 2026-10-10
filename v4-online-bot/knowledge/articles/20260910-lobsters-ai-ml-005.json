@@ -1,0 +1,22 @@
+{
+  "id": "20260910-lobsters-ai-ml-005",
+  "title": "Efficient and accurate systems for querying unstructured data",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf",
+  "summary": "该仓库是斯坦福大学的一篇博士论文，题为“Efficient and accurate systems for querying unstructured data”，主要研究如何高效且准确地对非结构化数据（如视频、图像、文本）进行查询和分析。论文指出，随着机器学习（ML）的发展，自动分析非结构化数据成为可能，例如从视频中提取对象类型和位置等结构化信息，进而用于下游分析（如统计路口车流量）。然而，使用ML进行此类分析面临挑战，包括模型部署的复杂性、查询处理的效率以及准确性保障。论文提出了一系列系统和方法，旨在优化ML推理与查询处理的集成，提高查询非结构化数据的效率和准确性。该研究适用于数据管理、机器学习系统、多媒体分析等领域的研究人员和工程师，尤其对构建大规模非结构化数据分析平台具有参考价值。",
+  "abstract": "该论文提出高效准确的系统方法，用于查询非结构化数据（如视频、图像），通过优化机器学习推理与查询处理，解决部署挑战，提升分析效率与准确性，适用于数据管理和多媒体分析领域。",
+  "tags": [
+    "非结构化数据",
+    "机器学习",
+    "查询系统",
+    "视频分析",
+    "数据管理"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "stacks.stanford.edu via typesanitizer",
+  "published_at": "2026-09-09T15:38:35-05:00",
+  "fetched_at": "2026-09-10T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

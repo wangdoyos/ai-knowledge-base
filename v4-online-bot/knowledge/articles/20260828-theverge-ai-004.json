@@ -1,0 +1,22 @@
+{
+  "id": "20260828-theverge-ai-004",
+  "title": "Plaud is launching AI earbuds",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+  "summary": "Plaud 推出了其最新 AI 可穿戴设备——Plaud One Explorer Edition，这是一款集录音、转写和总结对话功能于一体的智能耳机。与之前类似别针形态的产品不同，这款设备采用传统耳塞式设计，同时配备独立的充电盒，充电盒内置 4G 模块，可独立上传和处理音频数据，无需依赖手机。该产品主要面向需要频繁记录会议、访谈或日常对话的用户，如记者、商务人士、学生等，旨在通过 AI 技术简化信息整理流程，提升工作效率。其核心特性包括高保真录音、实时转写、智能摘要生成，以及通过 4G 实现的无缝云同步。Plaud One Explorer Edition 的推出标志着 AI 可穿戴设备在形态和功能上的进一步演进，将 AI 能力融入更自然的佩戴方式中。",
+  "abstract": "Plaud 推出 AI 耳机 Plaud One Explorer Edition，支持录音、转写和总结对话，充电盒内置 4G 可独立处理，适合会议记录等场景。",
+  "tags": [
+    "AI 耳机",
+    "录音转写",
+    "可穿戴设备",
+    "Plaud",
+    "4G"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "Jess Weatherbed",
+  "published_at": "2026-08-27T09:11:23-04:00",
+  "fetched_at": "2026-08-28T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

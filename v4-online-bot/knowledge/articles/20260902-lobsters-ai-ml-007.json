@@ -1,0 +1,22 @@
+{
+  "id": "20260902-lobsters-ai-ml-007",
+  "title": "Just a rumour of a bug is enough to find a security exploit these days",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+  "summary": "这篇文章探讨了在当今网络安全领域，仅仅一个关于漏洞的传闻就足以被利用来发现安全漏洞的现象。作者通过分析指出，安全研究人员和攻击者常常利用公开的漏洞信息、社交媒体上的讨论以及社区中的传闻，来快速定位和利用系统中的弱点。文章强调了信息共享的双刃剑效应：一方面，它有助于安全社区快速响应和修复漏洞；另一方面，它也为恶意行为者提供了便利。作者还讨论了自动化工具和AI在漏洞挖掘中的应用，以及如何通过威胁情报和主动防御来减轻风险。这篇文章适合安全研究人员、渗透测试人员、DevOps工程师以及任何对网络安全感兴趣的人阅读，它提供了对当前安全态势的深刻见解，并提出了改进安全实践的建议。",
+  "abstract": "本文探讨了漏洞传闻如何被利用来发现安全漏洞，分析了信息共享的双刃剑效应，并提出了防御建议，适合安全从业者阅读。",
+  "tags": [
+    "安全漏洞",
+    "威胁情报",
+    "信息共享",
+    "AI安全",
+    "渗透测试"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "anil.recoil.org via pushcx",
+  "published_at": "2026-08-28T15:23:15-05:00",
+  "fetched_at": "2026-09-02T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

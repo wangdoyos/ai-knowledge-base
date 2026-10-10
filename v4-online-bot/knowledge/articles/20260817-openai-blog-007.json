@@ -1,0 +1,21 @@
+{
+  "id": "20260817-openai-blog-007",
+  "title": "The builder’s guide to GPT‑5.6",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "summary": "OpenAI 官方发布的《The builder’s guide to GPT-5.6》是一篇面向开发者和初创企业的技术指南，旨在帮助用户充分利用 GPT-5.6 模型构建更快速、更具成本效益的 AI 代理。文章重点介绍了智能模型选择策略和新的 Responses API 功能，通过实际案例展示了初创公司如何利用这些能力优化 AI 应用的性能与成本。指南涵盖了从模型选型、API 集成到代理设计的最佳实践，适合希望提升 AI 产品效率的工程师、产品经理和技术决策者。通过阅读本文，读者可以了解如何根据任务复杂度选择合适的模型层级，如何利用 Responses API 简化开发流程，以及如何通过成本优化策略实现更经济的 AI 部署。该指南是 OpenAI 官方技术博客的一部分，内容权威且具有实操性，为 AI 应用开发提供了宝贵的参考。",
+  "abstract": "OpenAI 官方指南，介绍如何利用 GPT-5.6 和新的 Responses API 构建更快速、更经济的 AI 代理，涵盖智能模型选择与成本优化策略。",
+  "tags": [
+    "GPT-5.6",
+    "AI代理",
+    "模型选择",
+    "Responses API",
+    "成本优化"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-08-13T11:00:00+00:00",
+  "fetched_at": "2026-08-17T23:22:35+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

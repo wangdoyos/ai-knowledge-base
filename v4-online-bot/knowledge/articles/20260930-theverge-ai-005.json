@@ -1,0 +1,22 @@
+{
+  "id": "20260930-theverge-ai-005",
+  "title": "OpenAI launches Dots, its Muse competitor",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+  "summary": "该内容报道了 OpenAI 在 DevDay 主题演讲中发布的新产品 Dots，定位为对标 Meta 旗下热门 AI 助手 Muse 的竞品。Dots 是一类「常驻式」AI 助手（always-on AI assistants），能够在后台跨已连接的应用执行「几乎任何任务」，并随着使用时间推移逐步学习用户偏好，实现个性化服务。其底层由 OpenAI 能力更强的 GPT-6 Astra 模型驱动。从描述看，Dots 强调 agentic（智能体化）能力，即不只是被动应答，而是主动在多个应用间协同完成操作，属于典型的 AI Agent 产品方向。该消息来自 The Verge 的报道，属于科技新闻类内容，信息量集中在产品定位、核心能力与底层模型上，但缺少具体功能细节、发布时间、可用范围与定价等信息。适合关注 AI 助手、Agent 产品竞争格局以及 OpenAI 产品路线图的开发者、产品经理和科技爱好者阅读。",
+  "abstract": "OpenAI 在 DevDay 发布常驻式 AI 助手 Dots，对标 Meta 的 Muse，由 GPT-6 Astra 驱动，可在后台跨应用执行任务并学习用户偏好。",
+  "tags": [
+    "OpenAI",
+    "AI助手",
+    "Agent",
+    "GPT-6",
+    "产品发布"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-09-29T13:15:00-04:00",
+  "fetched_at": "2026-09-30T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

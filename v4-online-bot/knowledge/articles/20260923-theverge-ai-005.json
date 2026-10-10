@@ -1,0 +1,22 @@
+{
+  "id": "20260923-theverge-ai-005",
+  "title": "Meta patches Muse exploit that let attackers control the AI agent",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+  "summary": "本文报道了 Meta 为其 macOS 应用 Muse 发布安全补丁的事件。Muse 是 Meta 推出的 AI 代理应用，安全研究员 Patrick Wardle 发现了一个零日漏洞，攻击者可通过一个未公开的 Muse 设置，将转录处理从 Meta 服务器重定向到本地，从而在本地执行恶意代码并完全控制 AI 代理。该漏洞属于典型的本地代码执行与 AI 代理控制权劫持问题，凸显了 AI 代理应用在本地权限管理、未公开配置项以及服务器与本地处理边界上的安全风险。文章适合 AI 应用开发者、安全研究人员以及关注 AI 代理安全性的技术决策者阅读，提醒他们在集成 AI 代理时需重视本地安全审计与最小权限原则。",
+  "abstract": "Meta 修复了 Muse macOS 应用中的零日漏洞，该漏洞允许攻击者通过未公开设置重定向转录处理，进而控制 AI 代理。事件凸显 AI 代理本地安全风险。",
+  "tags": [
+    "AI安全",
+    "零日漏洞",
+    "Meta Muse",
+    "macOS",
+    "AI代理"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Jess Weatherbed",
+  "published_at": "2026-09-22T07:53:58-04:00",
+  "fetched_at": "2026-09-23T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

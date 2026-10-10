@@ -1,0 +1,22 @@
+{
+  "id": "20260817-hackernews-best-ai-014",
+  "title": "AI in drug discovery – what it is, where we stand and the path forward",
+  "source": "hackernews-best-ai",
+  "source_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+  "summary": "该仓库内容源自一篇关于AI在药物发现领域的深度评论文章，由Derek Lowe撰写，发表于Science杂志博客，并引用了Nature Reviews Drug Discovery的一篇综述。文章全面审视了AI在药物发现中的现状、挑战与未来方向。它指出，尽管AI在靶点识别、分子生成、ADMET预测等环节展现出巨大潜力，但实际落地成果有限，多数AI辅助药物仍处于早期临床阶段。文章分析了当前AI药物发现的主要瓶颈，包括数据质量与稀缺性、模型可解释性不足、以及临床验证的复杂性。同时，它对比了AI与传统计算方法的差异，并探讨了生成式AI、大语言模型等新技术可能带来的变革。文章强调，AI并非万能钥匙，而是需要与实验科学深度融合，才能加速药物研发进程。适合药物研发人员、AI研究者、生物技术投资者及对交叉学科感兴趣的读者阅读，有助于理性认识AI在药物发现中的真实价值与局限。",
+  "abstract": "本文深入剖析AI在药物发现领域的实际进展与挑战，指出其潜力巨大但落地有限，强调AI需与实验科学结合，适合研发人员与投资者理性参考。",
+  "tags": [
+    "AI药物发现",
+    "药物研发",
+    "生成式AI",
+    "大语言模型",
+    "生物技术"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "AnodicElegy",
+  "published_at": "2026-08-15T19:12:53+00:00",
+  "fetched_at": "2026-08-17T23:22:35+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

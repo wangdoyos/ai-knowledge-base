@@ -1,0 +1,22 @@
+{
+  "id": "20260903-theverge-ai-009",
+  "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+  "summary": "该仓库内容涉及特朗普政府在美国纽约时报对OpenAI提起的版权诉讼中支持OpenAI的立场。诉讼于2023年12月提起，指控OpenAI未经授权使用《纽约时报》的文章训练其AI系统，并要求数十亿美元的赔偿。特朗普政府的介入可能对案件结果产生重大影响，因为它代表了政府对AI技术发展的支持态度，可能影响版权法与AI训练之间的平衡。该内容适合关注AI法律、版权政策及政府监管动向的读者，尤其是AI开发者、法律从业者和政策制定者。核心在于探讨AI训练数据的合法使用边界，以及政府干预如何影响AI行业的创新与合规。",
+  "abstract": "特朗普政府在美国纽约时报诉OpenAI版权案中支持OpenAI，表明政府倾向支持AI技术发展，可能影响AI训练数据的版权法律边界。",
+  "tags": [
+    "OpenAI",
+    "版权诉讼",
+    "特朗普政府",
+    "AI法律",
+    "纽约时报"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "Hayden Field",
+  "published_at": "2026-09-02T12:12:25-04:00",
+  "fetched_at": "2026-09-03T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

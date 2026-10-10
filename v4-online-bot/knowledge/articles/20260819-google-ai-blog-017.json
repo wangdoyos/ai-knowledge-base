@@ -1,0 +1,22 @@
+{
+  "id": "20260819-google-ai-blog-017",
+  "title": "Bring your spreadsheet data to life with Sheets canvas",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+  "summary": "Sheets canvas 是 Google Workspace 推出的一项新功能，旨在将 Google Sheets 中的电子表格数据转化为交互式仪表板、自定义学习追踪器、座位表等可视化内容。用户只需通过简单的自然语言提示，即可快速生成这些可视化视图，无需复杂的公式或编程知识。该功能利用 AI 技术理解用户意图，自动生成图表、卡片和布局，使数据呈现更加直观和生动。它特别适合需要快速展示数据、进行项目跟踪或教学管理的用户，如教师、项目经理、数据分析师等。通过 Sheets canvas，用户可以更高效地探索数据、发现趋势，并与团队或学生分享动态的可视化报告，从而提升数据驱动决策的效率。",
+  "abstract": "Sheets canvas 是 Google Sheets 的新功能，通过简单提示即可将电子表格数据转化为交互式仪表板和可视化视图，无需编程，适合快速数据展示和跟踪。",
+  "tags": [
+    "Google Sheets",
+    "数据可视化",
+    "AI 提示",
+    "交互式仪表板",
+    "生产力工具"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "<name>Eric Birnbaum</name><title>Director, Product Management</title><department>Google Sheets</department><company/>",
+  "published_at": "2026-08-13T16:45:00+00:00",
+  "fetched_at": "2026-08-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

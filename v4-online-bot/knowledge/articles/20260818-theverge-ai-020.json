@@ -1,0 +1,22 @@
+{
+  "id": "20260818-theverge-ai-020",
+  "title": "ChatGPT is getting a dedicated mode for teens",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+  "summary": "OpenAI 正在为青少年推出专门的 ChatGPT 模式，将现有的青少年保护措施和新的安全功能整合在一起。该模式旨在为青少年提供更安全的 AI 使用体验，同时应对公众对 AI 工具影响年轻用户的日益关注。ChatGPT for Teens 的设计目标是帮助青少年在安全的环境中使用 AI，同时提供适合其年龄的内容和功能。该模式结合了内容过滤、使用限制和教育资源，以保护青少年免受不适当内容的影响。此外，OpenAI 还与其他平台合作，实施年龄验证和针对青少年的保护措施。这一举措反映了 AI 行业对年轻用户安全的重视，并为其他 AI 公司提供了参考。",
+  "abstract": "OpenAI 推出 ChatGPT 青少年专用模式，整合安全功能，旨在为青少年提供更安全的 AI 体验，应对公众对 AI 影响年轻用户的担忧。",
+  "tags": [
+    "OpenAI",
+    "ChatGPT",
+    "青少年安全",
+    "AI安全",
+    "内容过滤"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "Robert Hart",
+  "published_at": "2026-08-18T07:00:00-04:00",
+  "fetched_at": "2026-08-18T23:00:16+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

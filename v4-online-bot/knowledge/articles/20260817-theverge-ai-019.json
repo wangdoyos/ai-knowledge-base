@@ -1,0 +1,22 @@
+{
+  "id": "20260817-theverge-ai-019",
+  "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+  "summary": "ChatGPT 的 macOS 桌面应用新增了名为“Computer History”的功能，该功能通过记录用户的点击和键盘操作，将用户行为转化为训练数据，以学习用户的工作方式。它构建了一个时间线，ChatGPT 和 Codex 在用户提出请求时可以引用该时间线，从而提供更个性化的建议、自动化操作，甚至能接续用户未完成的任务。此功能旨在提升 AI 助手的上下文理解能力，使其更贴合用户的实际工作流程。该功能适用于希望 AI 更深度融入日常工作的 macOS 用户，尤其是需要自动化重复任务或管理复杂项目的专业人士。然而，这也引发了关于隐私和数据安全的担忧，因为用户的敏感操作可能被记录并用于训练。",
+  "abstract": "ChatGPT 的 macOS 桌面应用新增“Computer History”功能，通过记录用户点击和键盘操作来学习工作方式，提供自动化建议并接续未完成任务，但引发隐私担忧。",
+  "tags": [
+    "ChatGPT",
+    "Computer History",
+    "macOS",
+    "自动化",
+    "隐私"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "Terrence O’Brien",
+  "published_at": "2026-08-16T10:56:40-04:00",
+  "fetched_at": "2026-08-17T23:22:35+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

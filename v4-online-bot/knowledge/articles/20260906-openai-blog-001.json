@@ -1,0 +1,21 @@
+{
+  "id": "20260906-openai-blog-001",
+  "title": "GPT-6 Astra: A new generation of intelligence",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/gpt-6-astra",
+  "summary": "GPT-6 Astra 是 OpenAI 发布的最新旗舰模型，代表了人工智能在智能性和对齐性上的重大飞跃。该模型在计算机使用、编程、网络安全和科学领域均展现出最先进的性能，旨在通过更强大的推理和任务执行能力，解决复杂现实问题。GPT-6 Astra 强调与人类意图的对齐，提高了安全性和可控性，适合开发者、研究人员和企业用户用于自动化工作流、高级数据分析、安全防护和科学发现。其发布标志着 AI 向通用智能迈进的重要一步，为各行业带来创新机遇。",
+  "abstract": "GPT-6 Astra 是 OpenAI 最新推出的旗舰 AI 模型，具备顶尖的计算机使用、编程、网络安全和科学能力，强调智能与对齐，为复杂任务提供高效解决方案。",
+  "tags": [
+    "GPT-6",
+    "OpenAI",
+    "大语言模型",
+    "AI对齐",
+    "多领域能力"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-09-03T11:00:00+00:00",
+  "fetched_at": "2026-09-06T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.8
+}

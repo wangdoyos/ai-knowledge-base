@@ -1,0 +1,21 @@
+{
+  "id": "20260924-openai-blog-003",
+  "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+  "summary": "本文是 OpenAI 官方博客中关于 Harvey 公司使用 GPT-6 Astra 的案例介绍。Harvey 是一家专注于法律领域的 AI 平台，旨在帮助律师更高效地起草法律文件。通过集成 GPT-6 Astra，Harvey 能够将法律上下文（如先例、法规、客户历史文档等）转化为更结构化、更符合语境的草稿，从而减少律师在重复性文书工作上的时间，让他们更专注于法律策略和客户咨询。核心特性包括：更强的上下文理解能力、生成结构化法律文档、提升草稿质量与一致性。该方案适合法律从业者、法律科技公司以及对 AI 在法律领域应用感兴趣的读者。博客强调了从“上下文”到“信心”的转变，展示了 AI 在专业服务领域的实际落地价值。",
+  "abstract": "OpenAI 博客介绍 Harvey 利用 GPT-6 Astra 将法律上下文转化为结构化草稿，提升律师效率，聚焦策略。",
+  "tags": [
+    "法律科技",
+    "GPT-6",
+    "文档生成",
+    "AI应用",
+    "OpenAI"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-09-23T12:00:00+00:00",
+  "fetched_at": "2026-09-24T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

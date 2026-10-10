@@ -1,0 +1,21 @@
+{
+  "id": "20260826-openai-blog-005",
+  "title": "Disrupting a new covert influence campaign from Russia",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+  "summary": "OpenAI 发布博客文章，披露其已封禁一批源自俄罗斯的账户，这些账户利用 AI 技术（包括 ChatGPT）创建虚假的以色列智库和“主权”指数，以宣传亲俄、反西方的观点。该行动是 OpenAI 持续打击恶意使用 AI 的一部分，旨在防止其技术被用于影响力行动和虚假信息传播。文章详细说明了这些账户如何利用 AI 生成内容、伪装身份，并试图影响公众舆论。OpenAI 强调其安全系统成功识别并阻止了这些活动，同时分享了其检测和应对此类威胁的方法。此事件凸显了 AI 在信息战中的潜在滥用风险，以及平台方在维护信息真实性方面的责任。对于关注 AI 安全、网络安全和地缘政治的用户，这篇文章提供了重要的案例分析和应对策略。",
+  "abstract": "OpenAI 封禁了利用 AI 生成虚假智库和指数、进行亲俄宣传的账户，展示了其对抗 AI 滥用和虚假信息的能力。",
+  "tags": [
+    "AI安全",
+    "虚假信息",
+    "OpenAI",
+    "影响力行动",
+    "网络安全"
+  ],
+  "category": "tool",
+  "language": "en",
+  "published_at": "2026-08-25T00:00:00+00:00",
+  "fetched_at": "2026-08-26T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

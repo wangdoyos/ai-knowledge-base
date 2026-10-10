@@ -1,0 +1,21 @@
+{
+  "id": "20260827-openai-blog-006",
+  "title": "The full stack behind abundant intelligence",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+  "summary": "OpenAI 首席财务官 Sarah Friar 在官方博客中阐述了 OpenAI 如何通过芯片、计算、模型和产品的全栈创新，实现更强大、更经济、更普及的智能。文章指出，AI 的进步并非单一突破，而是多个层面协同演进的结果：从底层芯片和算力基础设施的优化，到模型架构和训练方法的改进，再到产品层面的创新应用，这些因素相互叠加，共同推动了智能的指数级增长。Sarah Friar 强调，这种全栈方法使得 AI 能够以更低的成本提供更大的价值，从而加速 AI 在各行各业的普及。文章还展望了未来，认为随着全栈能力的持续提升，AI 将变得更加普及和实用，为人类带来前所未有的便利和效率。",
+  "abstract": "OpenAI 高管阐述全栈创新如何推动 AI 普及，从芯片到产品，降低成本、提升性能，让智能无处不在。",
+  "tags": [
+    "OpenAI",
+    "全栈",
+    "AI基础设施",
+    "成本降低",
+    "智能普及"
+  ],
+  "category": "other",
+  "language": "en",
+  "published_at": "2026-08-25T07:05:00+00:00",
+  "fetched_at": "2026-08-27T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

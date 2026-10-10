@@ -1,0 +1,21 @@
+{
+  "id": "20260902-openai-blog-001",
+  "title": "How AI-native companies turn workflows into operating capability",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/ai-native-company-workflows",
+  "summary": "这篇文章来自 OpenAI 官方博客，探讨了 AI 原生公司如何将工作流转化为运营能力。文章以 Basis、Clay 和 Exa Labs 三家 AI 原生公司为例，展示了它们如何利用 AI 代理（agents）来改进客户入职、账户管理和开发者集成等关键业务流程。Basis 使用 AI 代理自动化客户入职流程，减少人工干预，提高效率；Clay 利用 AI 代理优化账户管理，提供个性化服务；Exa Labs 则通过 AI 代理增强开发者集成体验，简化 API 接入。文章还总结了企业领导者可以借鉴的经验，包括如何识别适合 AI 自动化的流程、如何设计人机协作模式，以及如何衡量 AI 代理的绩效。文章强调，AI 原生公司不仅仅是使用 AI 工具，而是将 AI 深度融入运营流程，从而获得竞争优势。对于希望实现 AI 转型的企业，这篇文章提供了具体的案例和实用的指导。",
+  "abstract": "OpenAI 官方博客文章，通过 Basis、Clay 和 Exa Labs 的案例，展示 AI 原生公司如何利用 AI 代理优化工作流，提升运营效率，并为企业领导者提供可借鉴的实践方法。",
+  "tags": [
+    "AI代理",
+    "工作流自动化",
+    "企业运营",
+    "OpenAI",
+    "AI原生"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-01T17:00:00+00:00",
+  "fetched_at": "2026-09-02T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

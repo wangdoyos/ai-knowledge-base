@@ -1,0 +1,21 @@
+{
+  "id": "20260909-openai-blog-002",
+  "title": "Introducing ChatGPT Images 2.5",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+  "summary": "ChatGPT Images 2.5 是 OpenAI 发布的最新图像生成模型，旨在将用户的创意、草图或参考照片转化为更个性化、更精致的图像。该模型在理解用户意图和细节方面有显著提升，能够生成更符合用户想法的图像。它支持多种输入形式，包括文字描述、手绘草图以及参考图片，并能在生成过程中保持风格和内容的一致性。ChatGPT Images 2.5 适用于设计师、内容创作者、教育工作者以及任何需要快速将想法可视化的人群。通过自然语言交互，用户可以轻松调整图像的风格、构图和细节，无需专业的图像编辑技能。该模型还增强了图像编辑能力，允许用户对生成的图像进行局部修改或整体调整。OpenAI 强调该模型在安全性和伦理方面也做了改进，以减少不当内容的生成。总体而言，ChatGPT Images 2.5 是一个强大的创意工具，降低了图像创作的门槛，提高了创作效率和质量。",
+  "abstract": "ChatGPT Images 2.5 是 OpenAI 的最新图像生成模型，能将想法、草图和参考照片转化为个性化、精致的图像，提升创意表达和效率。",
+  "tags": [
+    "图像生成",
+    "ChatGPT",
+    "OpenAI",
+    "创意工具",
+    "AI绘画"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "published_at": "2026-09-08T11:30:00+00:00",
+  "fetched_at": "2026-09-09T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

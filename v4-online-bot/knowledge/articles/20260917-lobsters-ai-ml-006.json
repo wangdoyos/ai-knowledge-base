@@ -1,0 +1,22 @@
+{
+  "id": "20260917-lobsters-ai-ml-006",
+  "title": "openarm: A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://github.com/enactic/OpenArm",
+  "summary": "OpenArm 是一个完全开源的人形机械臂项目，专为物理 AI 研究及在富接触环境中的部署而设计。该项目旨在解决当前人形机械臂硬件成本高、封闭性强、难以复现的问题，通过开源硬件设计（包括机械结构、电子驱动和固件）与软件接口，为研究人员和开发者提供一个可定制、可扩展的物理 AI 实验平台。其核心特性包括：面向接触密集型任务（如抓取、装配、操作）的机械设计，支持强化学习与模仿学习等 AI 算法的集成，以及完整的开源文档和社区支持。OpenArm 适合从事机器人学习、具身智能、物理 AI 研究的高校实验室、研究机构及企业研发团队，尤其适合需要低成本、高自由度硬件平台来验证算法和部署智能体的用户。项目强调开源协作，推动物理 AI 从仿真到真实世界的迁移。",
+  "abstract": "OpenArm 是一款完全开源的人形机械臂，专为物理 AI 研究和富接触环境部署而设计，提供可定制硬件与软件接口，助力具身智能算法从仿真走向真实世界。",
+  "tags": [
+    "开源硬件",
+    "人形机械臂",
+    "物理AI",
+    "具身智能",
+    "机器人学习"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "github.com via rajtilakjee",
+  "published_at": "2026-09-15T07:52:26-05:00",
+  "fetched_at": "2026-09-17T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

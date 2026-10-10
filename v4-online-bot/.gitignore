@@ -1,0 +1,22 @@
+# ===== 密钥 / 本地配置（绝不入库）=====
+.env
+.env.*
+!.env.example
+
+# ===== Python =====
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# ===== 运行时产物（体积大 / 易变）=====
+logs/
+knowledge/raw/
+knowledge/pending_review/
+knowledge/cost-report-*.json
+/tmp/
+
+# ===== 编辑器 / 系统 =====
+.idea/
+.vscode/
+.DS_Store

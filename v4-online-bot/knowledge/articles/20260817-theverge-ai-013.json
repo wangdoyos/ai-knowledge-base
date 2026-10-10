@@ -1,0 +1,22 @@
+{
+  "id": "20260817-theverge-ai-013",
+  "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+  "summary": "Anthropic 宣布将采用 Google DeepMind 开发的 SynthID-Text 技术，为 Claude 生成的文本添加不可见水印，以符合欧洲 AI 透明度法规。该技术通过调整词汇选择的概率分布，在文本中嵌入可检测的模式，而不影响文本的自然性和可读性。Anthropic 计划在 2025 年 5 月前全面部署此系统，并已发布相关技术报告。此举旨在提高 AI 生成内容的可追溯性，防止滥用，同时兼顾用户隐私和模型性能。对于开发者、企业和监管机构而言，该水印系统提供了识别 AI 文本的可靠手段，有助于建立信任和合规性。",
+  "abstract": "Anthropic 将采用 Google DeepMind 的 SynthID-Text 技术，为 Claude 文本添加不可见水印，以符合欧洲 AI 透明度法规，提高内容可追溯性。",
+  "tags": [
+    "水印",
+    "AI透明度",
+    "SynthID",
+    "Claude",
+    "Anthropic"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "Jess Weatherbed",
+  "published_at": "2026-08-17T06:57:13-04:00",
+  "fetched_at": "2026-08-17T23:22:35+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20260903-theverge-ai-001",
+  "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+  "summary": "Google发布了Gemini 3.8 Flash模型，距离其前代3.7 Flash仅数周。新模型通过执行更多推理步骤和迭代调用工具，在复杂任务上“更努力”地工作，以提升性能。定价与3.7 Flash相同，输入每百万token 0.75美元，输出每百万token 3.75美元。该模型旨在平衡成本与能力，适合需要高推理能力的应用场景，如复杂问题解决和工具使用。对于开发者而言，Gemini 3.8 Flash提供了更强大的推理能力，同时保持价格竞争力，是构建AI代理和自动化工作流的理想选择。",
+  "abstract": "Google发布Gemini 3.8 Flash，通过更多推理步骤和迭代工具调用提升复杂任务性能，定价与前代相同，适合高推理需求场景。",
+  "tags": [
+    "Gemini",
+    "Google",
+    "LLM",
+    "推理",
+    "工具调用"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Stevie Bonifield",
+  "published_at": "2026-09-02T16:11:40-04:00",
+  "fetched_at": "2026-09-03T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

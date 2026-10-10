@@ -1,0 +1,21 @@
+{
+  "id": "20260819-openai-blog-015",
+  "title": "How NVIDIA scales expertise with ChatGPT Work",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/nvidia/chatgpt-work",
+  "summary": "NVIDIA 与 OpenAI 合作，通过 ChatGPT Work 平台实现专业知识规模化应用。该案例展示了 NVIDIA 如何利用 ChatGPT Work 减少手动任务、连接快速变化的信号，并在全球范围内扩展成功的工作流程。具体而言，NVIDIA 团队使用 ChatGPT Work 自动化重复性工作，提升数据处理效率，同时通过协作功能促进团队知识共享，确保最佳实践在全球各团队中快速复制。此案例体现了企业级 AI 工具在提升生产力、加速创新和优化决策方面的实际价值，适合希望利用 AI 优化内部流程、实现知识管理规模化的企业参考。",
+  "abstract": "NVIDIA 通过 ChatGPT Work 减少手动任务、连接快速信号，并全球扩展成功工作流，展示了企业级 AI 在提升效率和知识规模化方面的实际应用。",
+  "tags": [
+    "ChatGPT Work",
+    "NVIDIA",
+    "企业AI",
+    "工作流自动化",
+    "知识管理"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "published_at": "2026-08-18T00:00:00+00:00",
+  "fetched_at": "2026-08-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

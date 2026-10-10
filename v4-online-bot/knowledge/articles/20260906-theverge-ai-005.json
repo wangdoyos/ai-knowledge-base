@@ -1,0 +1,22 @@
+{
+  "id": "20260906-theverge-ai-005",
+  "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+  "summary": "微软在针对《纽约时报》和多位作者提起的版权诉讼中提交了新的法律文件，声称其AI助手Copilot极少复制新闻文章或书籍中的完整句子，更不用说能够替代原文的实质性内容。作为诉讼证据的一部分，微软提供了820万条Copilot交互记录，以证明其AI系统并未大规模复制受版权保护的材料。微软强调，Copilot的设计初衷是生成原创内容，而非复制现有作品，并指出其系统具有防止过度引用的机制。该案件涉及AI生成内容与版权法的边界，对AI行业具有重要影响。微软的辩护旨在澄清AI工具在合理使用原则下的合法性，并回应出版商和作者对其AI系统可能侵犯版权的担忧。此案的结果可能为AI内容生成的法律框架设定先例，影响未来AI技术的开发与应用。",
+  "abstract": "微软在版权诉讼中辩护称，其AI助手Copilot极少复制新闻或书籍的完整句子，并提供了820万条交互记录作为证据，强调AI生成内容的原创性。",
+  "tags": [
+    "Microsoft",
+    "Copilot",
+    "版权诉讼",
+    "AI生成内容",
+    "合理使用"
+  ],
+  "category": "other",
+  "language": "zh",
+  "author": "Lauren Feiner",
+  "published_at": "2026-09-04T12:05:57-04:00",
+  "fetched_at": "2026-09-06T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

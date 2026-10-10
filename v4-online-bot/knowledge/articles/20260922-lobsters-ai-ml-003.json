@@ -1,0 +1,22 @@
+{
+  "id": "20260922-lobsters-ai-ml-003",
+  "title": "LLMs Are Too Big. My Log Router Doesn't Need to Sing",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://www.distributedthoughts.org/my-log-router-doesnt-need-to-sing/",
+  "summary": "本文是一篇技术评论文章，探讨了在日志路由场景中盲目使用大型语言模型（LLM）的误区。作者指出，LLM 虽然强大，但对于日志路由这类简单、高吞吐、低延迟的任务而言，其规模过大、成本过高且不必要。文章强调，传统的规则引擎或轻量级机器学习模型往往能更高效、更经济地解决问题。核心观点是：技术选型应匹配问题复杂度，避免“用大炮打蚊子”。文章适合架构师、DevOps 工程师以及正在评估 LLM 应用场景的技术决策者阅读，帮助他们理性看待 LLM 的适用边界，优化系统设计。",
+  "abstract": "本文批判了在日志路由中滥用大型语言模型的做法，指出 LLM 对于简单任务过于笨重，提倡使用轻量级方案，强调技术选型应匹配问题复杂度。",
+  "tags": [
+    "日志路由",
+    "LLM",
+    "系统设计",
+    "技术选型",
+    "成本优化"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "distributedthoughts.org via pgr0ss",
+  "published_at": "2026-09-21T17:53:19-05:00",
+  "fetched_at": "2026-09-22T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

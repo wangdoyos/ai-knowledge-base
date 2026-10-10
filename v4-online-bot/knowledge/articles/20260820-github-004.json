@@ -1,0 +1,22 @@
+{
+  "id": "20260820-github-004",
+  "title": "aaif-goose/goose",
+  "source": "github",
+  "source_url": "https://github.com/aaif-goose/goose",
+  "summary": "Goose 是一个开源的、可扩展的 AI 代理，旨在超越代码建议，能够与任何 LLM 集成，执行安装、运行、编辑和测试等任务。它提供了一个灵活的框架，允许开发者构建自定义的 AI 代理工作流，适用于自动化开发任务、代码库管理、测试执行等场景。Goose 的核心优势在于其可扩展性和与多种 LLM 的兼容性，使得开发者可以根据需求选择最适合的模型。该项目在 GitHub 上拥有超过 53k 的星标，表明其社区活跃度和认可度较高。Goose 适合希望将 AI 代理集成到开发流程中的开发者、团队以及研究者，尤其适合需要自动化代码操作和测试的场景。",
+  "abstract": "Goose 是一个开源、可扩展的 AI 代理，支持与任何 LLM 集成，可执行安装、编辑、测试等任务，超越代码建议，适合自动化开发工作流。",
+  "tags": [
+    "AI代理",
+    "LLM",
+    "自动化",
+    "开源",
+    "开发工具"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "aaif-goose",
+  "published_at": "2024-08-23T19:03:36+00:00",
+  "fetched_at": "2026-08-20T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

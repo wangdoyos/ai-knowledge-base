@@ -1,0 +1,22 @@
+{
+  "id": "20260915-lobsters-ai-ml-001",
+  "title": "We Must Pace the Frontier",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+  "summary": "《We Must Pace the Frontier》是 Anthropic CEO Dario Amodei 发表的一篇关于 AI 发展速度与安全治理的评论文章。文章核心观点是：AI 技术正以指数级速度逼近人类水平，但社会在安全研究、政策制定和伦理对齐方面的进展远远落后。作者呼吁 AI 开发者、政策制定者和公众必须主动“配速”，即控制前沿模型的开发节奏，确保安全措施与能力提升同步，避免因盲目竞赛而引发不可控风险。文章讨论了前沿模型的风险（如滥用、失控、经济冲击），并建议通过透明度、第三方审计、渐进式部署和全球协作来管理这些风险。适合 AI 研究者、政策制定者、科技伦理学者以及对 AI 安全治理感兴趣的读者阅读。",
+  "abstract": "Anthropic CEO Dario Amodei 撰文呼吁 AI 行业必须主动控制前沿模型的开发速度，让安全研究与能力提升同步，避免因竞赛导致不可控风险。",
+  "tags": [
+    "AI安全",
+    "前沿模型",
+    "治理",
+    "伦理",
+    "政策"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "darioamodei.com via dayanruben",
+  "published_at": "2026-09-12T09:35:49-05:00",
+  "fetched_at": "2026-09-15T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

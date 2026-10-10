@@ -1,0 +1,21 @@
+{
+  "id": "20260911-openai-blog-004",
+  "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+  "summary": "本文是 OpenAI 官方博客的一篇案例分享，介绍了研究员 César de la Fuente 及其实验室如何利用 Codex 和 ChatGPT 从现存及已灭绝生物的基因组中挖掘新型抗菌分子，以应对日益严重的耐药性感染问题。文章详细描述了研究流程：首先使用 Codex 辅助编写和优化生物信息学分析代码，快速处理海量基因组数据；然后借助 ChatGPT 进行文献调研、假设生成和结果解释，加速从候选分子到实验验证的迭代。该案例展示了 AI 工具在跨学科科研中的实际价值，特别是将大语言模型与代码生成能力结合，显著提升了抗菌肽等分子的发现效率。适合生物医学、计算生物学、AI for Science 领域的研究人员、制药从业者以及对 AI 驱动科学发现感兴趣的读者阅读。",
+  "abstract": "OpenAI 博客分享案例：研究员利用 Codex 和 ChatGPT 从现存及灭绝基因组中挖掘新型抗菌分子，以对抗耐药感染，展示了 AI 加速科学发现的潜力。",
+  "tags": [
+    "AI for Science",
+    "抗菌药物发现",
+    "Codex",
+    "ChatGPT",
+    "基因组挖掘"
+  ],
+  "category": "other",
+  "language": "en",
+  "published_at": "2026-09-10T16:00:00+00:00",
+  "fetched_at": "2026-09-11T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

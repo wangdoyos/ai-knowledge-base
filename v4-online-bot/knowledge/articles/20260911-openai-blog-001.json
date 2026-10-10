@@ -1,0 +1,21 @@
+{
+  "id": "20260911-openai-blog-001",
+  "title": "Introducing the Agents API",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/introducing-the-agents-api",
+  "summary": "OpenAI 发布的 Agents API 是一项托管服务，旨在帮助开发者构建和部署云端智能体（cloud agents）。该 API 由 Codex harness 提供底层支持，专注于智能体编排、长时间运行会话以及工具调用等核心能力。它解决了开发者自行搭建智能体基础设施时面临的复杂性问题，例如状态管理、任务调度、工具集成和持久化执行等。通过 Agents API，开发者无需从零构建编排层，即可快速启动可长时间运行、能调用外部工具的智能体应用。核心特性包括：托管式编排引擎、支持长时运行会话、内置工具使用能力，以及基于 Codex harness 的可靠执行环境。该服务适合希望快速落地 AI 智能体产品的开发者、创业团队和企业，尤其适用于需要复杂任务自动化、多步骤推理和外部系统交互的场景。作为 OpenAI 官方推出的 API，它降低了智能体开发门槛，有望推动云端智能体应用的规模化落地。",
+  "abstract": "OpenAI 推出 Agents API，基于 Codex harness 的托管服务，支持智能体编排、长时运行会话和工具调用，帮助开发者快速构建云端智能体。",
+  "tags": [
+    "Agents API",
+    "OpenAI",
+    "云端智能体",
+    "工具调用",
+    "托管服务"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-10T00:00:00+00:00",
+  "fetched_at": "2026-09-11T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.8
+}

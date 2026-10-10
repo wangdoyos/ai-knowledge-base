@@ -1,0 +1,22 @@
+{
+  "id": "20260828-theverge-ai-001",
+  "title": "Google’s AI note-taking app now allows you to interact with books",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+  "summary": "Google 的 AI 笔记应用 Gemini Notebook 推出了一项新功能，允许用户将购买的 Google Play 图书直接导入应用，并通过“专家智能”功能与书籍内容进行交互。用户可以向 AI 提问关于书籍内容的问题，并基于书籍生成学习计划、信息图表、AI 播客等。该功能旨在提升阅读和学习体验，将书籍内容转化为可交互的知识源。适用于学生、研究人员和终身学习者，帮助他们更高效地理解和利用书籍信息。",
+  "abstract": "Google 的 AI 笔记应用 Gemini Notebook 新增“专家智能”功能，支持导入 Google Play 图书，用户可提问、生成计划、图表和播客，将书籍转化为交互式学习工具。",
+  "tags": [
+    "Gemini Notebook",
+    "AI笔记",
+    "书籍交互",
+    "Google Play Books",
+    "学习工具"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "Emma Roth",
+  "published_at": "2026-08-27T15:30:00-04:00",
+  "fetched_at": "2026-08-28T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

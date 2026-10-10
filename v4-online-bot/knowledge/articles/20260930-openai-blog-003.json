@@ -1,0 +1,21 @@
+{
+  "id": "20260930-openai-blog-003",
+  "title": "Introducing GPT-6.1 Sol",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+  "summary": "这是 OpenAI 官方发布的一篇公司博客，介绍其新一代模型 GPT-6.1 Sol。该模型定位为面向编程、计算机操作（computer use）以及专业工作场景的「接近 Astra 级智能」，但价格仅为 Astra 标准 API 输入与输出 token 单价的五分之一。其核心价值在于以更低的成本提供接近旗舰级模型的推理与执行能力，尤其适合需要让模型直接操作计算机界面、编写与调试代码、处理专业办公任务的开发者与企业用户。博客通常还会给出基准测试表现、可用渠道（如 API、ChatGPT 等）、上下文长度、定价细节以及安全与部署说明。对于正在评估模型选型、构建 Agent 或自动化工作流的团队而言，这类信息有助于在能力与成本之间做出权衡。需要注意的是，本条目仅为官方公告链接，具体技术参数、评测数据与限制条件应以原文为准。",
+  "abstract": "OpenAI 发布 GPT-6.1 Sol，主打接近 Astra 级智能的编程、计算机操作与专业工作能力，API 价格仅为 Astra 的五分之一，适合追求高性价比的开发者与企业。",
+  "tags": [
+    "OpenAI",
+    "GPT-6.1 Sol",
+    "大模型发布",
+    "计算机操作",
+    "API 定价"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-09-29T10:00:00+00:00",
+  "fetched_at": "2026-09-30T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.3
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20260930-openai-blog-004",
+  "title": "Introducing dots",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/introducing-dots",
+  "summary": "这是 OpenAI 官方发布的一篇产品介绍博客，主题为「Introducing dots」。dots 是 OpenAI 推出的一种主动式（proactive）AI 助手，旨在跨越复杂项目与日常任务持续工作，而不仅仅是被动响应单次提问。其核心特性在于「主动性」：dots 能够在用户不持续干预的情况下推进工作，同时让用户保持对任务方向与进度的控制权，从而在自动化与可控性之间取得平衡。该产品面向希望借助 AI 处理多步骤、长周期任务的用户，例如需要管理复杂项目、协调多项日常事务的知识工作者、开发者与团队。博客内容属于官方产品公告性质，主要阐述产品定位、使用场景与设计理念，而非技术实现细节或开源代码，因此对希望了解 OpenAI 在 Agent 方向产品布局的读者具有较高参考价值，但缺少可复现的技术方案与架构说明。",
+  "abstract": "OpenAI 发布 dots：一种可跨复杂项目与日常任务持续工作的主动式 AI 助手，在自动推进工作的同时让用户保持控制。",
+  "tags": [
+    "OpenAI",
+    "主动式助手",
+    "AI Agent",
+    "任务自动化",
+    "产品发布"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-29T00:00:00+00:00",
+  "fetched_at": "2026-09-30T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20260917-openai-blog-002",
+  "title": "Reimagining advertising with AI",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/reimagining-advertising-with-ai",
+  "summary": "这是 OpenAI 官方发布的一篇公司博客，主题为“用 AI 重新构想广告”。文章介绍了 OpenAI 在广告领域的新探索，包括 Sponsored Agents（赞助智能体）、面向营销人员的 AI 工具，以及与 HubSpot、Shopify 等平台的集成。其核心目标是利用大语言模型和智能体技术，改变传统广告的展示与交互方式，让广告从静态展示转变为可对话、可执行任务的智能体形态。例如，Sponsored Agents 可能允许用户直接与广告智能体互动，完成查询、推荐甚至购买等操作，从而提升转化率和用户体验。同时，面向营销人员的工具旨在降低 AI 广告创作与投放的门槛，而 HubSpot 和 Shopify 的集成则意味着广告可以直接嵌入到 CRM 和电商工作流中，实现更精准的触达和闭环交易。该内容适合广告从业者、营销人员、电商运营者、AI 产品经理以及对 AI 商业化应用感兴趣的开发者阅读，帮助他们了解 OpenAI 在广告领域的战略布局和最新产品方向。",
+  "abstract": "OpenAI 官方博客介绍 AI 驱动的广告新体验，包括 Sponsored Agents、营销工具及与 HubSpot、Shopify 的集成，探索对话式广告与智能体商业的未来。",
+  "tags": [
+    "广告",
+    "智能体",
+    "OpenAI",
+    "营销工具",
+    "电商集成"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-16T13:00:00+00:00",
+  "fetched_at": "2026-09-17T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

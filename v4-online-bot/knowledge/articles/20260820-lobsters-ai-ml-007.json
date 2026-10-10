@@ -1,0 +1,22 @@
+{
+  "id": "20260820-lobsters-ai-ml-007",
+  "title": "AscendNPU-IR: MLIR for Ascend",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://gitcode.com/Ascend/AscendNPU-IR",
+  "summary": "AscendNPU-IR 是华为昇腾 AI 处理器上的 MLIR（多级中间表示）编译器项目，旨在为昇腾 NPU 提供基于 MLIR 的编译基础设施。该项目将深度学习模型（如 ONNX、TensorFlow、PyTorch 等）转换为高效的昇腾 NPU 可执行代码，支持算子融合、内存优化、并行调度等优化，以提升模型在昇腾硬件上的推理和训练性能。它解决了传统编译器在异构 AI 芯片上适配困难、优化不足的问题，为开发者提供了统一的编译框架，便于扩展新算子、新硬件特性。核心特性包括：基于 MLIR 的模块化设计、支持多种前端框架、丰富的算子库、自动调优能力。适合 AI 芯片编译器开发者、昇腾平台用户、以及希望深入理解 AI 编译优化的研究人员使用。",
+  "abstract": "AscendNPU-IR 是华为昇腾 NPU 的 MLIR 编译器项目，提供基于 MLIR 的编译优化，将主流深度学习模型高效映射到昇腾硬件，提升性能，适合 AI 编译开发者和昇腾用户。",
+  "tags": [
+    "MLIR",
+    "昇腾",
+    "编译器",
+    "AI芯片",
+    "NPU"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "gitcode.com via sanxiyn",
+  "published_at": "2026-08-19T18:47:50-05:00",
+  "fetched_at": "2026-08-20T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

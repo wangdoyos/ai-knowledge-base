@@ -1,0 +1,22 @@
+{
+  "id": "20261010-lobsters-ai-ml-001",
+  "title": "Whistle: Speech to Text in 16.9 MB",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://cactuscompute.com/blog/whistle",
+  "summary": "Whistle 是 Cactus Compute 推出的一个超轻量级语音转文本模型，整个模型大小仅 16.9 MB，专为在资源受限的设备上实现本地语音识别而设计。它解决了传统语音识别模型体积庞大、依赖云端服务、隐私泄露风险高的问题，让开发者能够在移动端、嵌入式设备或浏览器中直接运行高质量的语音转文本功能。核心特性包括极小的模型尺寸、低延迟推理、离线运行能力以及良好的识别准确率。该项目适合需要在边缘设备上集成语音交互功能的开发者，例如构建语音助手、实时字幕、语音笔记等应用。Whistle 的出现降低了语音 AI 的部署门槛，为隐私敏感和低功耗场景提供了新的可能性。",
+  "abstract": "Whistle 是一个仅 16.9 MB 的超轻量级语音转文本模型，支持在边缘设备上离线运行，为开发者提供低延迟、隐私安全的语音识别方案。",
+  "tags": [
+    "语音识别",
+    "轻量级模型",
+    "边缘计算",
+    "离线推理",
+    "Whistle"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "cactuscompute.com via rajtilakjee",
+  "published_at": "2026-10-09T00:35:51-05:00",
+  "fetched_at": "2026-10-10T15:13:57+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

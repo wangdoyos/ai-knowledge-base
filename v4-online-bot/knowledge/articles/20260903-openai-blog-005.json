@@ -1,0 +1,21 @@
+{
+  "id": "20260903-openai-blog-005",
+  "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/gilbert-tobin",
+  "summary": "Gilbert + Tobin，一家澳大利亚领先的律师事务所，正在通过OpenAI的ChatGPT Enterprise和Codex扩展其AI应用。该案例研究展示了该公司如何将CEO主导的承诺、严格的治理和人类问责制相结合，以负责任地扩展AI。文章强调了自上而下的领导力在推动AI采用中的重要性，以及建立明确治理框架以确保合规和数据安全的必要性。Gilbert + Tobin通过试点项目、员工培训和持续反馈循环，成功地将AI集成到法律工作流程中，提高了效率，同时保持了专业标准。该案例为其他专业服务公司提供了可复制的AI治理和扩展模式，特别是在高风险、高监管环境中。",
+  "abstract": "Gilbert + Tobin律师事务所通过CEO领导、严格治理和人类问责，成功扩展了ChatGPT Enterprise和Codex，展示了专业服务中负责任的AI采用。",
+  "tags": [
+    "AI治理",
+    "法律科技",
+    "ChatGPT Enterprise",
+    "Codex",
+    "企业AI"
+  ],
+  "category": "tool",
+  "language": "en",
+  "published_at": "2026-09-01T01:00:00+00:00",
+  "fetched_at": "2026-09-03T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

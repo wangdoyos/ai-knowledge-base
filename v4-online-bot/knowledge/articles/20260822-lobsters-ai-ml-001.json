@@ -1,0 +1,21 @@
+{
+  "id": "20260822-lobsters-ai-ml-001",
+  "title": "Felony Bench: Be AI, Do Crime",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://www.felonybench.com/",
+  "summary": "Felony Bench 是一个旨在评估和展示 AI 模型在非法或有害任务上的表现的项目。它通过一系列精心设计的基准测试，测试 AI 模型在涉及犯罪、欺诈、暴力等非法活动时的响应能力。该项目旨在揭示 AI 模型在安全性和伦理方面的潜在漏洞，帮助开发者和研究者了解模型的局限性，并推动更安全的 AI 开发。Felony Bench 提供了详细的测试用例和结果分析，适合 AI 安全研究者、伦理学家、政策制定者以及 AI 开发者使用。通过这个项目，用户可以直观地看到不同 AI 模型在危险场景下的行为差异，从而促进对 AI 安全性的深入讨论和改进。",
+  "abstract": "Felony Bench 是一个评估 AI 模型在非法任务上表现的基准测试项目，旨在揭示 AI 的安全漏洞，推动更安全的 AI 开发。",
+  "tags": [
+    "AI安全",
+    "基准测试",
+    "伦理",
+    "安全评估"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "felonybench.com via pushcx",
+  "published_at": "2026-08-21T12:23:02-05:00",
+  "fetched_at": "2026-08-22T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

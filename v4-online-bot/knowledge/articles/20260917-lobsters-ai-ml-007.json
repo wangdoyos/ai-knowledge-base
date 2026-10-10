@@ -1,0 +1,22 @@
+{
+  "id": "20260917-lobsters-ai-ml-007",
+  "title": "Why don’t machine learning research agents overfit?",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+  "summary": "这是一篇来自 Amazon Science 博客的文章，探讨了机器学习研究智能体（machine learning research agents）为何不会像传统模型那样过拟合的问题。文章从研究智能体的工作方式出发，分析了它们与普通监督学习模型的本质差异：研究智能体通常以迭代方式提出假设、设计实验、评估结果并调整策略，其目标不是拟合某个固定数据集，而是生成可泛化的科学发现或模型改进方案。作者指出，这类智能体在搜索空间、反馈信号和评估机制上与标准训练过程不同，因此过拟合风险的表现形式和成因也有所不同。文章可能涉及元学习、自动化机器学习（AutoML）、LLM 驱动的科研智能体等背景，并讨论了如何设计评估协议以避免智能体对基准测试本身过拟合。该内容适合对 AI 智能体、自动化科研、机器学习方法论感兴趣的研究人员和工程师阅读，帮助理解智能体系统的泛化能力与评估挑战。",
+  "abstract": "Amazon Science 博客探讨机器学习研究智能体为何不易过拟合，分析其迭代式假设-实验-评估循环与普通监督学习的差异，并讨论评估协议设计。",
+  "tags": [
+    "研究智能体",
+    "过拟合",
+    "泛化",
+    "自动化科研",
+    "评估方法"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "amazon.science via rajtilakjee",
+  "published_at": "2026-09-14T12:19:19-05:00",
+  "fetched_at": "2026-09-17T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

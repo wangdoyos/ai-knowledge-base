@@ -1,0 +1,22 @@
+{
+  "id": "20260826-lobsters-ai-ml-002",
+  "title": "AI At Home Part 2: Multi GPU Drifting",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+  "summary": "AI At Home Part 2: Multi GPU Drifting 是一个技术教程项目，由 jdagostino 创建，旨在指导用户如何在家中搭建多 GPU 环境，并利用多个 GPU 进行 AI 模型的训练和推理。该项目是系列教程的第二部分，重点解决单 GPU 算力不足的问题，通过多 GPU 并行计算来加速深度学习任务。教程涵盖了硬件选型、驱动安装、CUDA 配置、多 GPU 通信（如 NCCL）以及分布式训练框架（如 PyTorch Distributed）的使用。项目提供了详细的步骤和代码示例，适合有一定深度学习基础、希望扩展本地算力的开发者和研究者。通过该教程，用户可以了解多 GPU 环境的搭建流程，并掌握如何将现有模型迁移到多 GPU 上运行，从而提升训练效率和模型规模。",
+  "abstract": "AI At Home Part 2 是一个多 GPU 搭建教程，指导用户在家配置多 GPU 环境，加速 AI 训练和推理，适合希望提升本地算力的开发者。",
+  "tags": [
+    "多GPU",
+    "分布式训练",
+    "PyTorch",
+    "CUDA",
+    "教程"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "jdagostino.github.io via nc",
+  "published_at": "2026-08-25T13:20:38-05:00",
+  "fetched_at": "2026-08-26T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

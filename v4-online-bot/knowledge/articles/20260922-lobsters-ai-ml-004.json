@@ -1,0 +1,22 @@
+{
+  "id": "20260922-lobsters-ai-ml-004",
+  "title": "A Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://github.com/volotat/mini-AGI/",
+  "summary": "mini-AGI 是一个在 8GB 显存笔记本上从零开始训练的持续学习模型，采用 batch-1 数据流，旨在探索通用人工智能（AGI）的轻量级实现。项目通过在线学习方式，使模型能够不断适应新数据而无需重新训练，解决了传统深度学习对大规模计算资源的依赖问题。核心特性包括：极低资源消耗（单样本训练）、持续学习能力（避免灾难性遗忘）、以及从零开始的端到端训练流程。该项目适合对 AGI 感兴趣的研究者、资源受限的开发者以及希望学习持续学习技术的爱好者。代码库包含模型定义、训练脚本和示例，但具体实现细节需参考仓库文档。",
+  "abstract": "mini-AGI 是一个在 8GB 显存笔记本上从零训练、支持 batch-1 数据流的持续学习模型，为资源受限场景下的 AGI 探索提供轻量级方案。",
+  "tags": [
+    "持续学习",
+    "轻量级模型",
+    "AGI",
+    "低资源训练",
+    "在线学习"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "github.com via Yogthos",
+  "published_at": "2026-09-21T12:22:31-05:00",
+  "fetched_at": "2026-09-22T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

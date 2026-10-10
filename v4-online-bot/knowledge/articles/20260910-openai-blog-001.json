@@ -1,0 +1,21 @@
+{
+  "id": "20260910-openai-blog-001",
+  "title": "GPT-6 Astra: The next generation in intelligence for work",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+  "summary": "GPT-6 Astra 是 OpenAI 推出的面向企业的最新一代模型，旨在提升工作中的智能水平。该模型具备高级推理能力、计算机使用能力以及更强的写作和设计判断力，能够处理复杂的业务任务，提高工作效率和产出质量。GPT-6 Astra 适用于需要自动化、辅助决策、内容创作和设计的企业场景，帮助团队更快地完成高质量工作。其核心特性包括强大的推理、与计算机交互的能力以及卓越的文本和视觉内容生成能力。对于寻求利用先进 AI 技术优化业务流程、增强竞争力的企业而言，GPT-6 Astra 是一个重要的工具。",
+  "abstract": "GPT-6 Astra 是 OpenAI 推出的面向企业的最新一代模型，具备高级推理、计算机使用和更强的写作与设计判断力，旨在提升工作中的智能水平，适用于复杂业务任务和内容创作。",
+  "tags": [
+    "GPT-6",
+    "OpenAI",
+    "企业AI",
+    "推理",
+    "计算机使用"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-09-09T11:00:00+00:00",
+  "fetched_at": "2026-09-10T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

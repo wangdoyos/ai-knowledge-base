@@ -1,0 +1,22 @@
+{
+  "id": "20260817-lobsters-ai-ml-015",
+  "title": "Are Latent Reasoning Models Easily Interpretable?",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://arxiv.org/abs/2604.04902",
+  "summary": "该论文探讨了潜在推理模型的可解释性问题。传统模型在连续隐藏状态中进行推理，而非输出可读文本，这使得监控变得困难。作者测试了Coconut和CODI两种模型，发现它们在逻辑任务（如PrOntoQA和ProsQA）中几乎不使用隐藏推理步骤。即使强制模型提前停止思考，它们仍能输出相同的结果。这表明模型的高性能并非来自推理步骤，而是源于其规范（spec）或其他机制。该研究对理解推理模型的工作机制和可解释性具有重要意义，适合AI研究人员、模型开发者以及对模型可解释性感兴趣的从业者阅读。",
+  "abstract": "该论文发现潜在推理模型（如Coconut和CODI）在逻辑任务中几乎不使用隐藏推理步骤，强制提前停止思考仍能输出相同结果，表明其高性能源于规范而非推理。",
+  "tags": [
+    "可解释性",
+    "推理模型",
+    "Coconut",
+    "CODI",
+    "逻辑任务"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "arxiv.org via Yogthos",
+  "published_at": "2026-08-15T11:17:13-05:00",
+  "fetched_at": "2026-08-17T23:22:35+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

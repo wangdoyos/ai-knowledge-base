@@ -1,0 +1,22 @@
+{
+  "id": "20260818-theverge-ai-019",
+  "title": "Google’s Pet Memory forgot who my cats are",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+  "summary": "Google 的 Pet Memory 功能是 Gemini for Home 的一部分，旨在解决智能家居摄像头通知过多导致用户错过重要信息的问题。该功能利用 Gemini 的 AI 能力，通过 Nest 摄像头识别并记忆用户的宠物，当宠物出现在画面中时，提供个性化的通知和更新，例如宠物活动摘要或特定事件的提醒。它帮助用户更有效地关注宠物的动态，减少无关通知的干扰。该功能适合拥有智能家居设备（尤其是 Nest 摄像头）的宠物主人，以及希望利用 AI 优化家庭监控体验的用户。核心特性包括宠物识别、个性化通知、活动摘要等。",
+  "abstract": "Google 的 Pet Memory 功能利用 Gemini AI 和 Nest 摄像头，智能识别并记忆宠物，提供个性化通知，减少干扰，帮助宠物主人更好地照顾宠物。",
+  "tags": [
+    "Google",
+    "Gemini",
+    "Pet Memory",
+    "智能家居",
+    "宠物识别"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "Jennifer Pattison Tuohy",
+  "published_at": "2026-08-18T08:01:29-04:00",
+  "fetched_at": "2026-08-18T23:00:16+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

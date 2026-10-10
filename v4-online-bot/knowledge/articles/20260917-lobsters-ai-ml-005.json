@@ -1,0 +1,22 @@
+{
+  "id": "20260917-lobsters-ai-ml-005",
+  "title": "Model Training Incidents are Negligence",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://taggart-tech.com/lying/",
+  "summary": "该仓库是一篇技术评论文章，标题为“Model Training Incidents are Negligence”，探讨了机器学习模型训练过程中发生的事故是否应归咎于疏忽。文章可能分析了多个模型训练失败的案例，指出许多事故并非不可避免，而是由于缺乏严谨的工程实践、风险评估和监控机制所致。作者主张，开发团队应对训练事故负有责任，并呼吁建立更严格的标准和流程。核心特性包括对事故的归因分析、对行业实践的批评以及改进建议。适合AI研究人员、机器学习工程师、技术管理者以及对AI伦理和安全感兴趣的人士阅读。",
+  "abstract": "本文探讨模型训练事故是否属于疏忽，主张开发团队应对事故负责，并呼吁更严格的工程实践。",
+  "tags": [
+    "模型训练",
+    "事故分析",
+    "AI安全",
+    "工程实践",
+    "责任归属"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "taggart-tech.com via untitaker",
+  "published_at": "2026-09-15T08:55:32-05:00",
+  "fetched_at": "2026-09-17T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

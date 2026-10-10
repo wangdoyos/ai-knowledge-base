@@ -1,0 +1,22 @@
+{
+  "id": "20260910-theverge-ai-010",
+  "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+  "summary": "苹果公司即将在iPhone 18 Pro系列中推出名为“Reference Image”的新功能，旨在通过硬件级加密签名技术验证照片的真实性，防止AI篡改。该功能利用新型相机传感器对每个像素进行签名，确保照片未被AI编辑或伪造。此举是对AI生成内容泛滥的回应，为摄影作品提供可信度证明。该功能主要面向摄影爱好者、新闻记者和法律取证等需要高可信度图像的领域，同时也为普通用户提供照片真实性的保障。苹果通过这一创新，在AI时代强化了其隐私和安全承诺，但该功能可能仅限于iPhone 18 Pro及后续机型，且需要配合特定软件生态使用。",
+  "abstract": "苹果iPhone 18 Pro将推出“Reference Image”功能，通过硬件级像素签名技术验证照片真实性，防止AI篡改，为摄影作品提供可信度证明。",
+  "tags": [
+    "Apple",
+    "iPhone",
+    "AI安全",
+    "照片验证",
+    "Reference Image"
+  ],
+  "category": "tool",
+  "language": "zh",
+  "author": "Emma Roth",
+  "published_at": "2026-09-09T15:30:12-04:00",
+  "fetched_at": "2026-09-10T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

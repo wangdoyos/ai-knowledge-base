@@ -1,0 +1,22 @@
+{
+  "id": "20260830-lobsters-ai-ml-001",
+  "title": "Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://github.com/todotge/canonical-basis",
+  "summary": "该项目提供了一种将Transformer内部坐标系旋转到规范基（canonical basis）的方法，该基与模型自身的权重矩阵无损对齐。通过将归一化增益直接吸收到相邻权重中，并利用模型奇异向量构建的正交矩阵，可以在不改变输出或困惑度的情况下转换Qwen或Pythia等架构。应用此变换可以揭示模型隐藏的几何结构，使得每个隐藏轴变得独立可测量和可控。这有助于深入理解Transformer的内部表示，并为模型编辑、可解释性和控制提供新的可能性。适合对模型可解释性、内部机制分析和AI安全感兴趣的研究者和开发者。",
+  "abstract": "该项目提供一种无损旋转Transformer内部坐标系到规范基的方法，使每个隐藏轴独立可测可控，揭示模型隐藏几何结构，适用于模型可解释性和控制。",
+  "tags": [
+    "Transformer",
+    "可解释性",
+    "规范基",
+    "模型控制",
+    "无损变换"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "github.com via Yogthos",
+  "published_at": "2026-08-29T15:16:54-05:00",
+  "fetched_at": "2026-08-30T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

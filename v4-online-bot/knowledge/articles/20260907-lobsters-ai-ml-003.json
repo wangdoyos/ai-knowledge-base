@@ -1,0 +1,22 @@
+{
+  "id": "20260907-lobsters-ai-ml-003",
+  "title": "Using machine learning on my Guitar Hero Controller",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://p0ly.com/ml_strummer.html",
+  "summary": "该项目展示了如何将机器学习应用于吉他英雄（Guitar Hero）控制器，通过改造硬件并结合ML模型实现自动演奏或手势识别。作者详细介绍了硬件改装过程（如传感器接入）、数据采集方法、模型训练（可能使用分类或回归算法）以及实时推理的实现。项目旨在探索低成本硬件与ML的结合，适合对嵌入式AI、DIY硬件和音乐游戏感兴趣的开发者。核心价值在于提供了一个从硬件到软件的全栈示例，帮助理解如何将传感器数据转化为有意义的预测输出。",
+  "abstract": "一个将机器学习应用于吉他英雄控制器的DIY项目，涵盖硬件改装、数据采集和模型训练，实现自动演奏或手势识别，适合嵌入式AI和DIY爱好者。",
+  "tags": [
+    "机器学习",
+    "吉他英雄",
+    "DIY硬件",
+    "传感器",
+    "实时推理"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "p0ly.com via jakob",
+  "published_at": "2026-09-04T10:23:26-05:00",
+  "fetched_at": "2026-09-07T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20260907-openai-blog-002",
+  "title": "Research acceleration: The view inside OpenAI",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/research-acceleration-view-inside-openai",
+  "summary": "OpenAI 官方博客文章，深入探讨了编码智能体（coding agents）如何重塑 AI 研究流程。文章基于 OpenAI 内部数据，分析了智能体在研究中的使用情况、实验速度、任务复杂度和研究加速效果。核心观点是，编码智能体显著提升了研究效率，使研究人员能够更快地迭代实验、处理更复杂的任务，并加速了从想法到实现的转化。文章还讨论了智能体在研究中的具体应用场景、面临的挑战以及未来的发展方向。适合对 AI 研究、智能体应用和 OpenAI 内部工作流程感兴趣的读者。",
+  "abstract": "OpenAI 官方博客揭示编码智能体如何加速 AI 研究，通过内部数据展示智能体在实验速度、任务复杂度和研究效率上的显著提升。",
+  "tags": [
+    "OpenAI",
+    "编码智能体",
+    "AI研究",
+    "研究加速",
+    "智能体应用"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-09-06T08:00:00+00:00",
+  "fetched_at": "2026-09-07T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

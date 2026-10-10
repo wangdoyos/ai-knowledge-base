@@ -1,0 +1,22 @@
+{
+  "id": "20260909-theverge-ai-003",
+  "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+  "summary": "Google DeepMind 发布了名为 AlphaGenome Atlas 的 AI 工具，旨在绘制人类基因组中所有可能的 DNA 字母变化的预测图谱。该平台利用先进的 AI 模型，能够预测基因变异对蛋白质功能的影响，从而帮助科学家理解基因变异与疾病之间的关联。AlphaGenome Atlas 的推出有望加速基因组学研究，推动个性化医疗的发展，并为罕见病和复杂疾病的治疗提供新思路。该工具面向生物医学研究人员、遗传学家和药物开发者，提供开放访问的数据库和可视化界面，便于探索基因变异的功能后果。其核心价值在于将 AI 应用于大规模基因组数据分析，降低研究门槛，促进科学发现。",
+  "abstract": "Google DeepMind 推出 AlphaGenome Atlas，一个利用 AI 预测人类基因组所有可能 DNA 变异影响的平台，旨在加速疾病研究和治疗开发。",
+  "tags": [
+    "基因组学",
+    "AI",
+    "DeepMind",
+    "疾病治疗",
+    "AlphaGenome"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "Robert Hart",
+  "published_at": "2026-09-08T10:00:00-04:00",
+  "fetched_at": "2026-09-09T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

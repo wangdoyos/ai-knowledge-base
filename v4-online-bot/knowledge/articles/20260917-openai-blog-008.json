@@ -1,0 +1,21 @@
+{
+  "id": "20260917-openai-blog-008",
+  "title": "How to connect AI usage to business value",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+  "summary": "本文是 OpenAI 官方发布的一篇企业实践指南，主题是如何将 AI 使用情况与业务价值挂钩。文章介绍了 ChatGPT Work 和 Codex 的分析功能，帮助团队理解 AI 的使用量、成本支出、识别培训需求，并将 AI 采用率与业务成果关联起来。核心内容包括：通过用量分析了解哪些团队和个人在使用 AI、使用频率和场景；通过成本分析掌握 AI 支出分布，优化预算分配；通过识别技能缺口制定针对性培训计划；最终将 AI 采用指标与业务 KPI（如效率提升、收入增长、客户满意度）建立关联，证明 AI 投资回报。适合企业管理者、IT 决策者、AI 推广负责人以及希望量化 AI 价值的团队阅读。文章强调，仅关注使用量不够，必须将使用数据与业务结果连接，才能实现真正的价值评估和持续优化。",
+  "abstract": "OpenAI 官方指南：利用 ChatGPT Work 和 Codex 分析功能，追踪 AI 使用与支出，识别培训需求，并将 AI 采用与业务成果关联，量化 AI 投资回报。",
+  "tags": [
+    "AI 采用",
+    "业务价值",
+    "分析",
+    "企业",
+    "OpenAI"
+  ],
+  "category": "other",
+  "language": "en",
+  "published_at": "2026-09-16T12:00:00+00:00",
+  "fetched_at": "2026-09-17T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

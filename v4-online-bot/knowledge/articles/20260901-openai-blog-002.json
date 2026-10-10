@@ -1,0 +1,21 @@
+{
+  "id": "20260901-openai-blog-002",
+  "title": "Polimill builds Japan's next-generation public AI infrastructure",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/polimill",
+  "summary": "Polimill 是日本一家利用 OpenAI GPT 模型和 Codex 构建下一代公共 AI 基础设施的公司。其核心产品旨在帮助市政机构高效搜索和利用行政知识，通过自然语言处理技术，将复杂的行政文档、法规和政策转化为可查询的知识库，从而提升公共服务的效率和透明度。Polimill 的解决方案不仅简化了行政信息的检索过程，还通过 Codex 加速了内部开发流程，使得市政工作人员能够更快速地响应市民需求。该项目特别适合地方政府、公共管理部门以及关注政务数字化的技术团队，它展示了 AI 在公共领域的实际应用潜力，有助于推动政府服务的智能化转型。",
+  "abstract": "Polimill 利用 OpenAI GPT 和 Codex 构建日本下一代公共 AI 基础设施，帮助市政机构高效搜索和利用行政知识，加速开发，提升公共服务效率。",
+  "tags": [
+    "AI基础设施",
+    "政务",
+    "GPT",
+    "Codex",
+    "知识管理"
+  ],
+  "category": "tool",
+  "language": "en",
+  "published_at": "2026-08-31T07:00:00+00:00",
+  "fetched_at": "2026-09-01T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

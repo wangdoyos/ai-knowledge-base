@@ -1,0 +1,10 @@
+{
+  "name": "qq-kb-bot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "QQ 官方机器人:群聊 + 私聊,推送知识库文章到群",
+  "engines": {
+    "node": ">=22"
+  }
+}

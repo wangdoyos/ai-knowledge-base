@@ -1,0 +1,22 @@
+{
+  "id": "20260910-google-ai-blog-003",
+  "title": "Recreating a 70-year love story frame by frame",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+  "summary": "Google DeepMind 与电影制作人合作，利用 AI 技术为短片《Love, Rendered》逐帧重现了一段未被记录的爱情故事。该项目展示了如何通过生成式 AI 和图像修复技术，将老照片和模糊记忆转化为生动的动态影像，填补了个人历史中的空白。核心特性包括：利用 AI 进行图像增强、面部重建和场景生成，使静态图像变为连贯的视频片段。该项目不仅体现了 AI 在创意产业中的应用潜力，也为个人记忆的保存和叙事提供了新工具。适合对 AI 与艺术结合感兴趣的开发者、电影制作人及技术爱好者。",
+  "abstract": "Google DeepMind 与电影制作人合作，利用 AI 技术逐帧重现了一段未被记录的爱情故事，展示了生成式 AI 在创意叙事和记忆修复中的潜力。",
+  "tags": [
+    "AI",
+    "图像生成",
+    "电影制作",
+    "记忆修复",
+    "Google DeepMind"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "<name>Michael Chang</name><title>Google DeepMind engineer</title><department/><company/>",
+  "published_at": "2026-09-09T16:00:00+00:00",
+  "fetched_at": "2026-09-10T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

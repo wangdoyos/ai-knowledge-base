@@ -1,0 +1,22 @@
+{
+  "id": "20260829-hackernews-best-ai-001",
+  "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+  "source": "hackernews-best-ai",
+  "source_url": "https://github.com/SenteLabsAI/OpenExecutive",
+  "summary": "OpenExecutive 是一个由 SenteLabsAI 发起的开源项目，源于一个讽刺性事件：某 CEO 解雇开发者以引入 AI，结果开发者们创建了一个开源的 AI CEO 来取代他。该项目旨在提供一个开源的 AI 代理，能够模拟 CEO 的决策和领导功能，包括任务分配、项目管理、战略规划等。它利用大型语言模型（LLM）来理解自然语言指令，并自动执行管理任务，从而减少对人工管理的依赖。核心特性包括：基于 LLM 的对话界面、任务自动化、团队协作模拟、以及可扩展的插件系统。该项目适合对 AI 代理、自动化管理感兴趣的研究者、开发者以及企业决策者，尤其适合希望探索 AI 在管理领域应用的用户。通过开源，它鼓励社区贡献，推动 AI 管理工具的民主化。",
+  "abstract": "OpenExecutive 是一个开源的 AI CEO 代理，利用 LLM 自动执行管理任务，如任务分配和战略规划，旨在探索 AI 在管理领域的应用，适合开发者和企业决策者。",
+  "tags": [
+    "AI代理",
+    "开源",
+    "LLM",
+    "管理自动化",
+    "CEO"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "GrumpySciGuy",
+  "published_at": "2026-08-27T01:46:22+00:00",
+  "fetched_at": "2026-08-29T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

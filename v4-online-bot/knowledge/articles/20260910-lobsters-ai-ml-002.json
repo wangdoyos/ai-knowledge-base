@@ -1,0 +1,22 @@
+{
+  "id": "20260910-lobsters-ai-ml-002",
+  "title": "Serving LLMs on Tenstorrent Hardware: Inside the vLLM TT Plugin",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://vllm.ai/blog/2026-09-07-vllm-tt-plugin",
+  "summary": "本文介绍了 Tenstorrent 硬件上的 vLLM TT 插件，该插件旨在将 vLLM 推理引擎无缝集成到 Tenstorrent 的 AI 加速器上。文章详细阐述了插件的架构设计、核心组件以及如何通过 TT 插件实现高性能的 LLM 推理。它解决了在非 NVIDIA 硬件上运行 vLLM 的兼容性问题，使得用户能够利用 Tenstorrent 的硬件优势（如高内存带宽和能效）来部署 LLM。文章还讨论了插件的性能优化策略、支持的模型以及未来的发展方向。适合对 LLM 推理优化、硬件加速和 vLLM 扩展感兴趣的开发者和研究人员阅读。",
+  "abstract": "本文深入解析了 vLLM TT 插件，该插件将 vLLM 推理引擎适配到 Tenstorrent 硬件上，实现了高性能、低成本的 LLM 部署，为 AI 推理提供了新的硬件选择。",
+  "tags": [
+    "vLLM",
+    "Tenstorrent",
+    "LLM推理",
+    "硬件加速",
+    "插件"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "vllm.ai via sanxiyn",
+  "published_at": "2026-09-09T03:18:10-05:00",
+  "fetched_at": "2026-09-10T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

@@ -1,0 +1,22 @@
+{
+  "id": "20260903-lobsters-ai-ml-003",
+  "title": "Researchers use AI to ‘democratize’ 3D printing of crucial metal alloy",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+  "summary": "华盛顿州立大学的研究人员利用人工智能技术，旨在将关键金属合金的3D打印过程‘民主化’，即让更多非专业人士也能轻松使用。该项目通过AI优化打印参数，解决了传统3D打印中金属合金（如钛合金）加工难度大、成本高的问题。核心特性包括自动调整打印设置、预测材料性能，从而减少试错成本和时间。适合材料科学家、制造业工程师以及希望进入金属3D打印领域的中小企业使用。",
+  "abstract": "华盛顿州立大学利用AI优化金属合金3D打印参数，降低技术门槛，使非专家也能高效打印高性能合金，推动制造业民主化。",
+  "tags": [
+    "AI",
+    "3D打印",
+    "金属合金",
+    "制造业",
+    "参数优化"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "news.wsu.edu via mempko",
+  "published_at": "2026-09-01T17:42:12-05:00",
+  "fetched_at": "2026-09-03T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}
