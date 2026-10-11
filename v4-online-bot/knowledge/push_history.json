@@ -6,6 +6,7 @@
     "https://arxiv.org/abs/2408.06602",
     "https://arxiv.org/abs/2604.04902",
     "https://arxiv.org/abs/2604.25580",
+    "https://arxiv.org/html/2610.05978v1",
     "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
@@ -127,6 +128,7 @@
     "https://p0ly.com/ml_strummer.html",
     "https://responsiblestatecraft.org/israel-influence-chatgpt/",
     "https://ryan.freumh.org/hillingar.html",
+    "https://samkhawase.com/blog/voxlocal-minimal-voice-agent/",
     "https://scottaaronson.blog/?p=10046",
     "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
@@ -158,6 +160,8 @@
     "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
     "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
     "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
     "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
     "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
     "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
@@ -227,5 +231,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-10-10 15:17:49"
+  "updated_at": "2026-10-11 08:03:03"
 }

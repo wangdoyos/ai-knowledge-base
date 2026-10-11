@@ -1,0 +1,22 @@
+{
+  "id": "20261011-lobsters-ai-ml-001",
+  "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://arxiv.org/html/2610.05978v1",
+  "summary": "本文挑战了语言模型必须依赖显式分词器才能高效运行的假设，证明标准扁平 Transformer 可以直接处理原始字节序列，并且随着参数规模增大，其性能实际上超过传统子词模型。领域内普遍认为处理原始字节计算效率低，因为序列长度显著增加（一个典型子词约含四个字节）。作者论证这种额外序列长度并非不可逾越的障碍，反而在规模扩展中带来优势。研究涉及缩放规律、涌现抽象和信息分配等核心问题，为无分词器的语言建模提供了理论和实证支持。该工作适合对 LLM 架构、分词替代方案、缩放定律及高效训练感兴趣的研究人员和工程师，可能推动更简洁、更通用的语言模型设计。",
+  "abstract": "本文证明标准扁平 Transformer 可直接处理原始字节序列，且随参数规模增大性能超越传统子词模型，挑战了语言模型必须依赖分词器的固有假设。",
+  "tags": [
+    "字节级语言模型",
+    "分词器",
+    "缩放定律",
+    "Transformer",
+    "涌现抽象"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "arxiv.org via Yogthos",
+  "published_at": "2026-10-10T17:25:14-05:00",
+  "fetched_at": "2026-10-11T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

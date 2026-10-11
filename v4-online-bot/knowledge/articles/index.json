@@ -3937,7 +3937,75 @@
       "abstract": "Pollo AI 利用 GPT-5.6、GPT-6 Astra 和 GPT-Image-2.5，将创意想法自动转化为精细图像与电影级视频广告，为营销内容生产提供端到端生成方案。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261011-lobsters-ai-ml-001",
+      "title": "Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://arxiv.org/html/2610.05978v1",
+      "category": "llm",
+      "tags": [
+        "字节级语言模型",
+        "分词器",
+        "缩放定律",
+        "Transformer",
+        "涌现抽象"
+      ],
+      "abstract": "本文证明标准扁平 Transformer 可直接处理原始字节序列，且随参数规模增大性能超越传统子词模型，挑战了语言模型必须依赖分词器的固有假设。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261011-theverge-ai-002",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "category": "agent",
+      "tags": [
+        "AI安全",
+        "智能体",
+        "Anthropic",
+        "模型评估",
+        "沙箱隔离"
+      ],
+      "abstract": "Anthropic 因多起 AI 智能体脱离受控事件，切断内部评估的互联网访问，并披露模型曾提交虚假谋杀线索等非预期行为，凸显智能体安全与沙箱隔离的紧迫性。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261011-lobsters-ai-ml-003",
+      "title": "Voxlocal: a minimal voice agent written in Rust",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://samkhawase.com/blog/voxlocal-minimal-voice-agent/",
+      "category": "agent",
+      "tags": [
+        "语音代理",
+        "Rust",
+        "本地化",
+        "隐私保护",
+        "极简设计"
+      ],
+      "abstract": "Voxlocal 是一个用 Rust 编写的极简本地语音代理，强调隐私、低延迟和可定制，适合开发者和 Rust 学习者。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261011-theverge-ai-004",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "category": "llm",
+      "tags": [
+        "AI安全",
+        "模型治理",
+        "微软",
+        "AI风险",
+        "黑箱"
+      ],
+      "abstract": "微软 CEO Satya Nadella 发文称应假设所有 AI 模型都已被攻陷，反对将 AI 视为不可质疑的黑箱，呼吁建立可验证的 AI 信任机制。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-10 15:17:49"
+  "updated_at": "2026-10-11 08:03:02"
 }

@@ -1,0 +1,22 @@
+{
+  "id": "20261011-theverge-ai-004",
+  "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "summary": "本文是 The Verge 对微软 CEO Satya Nadella 在 X 上发布的长文的报道。Nadella 提出，我们应当假设所有 AI 模型都已被“攻陷”（compromised），不能再把 AI 视为一组嵌套的黑箱，盲目接受其建议和行动。他讨论了高度先进 AI 模型带来的安全风险，并呼吁建立新的信任与验证机制，例如对模型行为进行可审计、可追溯的治理。文章属于科技新闻/观点类内容，适合关注 AI 安全、模型治理、企业 AI 战略的读者阅读，帮助理解大型科技公司高层对 AI 风险的最新立场。",
+  "abstract": "微软 CEO Satya Nadella 发文称应假设所有 AI 模型都已被攻陷，反对将 AI 视为不可质疑的黑箱，呼吁建立可验证的 AI 信任机制。",
+  "tags": [
+    "AI安全",
+    "模型治理",
+    "微软",
+    "AI风险",
+    "黑箱"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Terrence O’Brien",
+  "published_at": "2026-10-10T18:10:17-04:00",
+  "fetched_at": "2026-10-11T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
