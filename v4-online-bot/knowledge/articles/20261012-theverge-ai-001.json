@@ -1,0 +1,22 @@
+{
+  "id": "20261012-theverge-ai-001",
+  "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+  "summary": "这是一篇来自 The Verge 的科技专栏文章，作者记录了自己首次尝试在本地运行 AI 模型的体验。由于对将个人数据交给云服务感到担忧，作者选择在 Mac Studio 上部署 Hermes 和 Qwen 等开源模型，探索本地 AI 的可行性。文章详细描述了从安装配置到实际使用的全过程，包括遇到的困难、性能表现以及最终收获。作者认为本地 AI 虽然令人兴奋，但也充满挫败感，目前仍不适合普通用户日常使用，但对于注重隐私的技术爱好者来说，已经具备一定实用价值。文章为想要尝试本地 AI 的读者提供了真实的一手参考。",
+  "abstract": "The Verge 作者分享在 Mac Studio 上本地运行 Hermes 和 Qwen 模型的亲身体验，探讨本地 AI 的潜力与挑战，适合关注隐私和本地部署的读者。",
+  "tags": [
+    "本地AI",
+    "隐私保护",
+    "开源模型",
+    "Mac Studio",
+    "体验报告"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Antonio G. Di Benedetto",
+  "published_at": "2026-10-11T07:00:00-04:00",
+  "fetched_at": "2026-10-12T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}
