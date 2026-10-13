@@ -4022,7 +4022,57 @@
       "abstract": "The Verge 作者分享在 Mac Studio 上本地运行 Hermes 和 Qwen 模型的亲身体验，探讨本地 AI 的潜力与挑战，适合关注隐私和本地部署的读者。",
       "quality_score": 3.8,
       "status": "reviewed"
+    },
+    {
+      "id": "20261013-theverge-ai-001",
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "category": "llm",
+      "tags": [
+        "AI芯片",
+        "微软",
+        "推理加速",
+        "云计算",
+        "智能体"
+      ],
+      "abstract": "微软发布第三代自研AI芯片Maia 300，定位为微软产品的主要AI推理系统，旨在降低对英伟达GPU的依赖，提升云端AI推理效率并支持推理模型与智能体任务。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261013-google-ai-blog-002",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "category": "other",
+      "tags": [
+        "Google Beam",
+        "视频会议",
+        "AI",
+        "远程协作",
+        "光场显示"
+      ],
+      "abstract": "Google Beam 扩展至五个新国家，并与 Industrious 合作扩大沉浸式视频会议网络，利用 AI 和光场技术提升远程会议的真实感。",
+      "quality_score": 3.8,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261013-theverge-ai-003",
+      "title": "Meta has some Wonder Full new AI models",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "category": "llm",
+      "tags": [
+        "Meta",
+        "大模型",
+        "AI竞赛",
+        "模型发布"
+      ],
+      "abstract": "Meta推出Muse Wonder和Muse Wonder Full两款新AI模型，声称性能可媲美行业顶尖水平，这是其重组超级智能实验室后的又一重要动作。",
+      "quality_score": 3.8,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-12 08:03:10"
+  "updated_at": "2026-10-13 08:03:33"
 }

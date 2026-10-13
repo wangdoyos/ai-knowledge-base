@@ -1,0 +1,22 @@
+{
+  "id": "20261013-google-ai-blog-002",
+  "title": "Google Beam expands with new regions, partners, and customers",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+  "summary": "Google Beam 是 Google 推出的沉浸式视频会议技术，基于光场显示和 AI 驱动的 3D 建模，旨在让远程会议参与者获得如同面对面交流的真实感。本次更新宣布将 Beam 扩展到五个新国家，并与共享办公空间提供商 Industrious 合作，在更多地点部署 Beam 设备，从而扩大其网络覆盖。该技术解决了传统视频会议缺乏眼神交流、空间感和临场感的问题，通过多摄像头捕捉和 AI 实时渲染，将参会者以 3D 形式呈现，提升远程协作体验。核心特性包括：光场显示、AI 驱动的实时 3D 重建、低延迟传输、以及与 Google Meet 等工具的集成。适合企业团队、远程工作者、跨国公司和需要高质量远程协作的场景。此次扩展标志着 Google 在 AI 与通信技术融合方面的进一步落地。",
+  "abstract": "Google Beam 扩展至五个新国家，并与 Industrious 合作扩大沉浸式视频会议网络，利用 AI 和光场技术提升远程会议的真实感。",
+  "tags": [
+    "Google Beam",
+    "视频会议",
+    "AI",
+    "远程协作",
+    "光场显示"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "<name>Aaron Luber</name><title>Director, Business Development</title><department>Google Beam</department><company/>",
+  "published_at": "2026-09-23T18:00:00+00:00",
+  "fetched_at": "2026-10-13T08:00:06+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}

@@ -1,0 +1,21 @@
+{
+  "id": "20261013-theverge-ai-003",
+  "title": "Meta has some Wonder Full new AI models",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+  "summary": "本文报道了Meta在AI领域的最新进展，推出了两款新模型Muse Wonder和Muse Wonder Full，声称能与行业最佳模型竞争。此前Meta已发布Muse Spark（来自重组后的超级智能实验室）和AI代理Muse。文章指出Meta正在努力追赶AI竞赛中的落后局面，新模型可能具备强大的多模态或推理能力，但具体技术细节和性能指标尚未完全披露。该报道适合关注AI行业动态、大模型竞争格局以及Meta AI战略的读者，提供了Meta在生成式AI领域持续投入的信号，但缺乏深入的技术分析。",
+  "abstract": "Meta推出Muse Wonder和Muse Wonder Full两款新AI模型，声称性能可媲美行业顶尖水平，这是其重组超级智能实验室后的又一重要动作。",
+  "tags": [
+    "Meta",
+    "大模型",
+    "AI竞赛",
+    "模型发布"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Robert Hart",
+  "published_at": "2026-10-12T13:00:00-04:00",
+  "fetched_at": "2026-10-13T08:00:06+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}
