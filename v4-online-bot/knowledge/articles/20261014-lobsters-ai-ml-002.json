@@ -1,0 +1,22 @@
+{
+  "id": "20261014-lobsters-ai-ml-002",
+  "title": "Running RAG with a (small) language model in the browser",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+  "summary": "本文介绍如何在浏览器中运行一个基于小型语言模型的RAG（检索增强生成）系统。作者使用WebLLM和Transformers.js等技术，在客户端实现文本嵌入、向量检索和文本生成，无需服务器支持。核心挑战在于浏览器环境资源有限，需要选择合适的小型模型（如Phi-2、TinyLlama）并优化内存和计算。文章详细展示了从加载模型、构建向量数据库到执行检索和生成的完整流程，并提供了代码示例。适合对边缘AI、隐私保护RAG或前端AI应用感兴趣的开发者。",
+  "abstract": "在浏览器中利用小型语言模型实现RAG，无需服务器，保护隐私且降低延迟。",
+  "tags": [
+    "浏览器",
+    "RAG",
+    "小型语言模型",
+    "WebLLM",
+    "边缘计算"
+  ],
+  "category": "rag",
+  "language": "en",
+  "author": "bart.degoe.de by bart",
+  "published_at": "2026-10-13T10:56:29-05:00",
+  "fetched_at": "2026-10-14T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

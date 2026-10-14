@@ -1,0 +1,22 @@
+{
+  "id": "20261014-theverge-ai-003",
+  "title": "Shopify opens its catalog up to more AI agents",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+  "summary": "Shopify 宣布进一步向更多 AI 智能体开放其商品目录，允许消费者配置 AI 智能体代表自己浏览和购买商品。这一举措是 Shopify 在智能体商务（agentic commerce）领域野心的重要扩展。此前，Shopify 的商品目录已对部分 AI 助手开放，而此次扩展将覆盖超过 10 亿条商品列表，使更多第三方 AI 智能体能够接入并完成购买流程。这意味着消费者可以授权 AI 智能体自动搜索、比价、下单，无需手动操作。对于开发者而言，Shopify 提供了标准化的接口和权限机制，方便构建购物类 AI 应用；对于商家，则意味着新的流量入口和销售渠道。该新闻反映了电商平台与 AI 智能体深度融合的趋势，可能推动 AI 购物助手成为主流。适合关注 AI 商务、智能体应用、电商技术及自动化购物场景的读者。",
+  "abstract": "Shopify 向更多 AI 智能体开放超 10 亿商品目录，允许消费者授权 AI 代表自己浏览和购买，推动智能体商务发展。",
+  "tags": [
+    "AI智能体",
+    "电商",
+    "自动化购物",
+    "Shopify",
+    "智能体商务"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Mia Sato",
+  "published_at": "2026-10-13T15:42:42-04:00",
+  "fetched_at": "2026-10-14T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

@@ -7,6 +7,8 @@
     "https://arxiv.org/abs/2604.04902",
     "https://arxiv.org/abs/2604.25580",
     "https://arxiv.org/html/2610.05978v1",
+    "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
     "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
@@ -81,6 +83,7 @@
     "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "https://openai.com/index/hex-gpt-6-astra",
     "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "https://openai.com/index/higgsfield-longer-videos-voice",
     "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "https://openai.com/index/introducing-admin-plugin",
@@ -207,6 +210,7 @@
     "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
     "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
     "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+    "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
     "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
     "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
     "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
@@ -235,5 +239,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-10-13 08:03:33"
+  "updated_at": "2026-10-14 08:03:22"
 }

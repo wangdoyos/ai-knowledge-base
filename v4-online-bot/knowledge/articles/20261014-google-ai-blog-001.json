@@ -1,0 +1,22 @@
+{
+  "id": "20261014-google-ai-blog-001",
+  "title": "Gemini 4 Argon: Built to solve your hardest problems",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+  "summary": "Gemini 4 Argon 是 Google 发布的最新前沿 AI 模型，旨在解决最困难的问题。该模型面向开发者、企业、科学家和消费者开放，提供强大的推理和问题解决能力。作为 Gemini 系列的最新成员，Argon 在复杂任务处理、多模态理解和高级推理方面有显著提升，适用于科研、企业级应用和日常消费场景。其核心特性包括更强的逻辑推理、更长的上下文窗口、更高的准确性以及更广泛的知识覆盖。适合需要处理高难度问题的 AI 研究人员、开发者、数据科学家以及寻求先进 AI 解决方案的企业用户。",
+  "abstract": "Google 发布 Gemini 4 Argon 前沿模型，面向开发者、企业、科学家和消费者，旨在解决最困难的问题，提供更强的推理和问题解决能力。",
+  "tags": [
+    "Gemini",
+    "大语言模型",
+    "Google",
+    "前沿模型",
+    "AI"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "<name>Koray Kavukcuoglu</name><title>SVP, Google DeepMind and Chief AI Architect, Google</title><department/><company/>",
+  "published_at": "2026-10-13T16:00:00+00:00",
+  "fetched_at": "2026-10-14T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

@@ -4072,7 +4072,75 @@
       "abstract": "Meta推出Muse Wonder和Muse Wonder Full两款新AI模型，声称性能可媲美行业顶尖水平，这是其重组超级智能实验室后的又一重要动作。",
       "quality_score": 3.8,
       "status": "reviewed"
+    },
+    {
+      "id": "20261014-google-ai-blog-001",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "category": "llm",
+      "tags": [
+        "Gemini",
+        "大语言模型",
+        "Google",
+        "前沿模型",
+        "AI"
+      ],
+      "abstract": "Google 发布 Gemini 4 Argon 前沿模型，面向开发者、企业、科学家和消费者，旨在解决最困难的问题，提供更强的推理和问题解决能力。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261014-lobsters-ai-ml-002",
+      "title": "Running RAG with a (small) language model in the browser",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
+      "category": "rag",
+      "tags": [
+        "浏览器",
+        "RAG",
+        "小型语言模型",
+        "WebLLM",
+        "边缘计算"
+      ],
+      "abstract": "在浏览器中利用小型语言模型实现RAG，无需服务器，保护隐私且降低延迟。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261014-theverge-ai-003",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "category": "agent",
+      "tags": [
+        "AI智能体",
+        "电商",
+        "自动化购物",
+        "Shopify",
+        "智能体商务"
+      ],
+      "abstract": "Shopify 向更多 AI 智能体开放超 10 亿商品目录，允许消费者授权 AI 代表自己浏览和购买，推动智能体商务发展。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261014-openai-blog-004",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "category": "llm",
+      "tags": [
+        "AI视频生成",
+        "多模态",
+        "OpenAI",
+        "语音驱动",
+        "长视频"
+      ],
+      "abstract": "OpenAI 博客介绍 Higgsfield 利用 GPT-6 Astra 等模型将 AI 视频生成从 1 分钟延长至 10 分钟以上，并支持精准视觉与语音电影制作。",
+      "quality_score": 4.0,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-13 08:03:33"
+  "updated_at": "2026-10-14 08:03:22"
 }
