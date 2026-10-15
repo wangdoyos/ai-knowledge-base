@@ -1,0 +1,21 @@
+{
+  "id": "20261015-openai-blog-002",
+  "title": "Amp puts AI agents to work beyond code with OpenAI models",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/amp-beyond-coding",
+  "summary": "本文是 OpenAI 官方博客文章，介绍 Amp 如何利用 OpenAI 的 GPT-6 Astra、Ultrafast、GPT-Live-1 等模型以及 Sign in with ChatGPT 功能，将 AI 智能体（Agent）的应用从传统的代码生成扩展到更广泛的领域。Amp 是一个基于 AI 智能体的平台，旨在突破智能体仅能完成编程任务的局限，使其能够处理更复杂的现实世界工作流。文章展示了 Amp 如何借助 OpenAI 的前沿模型实现多步骤推理、实时交互和任务自动化，从而让智能体在非编码场景中也能发挥价值。核心特性包括：多模型集成（GPT-6 Astra 负责复杂推理，Ultrafast 负责低延迟响应，GPT-Live-1 负责实时交互）、无缝的 ChatGPT 登录体验，以及面向企业级工作流的智能体编排能力。该内容适合 AI 开发者、产品经理、企业技术决策者以及对智能体应用前沿感兴趣的研究人员阅读，帮助他们了解如何将 AI 智能体从代码辅助扩展到更广泛的业务自动化场景。",
+  "abstract": "OpenAI 博客展示 Amp 如何利用 GPT-6 Astra、Ultrafast 和 GPT-Live-1 等模型，将 AI 智能体从代码生成扩展到更广泛的现实工作流，突破智能体仅能编程的边界。",
+  "tags": [
+    "AI Agent",
+    "OpenAI",
+    "GPT-6",
+    "工作流自动化",
+    "智能体应用"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "fetched_at": "2026-10-15T08:00:05+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

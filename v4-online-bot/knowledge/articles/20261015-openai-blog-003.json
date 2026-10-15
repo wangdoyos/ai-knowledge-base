@@ -1,0 +1,21 @@
+{
+  "id": "20261015-openai-blog-003",
+  "title": "SentinelOne cuts malware analysis from weeks to hours",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/sentinelone",
+  "summary": "这是一篇来自 OpenAI 官方博客的案例研究，介绍了网络安全公司 SentinelOne 如何借助 OpenAI 的 Daybreak 模型（或服务）将恶意软件分析时间从数周缩短至数小时。SentinelOne 是一家专注于端点安全与威胁情报的安全厂商，其安全团队每天需要处理大量可疑样本，传统的人工逆向工程与行为分析流程耗时极长，导致大量威胁无法及时调查。通过引入 OpenAI 的 AI 能力，SentinelOne 实现了对恶意软件样本的自动化初步分析、代码摘要、行为意图推断和威胁分类，大幅提升了分析效率，使安全分析师能够将精力集中在更复杂、更高价值的威胁上，从而扩展了整体威胁调查容量。该案例展示了 LLM 在网络安全运营（SecOps）中的实际落地价值，适合安全工程师、威胁情报分析师、AI 应用开发者以及对 LLM 行业应用感兴趣的技术决策者阅读。",
+  "abstract": "OpenAI 博客分享 SentinelOne 利用 OpenAI Daybreak 将恶意软件分析从数周缩短至数小时，释放安全团队容量以调查更多威胁，展示了 LLM 在网络安全运营中的实际价值。",
+  "tags": [
+    "网络安全",
+    "恶意软件分析",
+    "LLM应用",
+    "威胁情报",
+    "OpenAI"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-14T12:00:00+00:00",
+  "fetched_at": "2026-10-15T08:00:05+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}

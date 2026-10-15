@@ -1,0 +1,21 @@
+{
+  "id": "20261015-openai-blog-001",
+  "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/third-moment-research",
+  "summary": "本文是 OpenAI 官方博客对 Third Moment Research 的案例介绍。该 AI 实验室利用 GPT-6 Astra、GPT-6.1 Sol、Codex 以及面向网络安全的 Daybreak 等模型与工具，构建了能够持续运行 36 小时以上、同时调度 10,000 个智能体的系统。其核心目标是解决传统 AI 智能体难以长时间保持专注、无法在使用中持续改进的问题。通过长时程任务编排、多智能体并行调度以及基于使用反馈的自我优化机制，这些智能体可以在网络安全等复杂场景中执行需要数天才能完成的深度任务。该方案适合需要大规模自动化推理、持续监控或安全分析的研究团队与企业开发者，展示了前沿模型在长周期、高并发智能体工作流中的工程实践与能力边界。",
+  "abstract": "OpenAI 博客介绍 Third Moment Research 如何用 GPT-6 系列模型与 Codex 运行 10,000 个智能体超 36 小时，实现长时专注与持续改进。",
+  "tags": [
+    "多智能体",
+    "长时程任务",
+    "OpenAI",
+    "网络安全",
+    "Codex"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-10-14T07:00:00+00:00",
+  "fetched_at": "2026-10-15T08:00:05+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

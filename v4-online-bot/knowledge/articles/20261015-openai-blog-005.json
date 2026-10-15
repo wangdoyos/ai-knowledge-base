@@ -1,0 +1,21 @@
+{
+  "id": "20261015-openai-blog-005",
+  "title": "The EU’s next chapter in AI is agentic",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+  "summary": "这是 OpenAI 发布的一篇公司博客，主题为欧盟在 AI 领域的下一篇章——代理式 AI（agentic AI）。文章基于新的分析数据，展示了代理式 AI 在欧盟各类企业（包括大型企业和中小企业）中的采用增长情况，并探讨了在哪些领域更深入的使用可以释放更多价值。代理式 AI 指的是能够自主规划、执行任务并调用工具完成复杂工作流的 AI 系统，代表了从被动问答到主动执行的重要演进。该博客可能涵盖采用率趋势、行业分布、典型用例以及政策建议等内容，旨在帮助欧盟企业和政策制定者理解代理式 AI 的现状与潜力。适合关注 AI 企业应用、欧盟 AI 政策、以及代理式 AI 发展趋势的技术决策者、产品经理、研究人员和政策分析师阅读。",
+  "abstract": "OpenAI 博客分析欧盟企业采用代理式 AI 的增长趋势，探讨更深入使用如何释放价值，适合关注 AI 企业应用与政策的人士。",
+  "tags": [
+    "代理式AI",
+    "欧盟",
+    "企业采用",
+    "AI政策",
+    "OpenAI"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-10-14T00:00:00+00:00",
+  "fetched_at": "2026-10-15T08:00:05+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

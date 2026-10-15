@@ -55,11 +55,13 @@
     "https://noaifridays.com/",
     "https://openai.com/index/ai-native-company-workflows",
     "https://openai.com/index/ai-policy-window",
+    "https://openai.com/index/amp-beyond-coding",
     "https://openai.com/index/an-alien-mind",
     "https://openai.com/index/asana-browser-agent",
     "https://openai.com/index/astra-for-law",
     "https://openai.com/index/atv-big-air-tour",
     "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "https://openai.com/index/block-ai-powered-security",
     "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "https://openai.com/index/builders-guide-to-gpt-5-6",
     "https://openai.com/index/building-standards-next-phase-ai",
@@ -119,11 +121,14 @@
     "https://openai.com/index/safety-overview-gpt-6-astra",
     "https://openai.com/index/sam-altman-un-security-council-remarks",
     "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "https://openai.com/index/sentinelone",
     "https://openai.com/index/stampli",
     "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "https://openai.com/index/the-defenders-window",
+    "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
     "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "https://openai.com/index/third-moment-research",
     "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "https://openai.com/index/unlocking-new-ways-of-working",
     "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -168,6 +173,7 @@
     "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
     "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
     "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
     "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
     "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
     "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
@@ -239,5 +245,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-10-14 08:03:22"
+  "updated_at": "2026-10-15 08:04:29"
 }

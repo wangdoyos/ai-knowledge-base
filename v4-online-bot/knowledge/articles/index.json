@@ -4140,7 +4140,109 @@
       "abstract": "OpenAI 博客介绍 Higgsfield 利用 GPT-6 Astra 等模型将 AI 视频生成从 1 分钟延长至 10 分钟以上，并支持精准视觉与语音电影制作。",
       "quality_score": 4.0,
       "status": "reviewed"
+    },
+    {
+      "id": "20261015-openai-blog-001",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/third-moment-research",
+      "category": "agent",
+      "tags": [
+        "多智能体",
+        "长时程任务",
+        "OpenAI",
+        "网络安全",
+        "Codex"
+      ],
+      "abstract": "OpenAI 博客介绍 Third Moment Research 如何用 GPT-6 系列模型与 Codex 运行 10,000 个智能体超 36 小时，实现长时专注与持续改进。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261015-openai-blog-002",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/amp-beyond-coding",
+      "category": "agent",
+      "tags": [
+        "AI Agent",
+        "OpenAI",
+        "GPT-6",
+        "工作流自动化",
+        "智能体应用"
+      ],
+      "abstract": "OpenAI 博客展示 Amp 如何利用 GPT-6 Astra、Ultrafast 和 GPT-Live-1 等模型，将 AI 智能体从代码生成扩展到更广泛的现实工作流，突破智能体仅能编程的边界。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261015-openai-blog-003",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/sentinelone",
+      "category": "llm",
+      "tags": [
+        "网络安全",
+        "恶意软件分析",
+        "LLM应用",
+        "威胁情报",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 博客分享 SentinelOne 利用 OpenAI Daybreak 将恶意软件分析从数周缩短至数小时，释放安全团队容量以调查更多威胁，展示了 LLM 在网络安全运营中的实际价值。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261015-openai-blog-004",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/block-ai-powered-security",
+      "category": "llm",
+      "tags": [
+        "AI安全",
+        "OpenAI",
+        "威胁检测",
+        "自动化修复",
+        "案例研究"
+      ],
+      "abstract": "Block 利用 OpenAI 技术构建 AI 安全体系，安全团队可快速调查威胁并在几分钟内提出补丁，显著提升响应效率。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261015-openai-blog-005",
+      "title": "The EU’s next chapter in AI is agentic",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "category": "agent",
+      "tags": [
+        "代理式AI",
+        "欧盟",
+        "企业采用",
+        "AI政策",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 博客分析欧盟企业采用代理式 AI 的增长趋势，探讨更深入使用如何释放价值，适合关注 AI 企业应用与政策的人士。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261015-theverge-ai-006",
+      "title": "The AI race is back on",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "category": "llm",
+      "tags": [
+        "AI竞赛",
+        "大模型",
+        "科技巨头",
+        "行业分析",
+        "The Verge"
+      ],
+      "abstract": "The Verge 文章分析 AI 竞赛格局变化：Anthropic 和 OpenAI 曾看似领先，但谷歌和 Meta 正重新加入战局，竞争再度升温。",
+      "quality_score": 3.8,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-14 08:03:22"
+  "updated_at": "2026-10-15 08:04:28"
 }

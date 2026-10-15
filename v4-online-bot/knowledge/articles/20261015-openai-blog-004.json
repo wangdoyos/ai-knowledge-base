@@ -1,0 +1,21 @@
+{
+  "id": "20261015-openai-blog-004",
+  "title": "How Block is building AI-powered security with OpenAI technology",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/block-ai-powered-security",
+  "summary": "本文是 OpenAI 官方博客的一篇案例研究，介绍了支付公司 Block（前身为 Square）如何利用 OpenAI 技术构建 AI 驱动的安全体系。Block 的安全团队借助 OpenAI 模型，能够更快地调查安全威胁，并在几分钟内提出补丁建议，从而大幅提升安全响应效率。文章详细阐述了 Block 将 AI 集成到安全运营中的具体方式，包括威胁检测、调查和修复等环节，展示了 AI 在网络安全领域的实际应用价值。该内容适合安全工程师、AI 应用开发者以及关注 AI 落地实践的技术决策者阅读，帮助他们了解如何利用大模型提升安全运维的自动化与智能化水平。",
+  "abstract": "Block 利用 OpenAI 技术构建 AI 安全体系，安全团队可快速调查威胁并在几分钟内提出补丁，显著提升响应效率。",
+  "tags": [
+    "AI安全",
+    "OpenAI",
+    "威胁检测",
+    "自动化修复",
+    "案例研究"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-14T07:00:00+00:00",
+  "fetched_at": "2026-10-15T08:00:05+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}
