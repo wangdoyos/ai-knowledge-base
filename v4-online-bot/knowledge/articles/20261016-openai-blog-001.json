@@ -1,0 +1,21 @@
+{
+  "id": "20261016-openai-blog-001",
+  "title": "Teaching students to think and learn through questions",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+  "summary": "这是 OpenAI 官方发布的一篇教育主题博客，旨在庆祝教师节并介绍 AI for Educators 项目（新增巴西葡萄牙语支持）以及 ChatGPT 的 Study Mode（学习模式）。文章核心探讨如何利用 AI 引导学生主动思考、逐步学习，而非直接给出答案。Study Mode 通过苏格拉底式提问、分步引导和个性化反馈，帮助学生培养批判性思维与自主学习能力，同时为教师提供辅助教学的工具。该博客面向教育工作者、学校管理者以及对 AI 教育应用感兴趣的人群，展示了生成式 AI 在课堂中的实际应用场景与教学理念。内容强调 AI 作为学习伙伴而非答案机器，体现了 OpenAI 在教育领域的持续投入与本地化努力。",
+  "abstract": "OpenAI 教育博客：庆祝教师节，介绍 AI for Educators 的巴西葡萄牙语版本及 Study Mode，展示 AI 如何通过提问引导学生主动学习。",
+  "tags": [
+    "教育",
+    "AI 教学",
+    "ChatGPT",
+    "学习模式",
+    "OpenAI"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-15T13:00:00+00:00",
+  "fetched_at": "2026-10-16T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

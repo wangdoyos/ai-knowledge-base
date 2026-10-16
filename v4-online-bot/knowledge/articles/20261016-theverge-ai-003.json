@@ -1,0 +1,22 @@
+{
+  "id": "20261016-theverge-ai-003",
+  "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+  "summary": "本文报道了 Bluesky 旗下 AI 工具 Attie 的功能升级。Attie 最初于今年早些时候推出，主要用途是让用户借助 AI 构建个性化的信息流（feeds）。如今该工具进一步扩展，允许用户创建「小型」社交应用，例如游戏、投票（polls）和仪表盘（dashboards），并能将这些应用作为独立网站分享给他人。Bluesky CEO Toni Schneider 在 TechCrunch Disrupt 大会的采访中介绍了这一进展。该功能的意义在于降低社交应用开发门槛，让普通用户无需深厚编程背景即可通过自然语言与 AI 协作，快速生成可交互、可分享的轻量级社交产品，从而丰富去中心化社交生态的内容形态。适合对 AI 辅助开发、社交产品创新、去中心化社交平台（如 Bluesky/AT Protocol）感兴趣的产品经理、独立开发者、内容创作者及技术爱好者阅读。",
+  "abstract": "Bluesky 的 AI 工具 Attie 新增能力：用户可用 AI 创建游戏、投票、仪表盘等小型社交应用，并作为独立网站分享，进一步降低社交应用开发门槛。",
+  "tags": [
+    "Bluesky",
+    "AI 应用生成",
+    "社交应用",
+    "去中心化社交",
+    "低代码"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Jay Peters",
+  "published_at": "2026-10-15T15:57:16-04:00",
+  "fetched_at": "2026-10-16T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

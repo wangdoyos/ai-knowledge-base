@@ -4242,7 +4242,58 @@
       "abstract": "The Verge 文章分析 AI 竞赛格局变化：Anthropic 和 OpenAI 曾看似领先，但谷歌和 Meta 正重新加入战局，竞争再度升温。",
       "quality_score": 3.8,
       "status": "reviewed"
+    },
+    {
+      "id": "20261016-openai-blog-001",
+      "title": "Teaching students to think and learn through questions",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "category": "llm",
+      "tags": [
+        "教育",
+        "AI 教学",
+        "ChatGPT",
+        "学习模式",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 教育博客：庆祝教师节，介绍 AI for Educators 的巴西葡萄牙语版本及 Study Mode，展示 AI 如何通过提问引导学生主动学习。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261016-theverge-ai-002",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "category": "agent",
+      "tags": [
+        "ChatGPT",
+        "Chrome扩展",
+        "浏览器集成",
+        "AI代理",
+        "隐私"
+      ],
+      "abstract": "OpenAI 为 ChatGPT 的 Chrome 扩展新增标签页读取能力，用户可在 ChatGPT 中 @Chrome 让其查看当前打开的浏览器标签页，实现基于浏览上下文的智能问答与操作。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261016-theverge-ai-003",
+      "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "category": "agent",
+      "tags": [
+        "Bluesky",
+        "AI 应用生成",
+        "社交应用",
+        "去中心化社交",
+        "低代码"
+      ],
+      "abstract": "Bluesky 的 AI 工具 Attie 新增能力：用户可用 AI 创建游戏、投票、仪表盘等小型社交应用，并作为独立网站分享，进一步降低社交应用开发门槛。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-15 08:04:28"
+  "updated_at": "2026-10-16 08:03:14"
 }
