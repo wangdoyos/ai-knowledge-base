@@ -1,0 +1,22 @@
+{
+  "id": "20261017-lobsters-ai-ml-004",
+  "title": "Neural Networks Are Already Clean",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://already-clean.goodfire.com/",
+  "summary": "该项目是一个关于神经网络可解释性的交互式网页文章，标题为“Neural Networks Are Already Clean”。它探讨了神经网络内部表示是否已经足够清晰，无需额外清理或简化。通过可视化工具和交互式演示，展示了神经元激活、特征表示等，帮助理解模型内部机制。核心特性包括交互式探索、直观的可视化以及针对可解释性研究的讨论。适合对神经网络可解释性、AI安全以及模型内部机制感兴趣的研究人员、工程师和学生。",
+  "abstract": "一个交互式网页文章，探讨神经网络内部表示是否已经足够清晰，并提供可视化工具帮助理解模型可解释性。",
+  "tags": [
+    "可解释性",
+    "神经网络",
+    "可视化",
+    "交互式",
+    "AI安全"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "already-clean.goodfire.com via Yogthos",
+  "published_at": "2026-10-15T17:25:03-05:00",
+  "fetched_at": "2026-10-17T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

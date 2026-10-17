@@ -1,6 +1,7 @@
 {
   "urls": [
     "https://agentgit.co/",
+    "https://already-clean.goodfire.com/",
     "https://anil.recoil.org/notes/rumour-is-the-exploit",
     "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
     "https://arxiv.org/abs/2408.06602",
@@ -97,6 +98,7 @@
     "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "https://openai.com/index/introducing-the-agents-api",
     "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "https://openai.com/index/itau-generative-ai",
     "https://openai.com/index/jalapeno-first-results",
     "https://openai.com/index/learning-never-stops",
     "https://openai.com/index/legalon-halves-codex-costs",
@@ -122,8 +124,10 @@
     "https://openai.com/index/sam-altman-un-security-council-remarks",
     "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "https://openai.com/index/sentinelone",
+    "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "https://openai.com/index/stampli",
     "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "https://openai.com/index/sullivan-cromwell",
     "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
     "https://openai.com/index/the-defenders-window",
@@ -227,6 +231,7 @@
     "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
     "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
     "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+    "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
     "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
     "https://www.theverge.com/tech/982270/meta-ai-mac-app",
     "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
@@ -248,5 +253,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-10-16 08:03:15"
+  "updated_at": "2026-10-17 08:03:11"
 }

@@ -4293,7 +4293,92 @@
       "abstract": "Bluesky 的 AI 工具 Attie 新增能力：用户可用 AI 创建游戏、投票、仪表盘等小型社交应用，并作为独立网站分享，进一步降低社交应用开发门槛。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261017-openai-blog-001",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "category": "agent",
+      "tags": [
+        "ChatGPT插件",
+        "Codex",
+        "Agent开发",
+        "增长案例",
+        "Stack Overflow"
+      ],
+      "abstract": "Stack Overflow 两名工程师用 Codex 数周内构建 Agent 平台，ChatGPT 插件驱动注册量增长三倍、Agent 创建量提升 10 倍。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261017-openai-blog-002",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/sullivan-cromwell",
+      "category": "llm",
+      "tags": [
+        "法律科技",
+        "合同审查",
+        "OpenAI",
+        "大语言模型",
+        "AI应用"
+      ],
+      "abstract": "Sullivan & Cromwell 与 OpenAI 合作推出 Agreement Analyzer，利用 AI 自动识别合同草案中的问题，提升法律审查效率。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261017-openai-blog-003",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/itau-generative-ai",
+      "category": "llm",
+      "tags": [
+        "生成式AI",
+        "金融科技",
+        "企业落地",
+        "AI治理",
+        "对话式AI"
+      ],
+      "abstract": "OpenAI 博客分享巴西银行 Itaú 的生成式 AI 实践：通过对话界面 ia.i 服务全部客户，并以 IARA 平台实现合规治理，展示受监管行业规模化落地 LLM 的路径。",
+      "quality_score": 4.3,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261017-lobsters-ai-ml-004",
+      "title": "Neural Networks Are Already Clean",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://already-clean.goodfire.com/",
+      "category": "other",
+      "tags": [
+        "可解释性",
+        "神经网络",
+        "可视化",
+        "交互式",
+        "AI安全"
+      ],
+      "abstract": "一个交互式网页文章，探讨神经网络内部表示是否已经足够清晰，并提供可视化工具帮助理解模型可解释性。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261017-theverge-ai-005",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "category": "llm",
+      "tags": [
+        "Meta",
+        "AI训练数据",
+        "版权",
+        "新闻出版商",
+        "科技政策"
+      ],
+      "abstract": "Meta 新商业条款将于 10 月 30 日生效，据 Nieman Lab 报道，该条款可能允许 Meta 免费抓取并利用关联新闻网站的内容来训练其 AI 模型，引发版权与内容权益争议。",
+      "quality_score": 4.0,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-16 08:03:14"
+  "updated_at": "2026-10-17 08:03:10"
 }

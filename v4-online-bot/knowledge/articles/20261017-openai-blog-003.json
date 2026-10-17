@@ -1,0 +1,21 @@
+{
+  "id": "20261017-openai-blog-003",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/itau-generative-ai",
+  "summary": "本文是 OpenAI 官方博客发布的企业案例，介绍巴西最大银行 Itaú 如何面向其全部客户群体构建生成式 AI 能力。Itaú 在巴西这一高度监管的金融行业中推行“AI First”战略，核心成果包括面向客户的对话式界面 ia.i 和面向内部治理的 IARA 平台。ia.i 作为对话式交互入口，让客户能够以自然语言完成银行业务咨询与操作，降低使用门槛；IARA 则承担 AI 治理职责，确保模型应用符合金融监管、数据安全与合规要求。该案例展示了大型金融机构如何在严格监管下规模化落地生成式 AI，兼顾客户体验与员工效率。适合银行、金融科技从业者、企业 AI 负责人、合规与治理人员，以及关注 LLM 企业级落地的读者参考。",
+  "abstract": "OpenAI 博客分享巴西银行 Itaú 的生成式 AI 实践：通过对话界面 ia.i 服务全部客户，并以 IARA 平台实现合规治理，展示受监管行业规模化落地 LLM 的路径。",
+  "tags": [
+    "生成式AI",
+    "金融科技",
+    "企业落地",
+    "AI治理",
+    "对话式AI"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-16T19:00:00+00:00",
+  "fetched_at": "2026-10-17T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 4.3
+}

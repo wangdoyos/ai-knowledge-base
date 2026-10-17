@@ -1,0 +1,22 @@
+{
+  "id": "20261017-theverge-ai-005",
+  "title": "Meta’s new terms may allow it to train AI on news sites for free",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+  "summary": "这是一篇来自 The Verge 的科技新闻报道，聚焦 Meta 即将于 10 月 30 日生效的新商业条款。根据 Nieman Lab 的报道，新条款似乎赋予 Meta 抓取和爬取与其平台“关联”的网站内容的权限，这些网站包括使用 Meta 平台的在线新闻出版商。条款明确表示，Meta 可以利用这些外部内容来“开发、改进、研究”以及“训练”其 AI 系统。这意味着 Meta 可能无需向新闻机构支付费用，即可将新闻网站内容用于 AI 模型训练。该报道引发了关于版权、内容创作者权益以及 AI 训练数据来源合法性的广泛讨论。对于新闻出版商、内容创作者、AI 伦理研究者以及关注科技巨头数据使用政策的读者来说，这一动态具有重要参考价值。它反映了当前 AI 训练数据获取中普遍存在的法律与伦理争议，也提示内容方需要重新审视与平台之间的协议条款。",
+  "abstract": "Meta 新商业条款将于 10 月 30 日生效，据 Nieman Lab 报道，该条款可能允许 Meta 免费抓取并利用关联新闻网站的内容来训练其 AI 模型，引发版权与内容权益争议。",
+  "tags": [
+    "Meta",
+    "AI训练数据",
+    "版权",
+    "新闻出版商",
+    "科技政策"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-10-16T10:02:40-04:00",
+  "fetched_at": "2026-10-17T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}
