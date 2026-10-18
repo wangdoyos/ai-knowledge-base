@@ -4378,7 +4378,24 @@
       "abstract": "Meta 新商业条款将于 10 月 30 日生效，据 Nieman Lab 报道，该条款可能允许 Meta 免费抓取并利用关联新闻网站的内容来训练其 AI 模型，引发版权与内容权益争议。",
       "quality_score": 4.0,
       "status": "reviewed"
+    },
+    {
+      "id": "20261018-theverge-ai-001",
+      "title": "Websites are closing their doors to AI agents",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "category": "agent",
+      "tags": [
+        "AI代理",
+        "网络爬虫",
+        "网站封锁",
+        "自主代理",
+        "互联网生态"
+      ],
+      "abstract": "The Verge 文章探讨自主 AI 代理在互联网上遭遇网站封锁的现实困境，揭示 AI 代理落地与网络生态之间的冲突。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-17 08:03:10"
+  "updated_at": "2026-10-18 08:03:21"
 }

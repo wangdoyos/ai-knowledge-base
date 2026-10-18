@@ -1,0 +1,22 @@
+{
+  "id": "20261018-theverge-ai-001",
+  "title": "Websites are closing their doors to AI agents",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "summary": "这是一篇来自 The Verge 的科技评论文章，探讨了自主 AI 代理（Autonomous Agents）在互联网上遭遇的阻力。文章指出，OpenAI、Meta、Google、Instinct 等公司正大力推广能够代替用户浏览网页、预订餐厅、清理收件箱、购买商品的 AI 代理，但与此同时，越来越多的网站开始主动关闭对 AI 代理的访问大门。文章分析了这一矛盾背后的原因，包括网站对内容被自动化抓取的担忧、安全与隐私风险、反爬虫机制的升级，以及 AI 代理与现有网络生态之间的冲突。该内容适合关注 AI 代理落地挑战、网络开放性与内容治理的开发者、产品经理和科技从业者阅读，帮助理解 AI 代理从演示走向真实世界时面临的基础设施与生态障碍。",
+  "abstract": "The Verge 文章探讨自主 AI 代理在互联网上遭遇网站封锁的现实困境，揭示 AI 代理落地与网络生态之间的冲突。",
+  "tags": [
+    "AI代理",
+    "网络爬虫",
+    "网站封锁",
+    "自主代理",
+    "互联网生态"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-10-17T09:00:00-04:00",
+  "fetched_at": "2026-10-18T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
