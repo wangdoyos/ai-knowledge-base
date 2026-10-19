@@ -4395,7 +4395,24 @@
       "abstract": "The Verge 文章探讨自主 AI 代理在互联网上遭遇网站封锁的现实困境，揭示 AI 代理落地与网络生态之间的冲突。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261019-openai-blog-001",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/benefit-street-partners",
+      "category": "tool",
+      "tags": [
+        "Codex",
+        "AI 编程助手",
+        "金融科技",
+        "代码审查",
+        "企业案例"
+      ],
+      "abstract": "OpenAI 案例：Benefit Street Partners 工程师用 Codex 构建贷款估值对比与信贷协议分析工具，加速代码审查与需求响应。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-18 08:03:21"
+  "updated_at": "2026-10-19 08:03:29"
 }
