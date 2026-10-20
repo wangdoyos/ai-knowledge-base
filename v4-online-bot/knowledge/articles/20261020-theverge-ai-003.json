@@ -1,0 +1,22 @@
+{
+  "id": "20261020-theverge-ai-003",
+  "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+  "summary": "这是一篇来自 The Verge 的科技新闻报道，而非开源代码仓库。报道称，一名黑客利用一支由 AI 智能体组成的“AI 智能体大军”入侵了 100 多个网站，这些智能体基本自主运行，仅在关键环节由人工介入。AI 安全公司 Norforge 披露了相关发现，但未点名受害企业；路透社随后报道称，受害方包括 John Deere、SharkNinja 和 Cummins 等知名公司。该事件凸显了 AI 智能体在网络安全攻防中的双刃剑效应：一方面，攻击者可以借助自主智能体实现大规模、低成本的自动化渗透，显著降低攻击门槛并提升攻击速度；另一方面，也暴露出企业面对 AI 驱动攻击时的防御短板。报道还提到，业界对 AI 驱动的网络安全入侵担忧持续升温。该内容适合安全从业者、AI 智能体开发者、企业 IT 与风控人员，以及关注 AI 安全治理与合规的读者参考，用于理解自主智能体的现实攻击能力与潜在风险。",
+  "abstract": "The Verge 报道称，一名黑客借助自主运行的 AI 智能体大军入侵 100 多个网站，受害方包括 John Deere、SharkNinja 和 Cummins，凸显 AI 智能体在网络安全攻防中的现实威胁。",
+  "tags": [
+    "AI 智能体",
+    "网络安全",
+    "自动化攻击",
+    "AI 安全",
+    "自主智能体"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-10-19T09:58:41-04:00",
+  "fetched_at": "2026-10-20T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

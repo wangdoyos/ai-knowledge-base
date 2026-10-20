@@ -4412,7 +4412,58 @@
       "abstract": "OpenAI 案例：Benefit Street Partners 工程师用 Codex 构建贷款估值对比与信贷协议分析工具，加速代码审查与需求响应。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261020-lobsters-ai-ml-001",
+      "title": "Timestral: Mistral's time-series foundation models",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://mistral.ai/news/timestral/",
+      "category": "llm",
+      "tags": [
+        "时间序列",
+        "基础模型",
+        "Mistral",
+        "预测",
+        "预训练"
+      ],
+      "abstract": "Mistral 推出的 Timestral 时间序列基础模型，用预训练大模型范式实现通用时序预测，支持零样本/少样本场景，降低建模与调参成本。",
+      "quality_score": 4.1,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261020-openai-blog-002",
+      "title": "Advancing coding in low‑resource programming languages",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/low-resource-programming-languages",
+      "category": "llm",
+      "tags": [
+        "低资源编程语言",
+        "代码生成",
+        "COBOL 迁移",
+        "模型评测",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 官方博客，介绍如何通过新增软件工程、SQLite 与 COBOL 迁移评测，提升 ChatGPT 在低资源编程语言上的编码能力。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261020-theverge-ai-003",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "category": "agent",
+      "tags": [
+        "AI 智能体",
+        "网络安全",
+        "自动化攻击",
+        "AI 安全",
+        "自主智能体"
+      ],
+      "abstract": "The Verge 报道称，一名黑客借助自主运行的 AI 智能体大军入侵 100 多个网站，受害方包括 John Deere、SharkNinja 和 Cummins，凸显 AI 智能体在网络安全攻防中的现实威胁。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-19 08:03:29"
+  "updated_at": "2026-10-20 08:04:06"
 }
