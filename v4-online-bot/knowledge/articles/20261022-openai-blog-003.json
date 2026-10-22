@@ -1,0 +1,21 @@
+{
+  "id": "20261022-openai-blog-003",
+  "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+  "summary": "Patch the Planet 是 OpenAI 发布的一篇公司博客，介绍了一个名为 Patch the Planet 的全球响应协调机制。该机制旨在连接安全研究人员、开源项目维护者和事件响应人员，共同应对开源软件中的关键漏洞。随着 AI Agent 被用于大规模发现漏洞，漏洞披露和修复的节奏面临新的挑战，Patch the Planet 通过协调多方协作，帮助在漏洞被恶意利用之前完成修复。博客阐述了该项目的背景、运作方式以及为何在 AI 时代需要更高效的协同披露流程。适合开源维护者、安全研究人员、企业安全团队以及对 AI 安全治理感兴趣的读者阅读。",
+  "abstract": "OpenAI 博客介绍 Patch the Planet：连接安全研究员、开源维护者与事件响应者，协调披露并修复开源关键漏洞，应对 AI Agent 大规模发现漏洞带来的新挑战。",
+  "tags": [
+    "漏洞披露",
+    "开源安全",
+    "AI Agent",
+    "协同响应",
+    "安全治理"
+  ],
+  "category": "other",
+  "language": "en",
+  "published_at": "2026-10-21T07:00:00+00:00",
+  "fetched_at": "2026-10-22T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

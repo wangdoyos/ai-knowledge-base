@@ -4463,7 +4463,58 @@
       "abstract": "The Verge 报道称，一名黑客借助自主运行的 AI 智能体大军入侵 100 多个网站，受害方包括 John Deere、SharkNinja 和 Cummins，凸显 AI 智能体在网络安全攻防中的现实威胁。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261022-lobsters-ai-ml-001",
+      "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+      "category": "other",
+      "tags": [
+        "PyTorch",
+        "AI安全",
+        "反向传播",
+        "供应链安全",
+        "图灵完备"
+      ],
+      "abstract": "文章揭示 PyTorch 反向传播可被滥用执行图灵完备的恶意代码，为 AI 模型供应链安全敲响警钟。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261022-openai-blog-002",
+      "title": "OpenAI models are coming to Google Cloud",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/openai-models-google-cloud",
+      "category": "llm",
+      "tags": [
+        "OpenAI",
+        "Google Cloud",
+        "模型托管",
+        "企业集成",
+        "Codex"
+      ],
+      "abstract": "OpenAI 宣布其前沿模型与 Codex 工作流将上架 Google Cloud 的 Gemini Model Garden，并通过 Google Cloud Marketplace 提供，方便企业客户在现有 GCP 环境中直接采购和调用 OpenAI 能力。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261022-openai-blog-003",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "category": "other",
+      "tags": [
+        "漏洞披露",
+        "开源安全",
+        "AI Agent",
+        "协同响应",
+        "安全治理"
+      ],
+      "abstract": "OpenAI 博客介绍 Patch the Planet：连接安全研究员、开源维护者与事件响应者，协调披露并修复开源关键漏洞，应对 AI Agent 大规模发现漏洞带来的新挑战。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-20 08:04:06"
+  "updated_at": "2026-10-22 08:03:38"
 }

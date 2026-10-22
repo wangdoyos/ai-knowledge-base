@@ -1,0 +1,21 @@
+{
+  "id": "20261022-openai-blog-002",
+  "title": "OpenAI models are coming to Google Cloud",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/openai-models-google-cloud",
+  "summary": "这是 OpenAI 官方发布的一篇公司博客，宣布 OpenAI 的前沿模型（frontier models）以及 Codex 工作流将接入 Google Cloud 的 Gemini Model Garden，并通过 Google Cloud Marketplace 提供。该消息解决的核心问题是：企业客户可以在自己已经使用的 Google Cloud 环境中直接调用 OpenAI 模型，无需额外搭建独立的接入通道或采购流程，从而降低多云 AI 集成的门槛。核心特性包括：OpenAI 前沿模型上架 Gemini Model Garden、Codex 编码工作流可在 Google Cloud 体系内使用、通过 Google Cloud Marketplace 统一计费与采购。适合使用 Google Cloud 的企业开发者、平台架构师和采购决策者，尤其是希望在现有云生态中引入 OpenAI 能力、同时保持合规与统一账单管理的团队。该内容属于产品合作公告，技术细节有限，但对多云 AI 部署策略具有参考价值。",
+  "abstract": "OpenAI 宣布其前沿模型与 Codex 工作流将上架 Google Cloud 的 Gemini Model Garden，并通过 Google Cloud Marketplace 提供，方便企业客户在现有 GCP 环境中直接采购和调用 OpenAI 能力。",
+  "tags": [
+    "OpenAI",
+    "Google Cloud",
+    "模型托管",
+    "企业集成",
+    "Codex"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-21T12:00:00+00:00",
+  "fetched_at": "2026-10-22T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

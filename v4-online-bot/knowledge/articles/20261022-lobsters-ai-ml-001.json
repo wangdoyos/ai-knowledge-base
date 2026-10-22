@@ -1,0 +1,22 @@
+{
+  "id": "20261022-lobsters-ai-ml-001",
+  "title": "How to Run Turing-Complete Malware in PyTorch's Backward Pass",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+  "summary": "这是一篇技术博客文章，探讨了如何在 PyTorch 的反向传播（backward pass）过程中运行图灵完备的恶意代码。文章揭示了 PyTorch 自动微分机制的一个安全隐患：反向传播过程中会执行用户自定义的梯度函数（如 autograd.Function 的 backward 方法），攻击者可以借此在模型训练或推理的反向传播阶段注入并执行任意代码，从而实现图灵完备的恶意逻辑。文章从理论层面论证了反向传播计算图具备图灵完备性，并给出了具体的实现思路与示例，说明恶意代码可以隐藏在看似正常的模型梯度计算中，绕过常规的模型审查。该内容适合深度学习框架开发者、AI 安全研究人员、模型供应链安全从业者以及对 PyTorch 内部机制感兴趣的高级工程师阅读，提醒社区关注模型文件与自定义算子的安全风险。",
+  "abstract": "文章揭示 PyTorch 反向传播可被滥用执行图灵完备的恶意代码，为 AI 模型供应链安全敲响警钟。",
+  "tags": [
+    "PyTorch",
+    "AI安全",
+    "反向传播",
+    "供应链安全",
+    "图灵完备"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "elonlit.com via rrampage",
+  "published_at": "2026-10-21T16:06:35-05:00",
+  "fetched_at": "2026-10-22T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
