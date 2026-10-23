@@ -4514,7 +4514,40 @@
       "abstract": "OpenAI 博客介绍 Patch the Planet：连接安全研究员、开源维护者与事件响应者，协调披露并修复开源关键漏洞，应对 AI Agent 大规模发现漏洞带来的新挑战。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261023-openai-blog-001",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "category": "llm",
+      "tags": [
+        "企业应用",
+        "ChatGPT",
+        "生产力工具",
+        "案例研究",
+        "OpenAI"
+      ],
+      "abstract": "Uber 将 ChatGPT Work 推广至 3 万多名员工，用于研究、数据分析、演示文稿和复杂工作流，展示了生成式 AI 在企业级场景的规模化落地。",
+      "quality_score": 4.0,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261023-theverge-ai-002",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "category": "other",
+      "tags": [
+        "AI 图像生成",
+        "Canva",
+        "设计工具",
+        "两阶段架构"
+      ],
+      "abstract": "Canva 发布自研 AI 图像模型 Canva Craft，采用两阶段架构先规划后生成，提升设计精度与控制力，直接挑战 OpenAI 等巨头。",
+      "quality_score": 3.8,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-22 08:03:38"
+  "updated_at": "2026-10-23 08:03:54"
 }

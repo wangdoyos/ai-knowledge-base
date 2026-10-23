@@ -1,0 +1,21 @@
+{
+  "id": "20261023-openai-blog-001",
+  "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/uber-chatgpt-work-rollout",
+  "summary": "本文是 OpenAI 官方博客文章，介绍 Uber 将 ChatGPT Work 推广至超过 30,000 名员工的企业级应用案例。Uber 通过部署 ChatGPT Work，帮助团队进行研究、数据分析、创建演示文稿以及完成复杂工作流程。文章详细说明了 Uber 如何利用 ChatGPT Work 提升员工生产力，包括在工程、产品、运营等部门的实际应用场景，并强调了企业级安全与合规特性。该案例展示了大型企业如何将生成式 AI 工具集成到日常工作中，为其他考虑类似部署的组织提供参考。适合企业决策者、IT 管理者以及对 AI 企业应用感兴趣的技术人员阅读。",
+  "abstract": "Uber 将 ChatGPT Work 推广至 3 万多名员工，用于研究、数据分析、演示文稿和复杂工作流，展示了生成式 AI 在企业级场景的规模化落地。",
+  "tags": [
+    "企业应用",
+    "ChatGPT",
+    "生产力工具",
+    "案例研究",
+    "OpenAI"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-22T00:00:00+00:00",
+  "fetched_at": "2026-10-23T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}

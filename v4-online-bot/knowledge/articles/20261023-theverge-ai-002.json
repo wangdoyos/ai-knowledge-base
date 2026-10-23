@@ -1,0 +1,21 @@
+{
+  "id": "20261023-theverge-ai-002",
+  "title": "Canva’s first AI image model plans designs before generating them",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+  "summary": "Canva 推出了其首个自研 AI 图像生成模型 Canva Craft，直接与 OpenAI、微软和谷歌的图像生成模型竞争。该模型采用两阶段架构，先生成设计方案再生成图像，从而提升精度、一致性和控制力。Canva Craft 旨在帮助用户更高效地创建高质量设计，尤其适合设计师、营销人员等需要快速生成视觉内容的用户。通过将 AI 深度集成到设计流程中，Canva 进一步降低了设计门槛，提升了创作效率。",
+  "abstract": "Canva 发布自研 AI 图像模型 Canva Craft，采用两阶段架构先规划后生成，提升设计精度与控制力，直接挑战 OpenAI 等巨头。",
+  "tags": [
+    "AI 图像生成",
+    "Canva",
+    "设计工具",
+    "两阶段架构"
+  ],
+  "category": "other",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-10-22T17:51:25-04:00",
+  "fetched_at": "2026-10-23T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.8
+}
