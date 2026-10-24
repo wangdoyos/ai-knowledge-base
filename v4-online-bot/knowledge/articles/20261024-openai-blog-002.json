@@ -1,0 +1,21 @@
+{
+  "id": "20261024-openai-blog-002",
+  "title": "Securing our frontier model training environment",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+  "summary": "这是 OpenAI 官方发布的一篇安全工程博客，介绍其如何强化前沿模型训练与评估环境的安全隔离（containment）措施。文章聚焦于训练环境的安全架构，包括将训练与评估环境与外部网络隔离的离线（offline）设计、对高算力红队测试（high-compute red-teaming）的支撑与管控，以及防止模型权重、数据和内部系统被未授权访问或外泄的防护策略。核心价值在于公开分享了大规模前沿模型训练基础设施的安全实践，涵盖网络隔离、访问控制、红队演练环境等工程细节，为从事大模型训练平台建设、AI 安全与合规的团队提供参考。适合 AI 基础设施工程师、安全工程师、MLOps 平台建设者以及对前沿模型安全治理感兴趣的从业者阅读。",
+  "abstract": "OpenAI 官方博客，介绍其如何通过离线隔离环境与高算力红队测试等手段，强化前沿模型训练与评估环境的安全防护。",
+  "tags": [
+    "AI 安全",
+    "模型训练基础设施",
+    "环境隔离",
+    "红队测试",
+    "访问控制"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-23T10:00:00+00:00",
+  "fetched_at": "2026-10-24T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

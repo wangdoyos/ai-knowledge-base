@@ -4547,7 +4547,41 @@
       "abstract": "Canva 发布自研 AI 图像模型 Canva Craft，采用两阶段架构先规划后生成，提升设计精度与控制力，直接挑战 OpenAI 等巨头。",
       "quality_score": 3.8,
       "status": "reviewed"
+    },
+    {
+      "id": "20261024-openai-blog-001",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "category": "other",
+      "tags": [
+        "分布式存储",
+        "多租户",
+        "全局缓存",
+        "Azure Cosmos DB",
+        "ChatGPT 基础设施"
+      ],
+      "abstract": "OpenAI 官方博客详解 Habitat 存储系统如何支撑 10 亿 ChatGPT 用户，通过多租户、全局缓存与 Cosmos DB 实现读取性能 12 倍提升。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261024-openai-blog-002",
+      "title": "Securing our frontier model training environment",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "category": "llm",
+      "tags": [
+        "AI 安全",
+        "模型训练基础设施",
+        "环境隔离",
+        "红队测试",
+        "访问控制"
+      ],
+      "abstract": "OpenAI 官方博客，介绍其如何通过离线隔离环境与高算力红队测试等手段，强化前沿模型训练与评估环境的安全防护。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-23 08:03:54"
+  "updated_at": "2026-10-24 08:04:13"
 }

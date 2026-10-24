@@ -1,0 +1,21 @@
+{
+  "id": "20261024-openai-blog-001",
+  "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+  "summary": "这是 OpenAI 官方工程博客系列的第二篇，介绍其内部在线存储系统 Habitat 如何支撑超过 10 亿 ChatGPT 用户。文章聚焦大规模存储的工程挑战，重点讲解三项核心改进：可靠的多租户隔离机制、全局缓存层设计，以及基于 Azure Cosmos DB 的元数据存储方案。通过这些优化，ChatGPT 的读取性能提升了 12 倍。内容涵盖架构决策、容量扩展策略、缓存一致性与多租户资源隔离等实践细节，属于大规模分布式存储系统的生产经验分享。适合后端工程师、分布式系统架构师、云基础设施从业者，以及对超大规模 AI 产品基础设施感兴趣的读者阅读。",
+  "abstract": "OpenAI 官方博客详解 Habitat 存储系统如何支撑 10 亿 ChatGPT 用户，通过多租户、全局缓存与 Cosmos DB 实现读取性能 12 倍提升。",
+  "tags": [
+    "分布式存储",
+    "多租户",
+    "全局缓存",
+    "Azure Cosmos DB",
+    "ChatGPT 基础设施"
+  ],
+  "category": "other",
+  "language": "en",
+  "published_at": "2026-10-23T17:00:00+00:00",
+  "fetched_at": "2026-10-24T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
