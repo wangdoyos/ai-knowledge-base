@@ -1,0 +1,22 @@
+{
+  "id": "20261025-lobsters-ai-ml-001",
+  "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://arxiv.org/abs/2610.14162",
+  "summary": "该仓库对应论文《Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation》，提出一种名为 Next-Concept Modeling（下一概念建模）的文本生成范式，用于解决传统自回归语言模型逐 token 串行解码速度慢、长文本生成延迟高的问题。其核心思想是采用由粗到细（coarse-to-fine）的生成策略：先生成高层的语义概念或短语级单元，再并行地细化填充为完整文本，从而在保持生成质量的同时显著提升解码并行度与推理速度。该方法属于对 LLM 解码范式的改进研究，涉及并行生成、多粒度建模与推理加速等方向。适合从事大语言模型架构、高效推理、文本生成算法研究的科研人员与工程开发者参考，也可为需要低延迟文本生成的应用场景提供思路。当前仓库信息以论文摘要与评论为主，代码与实验细节的完整度有限。",
+  "abstract": "提出 Next-Concept Modeling，一种由粗到细的并行文本生成范式，先生成概念级单元再并行细化，以缓解自回归逐 token 解码的速度瓶颈。",
+  "tags": [
+    "文本生成",
+    "并行解码",
+    "推理加速",
+    "LLM架构",
+    "coarse-to-fine"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "arxiv.org via Yogthos",
+  "published_at": "2026-10-23T12:25:34-05:00",
+  "fetched_at": "2026-10-25T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

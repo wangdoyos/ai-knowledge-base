@@ -4581,7 +4581,24 @@
       "abstract": "OpenAI 官方博客，介绍其如何通过离线隔离环境与高算力红队测试等手段，强化前沿模型训练与评估环境的安全防护。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261025-lobsters-ai-ml-001",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://arxiv.org/abs/2610.14162",
+      "category": "llm",
+      "tags": [
+        "文本生成",
+        "并行解码",
+        "推理加速",
+        "LLM架构",
+        "coarse-to-fine"
+      ],
+      "abstract": "提出 Next-Concept Modeling，一种由粗到细的并行文本生成范式，先生成概念级单元再并行细化，以缓解自回归逐 token 解码的速度瓶颈。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-24 08:04:13"
+  "updated_at": "2026-10-25 08:03:31"
 }
