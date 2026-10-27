@@ -4598,7 +4598,58 @@
       "abstract": "提出 Next-Concept Modeling，一种由粗到细的并行文本生成范式，先生成概念级单元再并行细化，以缓解自回归逐 token 解码的速度瓶颈。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261027-openai-blog-001",
+      "title": "Working with academic communities to build scientific understanding",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "category": "llm",
+      "tags": [
+        "AI for Science",
+        "数学猜想",
+        "科学发现",
+        "OpenAI",
+        "学术合作"
+      ],
+      "abstract": "OpenAI 博客介绍其与学术社区合作，用模型在 Kakeya 猜想、指数时间假设和量子色动力学上取得研究结果，并说明研究者如何验证与推进。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261027-openai-blog-002",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "category": "agent",
+      "tags": [
+        "代码安全",
+        "AI 代码审查",
+        "安全智能体",
+        "DevSecOps",
+        "GPT-6.1 Sol"
+      ],
+      "abstract": "OpenAI 博客案例：CodeRabbit 借助 GPT-6.1 Sol 构建安全智能体，自动排查复杂代码库的安全风险，并辅助开发者复核问题与修复方案。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261027-openai-blog-003",
+      "title": "ChatGPT’s expanding world of work",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "category": "other",
+      "tags": [
+        "ChatGPT",
+        "工作场景",
+        "使用数据",
+        "生成式AI",
+        "行业洞察"
+      ],
+      "abstract": "OpenAI 基于 Signals 数据，分析近 100 个国家、165 种工作活动中 ChatGPT 的使用模式与演变趋势，揭示生成式 AI 在真实工作场景中的渗透情况。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-25 08:03:31"
+  "updated_at": "2026-10-27 08:03:36"
 }

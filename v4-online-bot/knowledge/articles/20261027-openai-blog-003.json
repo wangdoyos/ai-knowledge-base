@@ -1,0 +1,21 @@
+{
+  "id": "20261027-openai-blog-003",
+  "title": "ChatGPT’s expanding world of work",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+  "summary": "这是 OpenAI 官方发布的一篇公司博客，基于 OpenAI Signals 数据，对全球近 100 个国家、165 种工作活动中的 ChatGPT 使用情况进行了分析。文章揭示了人们如何在工作中使用 ChatGPT，以及这种使用方式随时间的变化趋势。核心内容包括：不同职业和任务场景下的使用分布、各国使用模式的差异、工作用途与个人用途的区分，以及随着模型能力提升和用户熟悉度增加，使用场景从简单问答向复杂任务（如写作、编程、分析、客户沟通等）扩展的趋势。该内容适合企业决策者、产品经理、AI 应用研究者、劳动力市场与未来工作研究者，以及希望了解 ChatGPT 真实落地场景的普通用户阅读。它不提供代码或工具，而是以数据洞察的形式呈现生成式 AI 在工作场景中的实际渗透情况，对判断 AI 对生产力的影响具有参考价值。",
+  "abstract": "OpenAI 基于 Signals 数据，分析近 100 个国家、165 种工作活动中 ChatGPT 的使用模式与演变趋势，揭示生成式 AI 在真实工作场景中的渗透情况。",
+  "tags": [
+    "ChatGPT",
+    "工作场景",
+    "使用数据",
+    "生成式AI",
+    "行业洞察"
+  ],
+  "category": "other",
+  "language": "en",
+  "published_at": "2026-10-26T10:00:00+00:00",
+  "fetched_at": "2026-10-27T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

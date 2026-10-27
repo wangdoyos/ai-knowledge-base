@@ -1,0 +1,21 @@
+{
+  "id": "20261027-openai-blog-001",
+  "title": "Working with academic communities to build scientific understanding",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+  "summary": "这是 OpenAI 官方发布的一篇公司博客，介绍 OpenAI 与学术社区合作，利用 AI 模型在若干重要数学与物理问题上取得的研究结果，包括 Kakeya 猜想、指数时间假设（ETH）和量子色动力学（QCD）相关课题。文章重点说明模型在这些前沿科学问题上的具体发现或部分结果，并强调研究者如何验证这些结果、在其基础上继续推进研究。其核心价值在于展示大模型作为科学发现辅助工具的潜力，以及 OpenAI 推动 AI 与学术研究协作、强调可验证性与开放研究流程的立场。该内容适合数学、理论计算机科学、物理学等领域的研究者，以及关注 AI for Science、AI 辅助科学发现的研究人员和开发者阅读，也可作为了解大模型在基础科学中应用边界的参考材料。",
+  "abstract": "OpenAI 博客介绍其与学术社区合作，用模型在 Kakeya 猜想、指数时间假设和量子色动力学上取得研究结果，并说明研究者如何验证与推进。",
+  "tags": [
+    "AI for Science",
+    "数学猜想",
+    "科学发现",
+    "OpenAI",
+    "学术合作"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-26T14:30:00+00:00",
+  "fetched_at": "2026-10-27T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
