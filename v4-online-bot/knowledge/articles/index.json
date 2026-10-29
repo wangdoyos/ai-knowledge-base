@@ -4683,7 +4683,41 @@
       "abstract": "OpenAI 案例博客：Greptile 结合 GPT-6 Astra、Daybreak 与 Codex，把缺陷检测从代码审查延伸到用户工作流测试、安全加固与返工减少。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261029-theverge-ai-001",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "category": "llm",
+      "tags": [
+        "Gemini",
+        "网络安全",
+        "前沿模型",
+        "基准测试",
+        "Google"
+      ],
+      "abstract": "Google 发布 Gemini 4 Carbon 前沿模型，在编程、智能体和网络安全方面显著提升，并在基准测试中领先。",
+      "quality_score": 4.4,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261029-hackernews-best-ai-002",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "source": "hackernews-best-ai",
+      "source_url": "https://www.brangus.io/survival-llm",
+      "category": "llm",
+      "tags": [
+        "离线AI",
+        "应急知识库",
+        "本地部署",
+        "隐私保护",
+        "生存准备"
+      ],
+      "abstract": "Survival LLM 把本地大模型与离线应急知识库结合，让电脑在断网时仍能提供生存、急救等关键问答，主打数据自主与极端场景可用性。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-28 08:03:58"
+  "updated_at": "2026-10-29 08:03:51"
 }

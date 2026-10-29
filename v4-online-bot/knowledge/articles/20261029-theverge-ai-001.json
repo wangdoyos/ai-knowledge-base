@@ -1,0 +1,22 @@
+{
+  "id": "20261029-theverge-ai-001",
+  "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+  "summary": "Google 发布了新一代前沿模型 Gemini 4 Carbon，在编程、智能体任务和网络安全方面取得显著提升。该模型在 Artificial Analysis Intelligence Index (v5.0) 基准测试中排名第一，领先于 Claude Opus 5.5 和 GPT-6 Astra。Gemini 4 Carbon 在网络安全领域实现了“重大飞跃”，可能包含更强的漏洞检测、威胁分析和自动化防御能力。该模型面向开发者、安全研究人员和企业用户，旨在提升 AI 在复杂编码和自主任务中的表现，同时增强安全防护能力。作为 Google 的前沿模型，Carbon 的发布标志着 AI 在专业领域的进一步落地，尤其是在对安全性要求极高的场景中。",
+  "abstract": "Google 发布 Gemini 4 Carbon 前沿模型，在编程、智能体和网络安全方面显著提升，并在基准测试中领先。",
+  "tags": [
+    "Gemini",
+    "网络安全",
+    "前沿模型",
+    "基准测试",
+    "Google"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-10-28T16:03:00-04:00",
+  "fetched_at": "2026-10-29T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.4
+}
