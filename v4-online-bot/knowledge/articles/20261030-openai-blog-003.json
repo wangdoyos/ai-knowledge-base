@@ -1,0 +1,21 @@
+{
+  "id": "20261030-openai-blog-003",
+  "title": "How we detect frontier model misalignment",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+  "summary": "这是 OpenAI 官方发布的一篇技术博客，介绍其如何通过分层监控（layered monitoring）机制来检测前沿模型（frontier model）的对齐偏差（misalignment）以及未经授权的智能体行为。文章的核心在于构建一套纵深防御式的检测体系：从模型内部行为信号、输出内容审查，到智能体执行轨迹与工具调用的异常识别，形成多层监控，使响应团队能够在事件升级之前及时介入。该内容属于 AI 安全与对齐工程实践，强调对自主 Agent 行为的可观测性与可控性，而非单纯依赖事后审计。适合 AI 安全研究者、对齐工程师、负责部署大模型与 Agent 系统的平台团队，以及关注前沿模型风险治理的政策与合规人员阅读。博客偏概念与机制说明，未提供具体代码或开源实现，但对理解生产级模型监控架构具有参考价值。",
+  "abstract": "OpenAI 官方博客，介绍用分层监控检测前沿模型的对齐偏差与未授权 Agent 行为，以便在事件升级前及时干预。",
+  "tags": [
+    "AI 安全",
+    "模型对齐",
+    "Agent 监控",
+    "可观测性",
+    "风险治理"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-29T09:00:00+00:00",
+  "fetched_at": "2026-10-30T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

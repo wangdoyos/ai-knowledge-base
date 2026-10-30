@@ -28,6 +28,7 @@
     "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
     "https://cactuscompute.com/blog/whistle",
     "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "https://divagr.com/blog/qwenputer",
     "https://eiln.github.io/posts/ane.html",
     "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
     "https://entropicthoughts.com/ai-comment-classifier",
@@ -97,6 +98,7 @@
     "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "https://openai.com/index/higgsfield-longer-videos-voice",
     "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment",
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "https://openai.com/index/introducing-admin-plugin",
     "https://openai.com/index/introducing-ai-futures",
@@ -150,6 +152,7 @@
     "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "https://openai.com/index/uber-chatgpt-work-rollout",
     "https://openai.com/index/unlocking-new-ways-of-working",
+    "https://openai.com/index/updated-model-spec",
     "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "https://openai.com/index/v7",
     "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
@@ -273,5 +276,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-10-29 08:03:51"
+  "updated_at": "2026-10-30 08:04:02"
 }

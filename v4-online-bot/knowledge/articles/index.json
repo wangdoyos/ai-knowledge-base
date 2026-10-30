@@ -4717,7 +4717,58 @@
       "abstract": "Survival LLM 把本地大模型与离线应急知识库结合，让电脑在断网时仍能提供生存、急救等关键问答，主打数据自主与极端场景可用性。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261030-lobsters-ai-ml-001",
+      "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://divagr.com/blog/qwenputer",
+      "category": "llm",
+      "tags": [
+        "RISC-V",
+        "LLM",
+        "确定性计算",
+        "神经符号",
+        "CPU模拟"
+      ],
+      "abstract": "Qwenputer 在 Qwen3.5 权重中嵌入了一个完整、确定性的 RISC-V CPU，让 LLM 以确定性方式模拟指令执行，探索大模型作为通用计算基板的可能性。",
+      "quality_score": 4.3,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261030-openai-blog-002",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/updated-model-spec",
+      "category": "llm",
+      "tags": [
+        "模型规范",
+        "AI对齐",
+        "OpenAI",
+        "行为准则",
+        "安全治理"
+      ],
+      "abstract": "OpenAI 更新 Model Spec，以五项核心价值观指导更强 AI 形成健全判断、尊重人类主体性并忠实于人类意图，是理解大模型行为规范与对齐原则的重要参考。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261030-openai-blog-003",
+      "title": "How we detect frontier model misalignment",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "category": "llm",
+      "tags": [
+        "AI 安全",
+        "模型对齐",
+        "Agent 监控",
+        "可观测性",
+        "风险治理"
+      ],
+      "abstract": "OpenAI 官方博客，介绍用分层监控检测前沿模型的对齐偏差与未授权 Agent 行为，以便在事件升级前及时干预。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-29 08:03:51"
+  "updated_at": "2026-10-30 08:04:02"
 }

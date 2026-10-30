@@ -1,0 +1,21 @@
+{
+  "id": "20261030-openai-blog-002",
+  "title": "An updated Model Spec for more capable and beneficial AI",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/updated-model-spec",
+  "summary": "这是 OpenAI 官方发布的一篇公司博客，介绍其更新后的 Model Spec（模型规范）。Model Spec 是 OpenAI 用来指导模型行为的一份公开规范文档，本次更新围绕五个核心价值观展开，旨在让能力更强的 AI 系统具备更健全的判断力、尊重人的主体性，并忠实于人类意图。该规范并非代码或工具，而是一份面向模型对齐与行为治理的政策性文档，明确了模型应当如何理解用户请求、如何处理冲突指令、如何在安全与有用性之间取得平衡。它适合 AI 研究者、对齐工程师、产品与政策制定者，以及希望了解大模型行为边界与设计原则的开发者阅读，可作为构建自有 Agent 或 LLM 应用时制定行为准则的参考。",
+  "abstract": "OpenAI 更新 Model Spec，以五项核心价值观指导更强 AI 形成健全判断、尊重人类主体性并忠实于人类意图，是理解大模型行为规范与对齐原则的重要参考。",
+  "tags": [
+    "模型规范",
+    "AI对齐",
+    "OpenAI",
+    "行为准则",
+    "安全治理"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-10-29T17:00:00+00:00",
+  "fetched_at": "2026-10-30T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
