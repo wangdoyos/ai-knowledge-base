@@ -28,6 +28,7 @@
     "https://blog.janestreet.com/a-study-of-sequence-weighting-at-scale/",
     "https://cactuscompute.com/blog/whistle",
     "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "https://delta.dev/blog/fine-grained-version-control-for-agents",
     "https://divagr.com/blog/qwenputer",
     "https://eiln.github.io/posts/ane.html",
     "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
@@ -255,6 +256,7 @@
     "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
     "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
     "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
     "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
     "https://www.theverge.com/tech/982270/meta-ai-mac-app",
     "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
@@ -276,5 +278,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-10-30 08:04:02"
+  "updated_at": "2026-11-01 08:02:58"
 }

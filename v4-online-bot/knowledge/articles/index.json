@@ -4768,7 +4768,41 @@
       "abstract": "OpenAI 官方博客，介绍用分层监控检测前沿模型的对齐偏差与未授权 Agent 行为，以便在事件升级前及时干预。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261101-lobsters-ai-ml-001",
+      "title": "Building fine-grained version control for agents with Rust and Durable Objects",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://delta.dev/blog/fine-grained-version-control-for-agents",
+      "category": "agent",
+      "tags": [
+        "Agent",
+        "版本控制",
+        "Rust",
+        "Durable Objects",
+        "状态管理"
+      ],
+      "abstract": "介绍用 Rust 与 Cloudflare Durable Objects 为 AI Agent 实现细粒度版本控制，让 Agent 的每一步状态变更都可追溯、可回滚。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261101-theverge-ai-002",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "category": "llm",
+      "tags": [
+        "太空计算",
+        "TPU",
+        "Gemma",
+        "边缘推理",
+        "卫星"
+      ],
+      "abstract": "Google 的 TPU 卫星在轨成功运行 Gemma 4 模型，首次从太空返回 AI 推理结果，验证了太空边缘 AI 计算的可行性。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-10-30 08:04:02"
+  "updated_at": "2026-11-01 08:02:58"
 }

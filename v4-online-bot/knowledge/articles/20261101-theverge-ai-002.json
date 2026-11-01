@@ -1,0 +1,22 @@
+{
+  "id": "20261101-theverge-ai-002",
+  "title": "Google’s satellite AI server transmits its first response to Earth",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+  "summary": "这是 The Verge 报道的一则科技新闻：Google 的 Project Suncatcher 卫星搭载 TPU 芯片，在太空中成功启动并运行了 Gemma 4 模型，首次从轨道向地球返回 AI 推理结果——按提示生成了一首关于身处太空的俳句。该项目的核心意义在于验证“太空边缘 AI 推理”的可行性：把算力放到卫星上，在轨完成模型推理，而不是把原始数据全部传回地面处理，从而降低对下行带宽的依赖、缩短响应时延，并为未来大规模太空计算与地球观测数据的实时智能处理铺路。报道涉及 TPU 在辐射、供电与散热受限环境下的启动与运行，以及 Gemma 4 模型在轨推理的实际表现。适合关注 AI 基础设施、卫星互联网、边缘计算与太空计算的开发者、研究人员和科技爱好者阅读。",
+  "abstract": "Google 的 TPU 卫星在轨成功运行 Gemma 4 模型，首次从太空返回 AI 推理结果，验证了太空边缘 AI 计算的可行性。",
+  "tags": [
+    "太空计算",
+    "TPU",
+    "Gemma",
+    "边缘推理",
+    "卫星"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-10-30T14:21:38-04:00",
+  "fetched_at": "2026-11-01T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
