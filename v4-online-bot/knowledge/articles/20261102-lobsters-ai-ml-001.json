@@ -1,0 +1,22 @@
+{
+  "id": "20261102-lobsters-ai-ml-001",
+  "title": "An easy way to try local AI with braindead-local-intelligence",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+  "summary": "braindead-local-intelligence 是一个面向本地 AI 实验的轻量级开源项目，旨在降低在个人设备上运行本地大模型的门槛。项目通过极简的封装与配置，让用户无需复杂的依赖管理即可快速启动本地推理服务，适合对隐私敏感、希望离线使用 AI 能力的开发者与爱好者。核心特性包括：开箱即用的本地模型加载、简洁的命令行交互、对常见开源模型格式的兼容，以及可扩展的插件式接口。项目强调“简单直接”的设计哲学，避免过度抽象，便于用户理解底层推理流程并进行二次开发。适合想要学习本地 LLM 部署、进行原型验证或构建私有 AI 工具链的用户。",
+  "abstract": "一个极简的本地 AI 实验工具，帮助用户快速在个人设备上运行开源大模型，强调开箱即用与可理解性。",
+  "tags": [
+    "本地推理",
+    "LLM",
+    "开源模型",
+    "轻量级",
+    "隐私保护"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "dataswamp.org via msangi",
+  "published_at": "2026-11-01T14:26:47-06:00",
+  "fetched_at": "2026-11-02T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

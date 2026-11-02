@@ -4802,7 +4802,24 @@
       "abstract": "Google 的 TPU 卫星在轨成功运行 Gemma 4 模型，首次从太空返回 AI 推理结果，验证了太空边缘 AI 计算的可行性。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261102-lobsters-ai-ml-001",
+      "title": "An easy way to try local AI with braindead-local-intelligence",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://dataswamp.org/~solene/2026-11-01-braindead-local-intelligence.html",
+      "category": "llm",
+      "tags": [
+        "本地推理",
+        "LLM",
+        "开源模型",
+        "轻量级",
+        "隐私保护"
+      ],
+      "abstract": "一个极简的本地 AI 实验工具，帮助用户快速在个人设备上运行开源大模型，强调开箱即用与可理解性。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-01 08:02:58"
+  "updated_at": "2026-11-02 08:03:30"
 }
