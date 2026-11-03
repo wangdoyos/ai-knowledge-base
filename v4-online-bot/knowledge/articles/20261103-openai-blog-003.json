@@ -1,0 +1,21 @@
+{
+  "id": "20261103-openai-blog-003",
+  "title": "Qodo builds context into AI code review with Codex",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/qodo-codex-plugin",
+  "summary": "该内容介绍 Qodo 为 OpenAI Codex 构建的插件，将公司内部知识与编码规范注入 AI 代码审查流程。Qodo 原本是一个面向代码质量与测试生成的平台，此次通过 Codex 插件形式，让 AI 在开发者提交 Pull Request 之前就能基于组织上下文（如内部规范、历史代码模式、团队约定）识别 P0 级严重问题，从而把代码审查左移。核心特性包括：上下文感知的代码审查、跨仓库问题检测、编码标准自动对齐、与 Codex 工作流集成。适合使用 Codex 进行日常开发、且对代码质量与合规性有较高要求的工程团队，尤其是需要统一多仓库编码规范的中大型研发组织。该内容属于厂商博客，偏产品发布与集成说明，技术实现细节有限。",
+  "abstract": "Qodo 推出 Codex 插件，把公司知识与编码规范带入 AI 代码审查，在提交 PR 前跨仓库捕获 P0 级问题，实现审查左移。",
+  "tags": [
+    "代码审查",
+    "Codex",
+    "AI 编程助手",
+    "上下文工程",
+    "开发工具"
+  ],
+  "category": "tool",
+  "language": "en",
+  "published_at": "2026-11-02T00:00:00+00:00",
+  "fetched_at": "2026-11-03T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

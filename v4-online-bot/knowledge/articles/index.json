@@ -4819,7 +4819,58 @@
       "abstract": "一个极简的本地 AI 实验工具，帮助用户快速在个人设备上运行开源大模型，强调开箱即用与可理解性。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261103-openai-blog-001",
+      "title": "LifeVal",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/lifeval",
+      "category": "llm",
+      "tags": [
+        "基准测试",
+        "AI评测",
+        "日常任务",
+        "OpenAI",
+        "生活助理"
+      ],
+      "abstract": "OpenAI 发布 LifeVal 基准，用找托儿、理财、办政府手续等真实日常任务衡量 AI 的实际帮助能力，让评测更贴近生活。",
+      "quality_score": 4.1,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261103-lobsters-ai-ml-002",
+      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "category": "llm",
+      "tags": [
+        "权重空间",
+        "模型编辑",
+        "LLM",
+        "神经网络",
+        "可解释性"
+      ],
+      "abstract": "该博客探讨 LLM 能否原生读写神经网络权重，提出“权重空间编程”概念，展示 LLM 直接操作权重参数的可能性，并讨论其对模型编辑与可解释性的意义。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261103-openai-blog-003",
+      "title": "Qodo builds context into AI code review with Codex",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/qodo-codex-plugin",
+      "category": "tool",
+      "tags": [
+        "代码审查",
+        "Codex",
+        "AI 编程助手",
+        "上下文工程",
+        "开发工具"
+      ],
+      "abstract": "Qodo 推出 Codex 插件，把公司知识与编码规范带入 AI 代码审查，在提交 PR 前跨仓库捕获 P0 级问题，实现审查左移。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-02 08:03:30"
+  "updated_at": "2026-11-03 08:03:46"
 }
