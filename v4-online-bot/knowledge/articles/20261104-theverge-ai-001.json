@@ -1,0 +1,22 @@
+{
+  "id": "20261104-theverge-ai-001",
+  "title": "Apple starts giving Siri AI access to third-party apps",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+  "summary": "该内容来自 The Verge 的科技报道，介绍 Apple 在 iOS 27.3 更新中向第三方应用开放 Siri AI 能力。开发者现在可以在“所有应用”中集成 Siri AI 的新特性，使语音助手能够调用用户的个人上下文、处理自然语言指令，并利用屏幕感知能力在第三方 App 内执行操作。这标志着 Siri 从系统级助手向跨应用智能代理演进，解决了此前 Siri 只能操作苹果自家服务、无法深度联动第三方 App 的局限。核心特性包括个人上下文理解、自然语言任务解析和屏幕内容感知，适合 iOS 开发者、关注移动端 AI 助手生态的产品经理及科技爱好者了解平台级 AI 能力开放的最新动向。",
+  "abstract": "Apple 在 iOS 27.3 中向第三方应用开放 Siri AI 能力，支持个人上下文、自然语言指令与屏幕感知，让语音助手跨应用执行操作。",
+  "tags": [
+    "Siri",
+    "Apple",
+    "iOS",
+    "语音助手",
+    "第三方应用集成"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-11-03T15:16:17-05:00",
+  "fetched_at": "2026-11-04T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

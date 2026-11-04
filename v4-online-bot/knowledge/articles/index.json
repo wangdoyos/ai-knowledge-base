@@ -4870,7 +4870,24 @@
       "abstract": "Qodo 推出 Codex 插件，把公司知识与编码规范带入 AI 代码审查，在提交 PR 前跨仓库捕获 P0 级问题，实现审查左移。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261104-theverge-ai-001",
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "category": "agent",
+      "tags": [
+        "Siri",
+        "Apple",
+        "iOS",
+        "语音助手",
+        "第三方应用集成"
+      ],
+      "abstract": "Apple 在 iOS 27.3 中向第三方应用开放 Siri AI 能力，支持个人上下文、自然语言指令与屏幕感知，让语音助手跨应用执行操作。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-03 08:03:46"
+  "updated_at": "2026-11-04 08:02:43"
 }
