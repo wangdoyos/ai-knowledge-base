@@ -1,0 +1,22 @@
+{
+  "id": "20261105-github-001",
+  "title": "AstrBotDevs/AstrBot",
+  "source": "github",
+  "source_url": "https://github.com/AstrBotDevs/AstrBot",
+  "summary": "AstrBot 是一个开源的 AI Agent 助手与开发框架，旨在将多种即时通讯平台、大语言模型、插件和 AI 功能集成到一个统一的系统中。它解决了在多平台环境下部署和管理 AI 助手的复杂性，提供了开箱即用的多平台支持（如 QQ、微信、Telegram、Discord 等）、多 LLM 后端接入（OpenAI、Claude、Gemini 等）、插件系统以及丰富的 AI 功能（对话、绘图、语音等）。项目采用模块化设计，开发者可以轻松扩展功能或开发自定义插件。AstrBot 适合希望快速搭建跨平台 AI 助手的个人开发者、社区运营者以及需要定制化 AI 工作流的企业团队。其高星标数（近 4.6 万）表明社区活跃度和认可度较高，是构建智能对话机器人的有力工具。",
+  "abstract": "AstrBot 是一个集成多 IM 平台、多 LLM 和插件系统的开源 AI Agent 框架，帮助开发者快速构建跨平台智能助手。",
+  "tags": [
+    "AI Agent",
+    "多平台",
+    "LLM",
+    "插件系统",
+    "开源框架"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "AstrBotDevs",
+  "published_at": "2022-12-08T13:27:46+00:00",
+  "fetched_at": "2026-11-05T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.6
+}

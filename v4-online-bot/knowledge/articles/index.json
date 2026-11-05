@@ -4887,7 +4887,41 @@
       "abstract": "Apple 在 iOS 27.3 中向第三方应用开放 Siri AI 能力，支持个人上下文、自然语言指令与屏幕感知，让语音助手跨应用执行操作。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261105-github-001",
+      "title": "AstrBotDevs/AstrBot",
+      "source": "github",
+      "source_url": "https://github.com/AstrBotDevs/AstrBot",
+      "category": "agent",
+      "tags": [
+        "AI Agent",
+        "多平台",
+        "LLM",
+        "插件系统",
+        "开源框架"
+      ],
+      "abstract": "AstrBot 是一个集成多 IM 平台、多 LLM 和插件系统的开源 AI Agent 框架，帮助开发者快速构建跨平台智能助手。",
+      "quality_score": 4.6,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261105-openai-blog-002",
+      "title": "A thousand fewer paths to root",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "category": "agent",
+      "tags": [
+        "漏洞挖掘",
+        "Linux内核",
+        "自动化安全审计",
+        "AI Agent",
+        "补丁生成"
+      ],
+      "abstract": "OpenAI 博客介绍其自主漏洞挖掘流水线，在 Linux 内核中发现、验证并为 948 个本地提权漏洞生成补丁，展示了 AI 自动化安全审计的规模化能力。",
+      "quality_score": 4.5,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-04 08:02:43"
+  "updated_at": "2026-11-05 08:03:16"
 }

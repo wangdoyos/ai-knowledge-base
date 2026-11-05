@@ -1,0 +1,21 @@
+{
+  "id": "20261105-openai-blog-002",
+  "title": "A thousand fewer paths to root",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+  "summary": "这是 OpenAI 发布的一篇公司博客，介绍其构建的自主化漏洞挖掘流水线。该流水线针对 Linux 内核中的本地权限提升（local privilege-escalation）漏洞，自动完成发现、验证和补丁生成三个环节，最终成功定位并验证了 948 个此类漏洞，并为它们生成了修复补丁。项目解决的核心问题是：传统内核安全审计高度依赖人工、成本高、覆盖面有限，而该流水线通过 AI 驱动的自动化方式大幅提升了漏洞发现的效率与规模。其核心特性包括端到端的自主流程（从漏洞发现到补丁生成）、对漏洞的可验证性保障（避免误报），以及面向真实大型 C 代码库（Linux 内核）的实战落地。该内容适合安全研究人员、内核开发者、AI Agent 工程实践者，以及关注 LLM 在代码安全与自动化漏洞挖掘领域应用的技术决策者阅读。",
+  "abstract": "OpenAI 博客介绍其自主漏洞挖掘流水线，在 Linux 内核中发现、验证并为 948 个本地提权漏洞生成补丁，展示了 AI 自动化安全审计的规模化能力。",
+  "tags": [
+    "漏洞挖掘",
+    "Linux内核",
+    "自动化安全审计",
+    "AI Agent",
+    "补丁生成"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-11-04T08:00:00+00:00",
+  "fetched_at": "2026-11-05T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.5
+}
