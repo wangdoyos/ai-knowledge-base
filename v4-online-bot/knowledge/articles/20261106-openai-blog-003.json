@@ -1,0 +1,21 @@
+{
+  "id": "20261106-openai-blog-003",
+  "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/introducing-gpt-6-cyber",
+  "summary": "GPT‑6 Cyber 是 OpenAI 发布的面向网络安全领域的专用模型，属于公司博客介绍性质的项目。它旨在解决安全团队在漏洞发现与修复环节中效率低、依赖人工经验的问题：模型能够主动寻找可利用的安全漏洞，并给出相应的修复方案，同时经过专门训练以将行为限制在授权范围内，降低越权测试或滥用风险。核心特性包括：面向真实攻击面的漏洞挖掘能力、从发现到修复的闭环支持，以及强调“对齐”与授权边界的安全约束。该模型适合企业安全团队、渗透测试与红队人员、漏洞研究人员以及需要自动化安全审计的 DevSecOps 团队使用。需要注意的是，该仓库信息仅为官方博客链接，未提供开源代码、权重或技术细节，因此其实际能力、评测结果与部署方式需以官方文档为准。",
+  "abstract": "OpenAI 推出 GPT‑6 Cyber 网络安全模型，可在授权范围内自动发现可利用漏洞并给出修复方案，面向企业安全与红队场景。",
+  "tags": [
+    "网络安全",
+    "漏洞挖掘",
+    "对齐安全",
+    "OpenAI",
+    "安全智能体"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-11-05T09:00:00+00:00",
+  "fetched_at": "2026-11-06T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

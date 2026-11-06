@@ -17,6 +17,7 @@
     "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
     "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
     "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
     "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
     "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
     "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -110,6 +111,7 @@
     "https://openai.com/index/introducing-chatgpt-images-2-5",
     "https://openai.com/index/introducing-dots",
     "https://openai.com/index/introducing-gpt-6-1-sol",
+    "https://openai.com/index/introducing-gpt-6-cyber",
     "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "https://openai.com/index/introducing-the-agents-api",
     "https://openai.com/index/invideo-builds-with-gpt-6-astra",
@@ -209,6 +211,8 @@
     "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
     "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
     "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
     "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
     "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
     "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
@@ -285,5 +289,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-11-05 08:03:16"
+  "updated_at": "2026-11-06 08:03:42"
 }

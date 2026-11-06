@@ -1,0 +1,21 @@
+{
+  "id": "20261106-theverge-ai-001",
+  "title": "Perplexity launches its own take on AI agents for work",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+  "summary": "Perplexity 推出了名为“Teammates”的 AI 代理功能，旨在与 OpenAI 和 Anthropic 竞争，专注于工作场景。这些代理可以持续在线，在同一个工作空间内承担多种角色，并能从用户已有的 Perplexity 工具中提取项目、技能和记忆。Teammates 与 Perplexity Computer 集成，后者是一个能在用户设备上部署代理的 AI 系统。该功能允许代理执行多步骤任务，并保持上下文连续性，从而提升工作效率。适合需要自动化工作流程、多任务处理的知识工作者和团队使用。",
+  "abstract": "Perplexity 推出工作场景 AI 代理 Teammates，可多角色协作并集成现有工具，与 OpenAI 和 Anthropic 竞争。",
+  "tags": [
+    "AI代理",
+    "工作自动化",
+    "Perplexity",
+    "多角色协作"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Emma Roth",
+  "published_at": "2026-11-05T17:26:50-05:00",
+  "fetched_at": "2026-11-06T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.2
+}

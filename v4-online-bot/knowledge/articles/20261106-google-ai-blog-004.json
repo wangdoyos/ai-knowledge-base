@@ -1,0 +1,22 @@
+{
+  "id": "20261106-google-ai-blog-004",
+  "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+  "summary": "这是 Google 官方博客发布的一篇产品公告，介绍 Gemini Omni 1.2 Flash 模型。该模型面向开发者，主打快速、低成本的多模态生成能力，核心升级包括原生支持 15 秒视频生成与编辑、更强的内容一致性，以及价格下调 30%。相比前代，它更适合需要批量生成短视频素材、进行视频编辑或构建多模态应用的开发者与团队，可在成本敏感的场景中替代更高价模型。博客通常还会给出接入方式、能力对比与定价细节，帮助开发者评估是否迁移。整体属于模型发布类信息，技术深度有限，但对关注视频生成与多模态 API 成本的人有参考价值。",
+  "abstract": "Google 发布 Gemini Omni 1.2 Flash，原生支持 15 秒视频生成与编辑，一致性更强，价格降低 30%，面向开发者的高性价比多模态模型。",
+  "tags": [
+    "Gemini",
+    "视频生成",
+    "多模态",
+    "模型发布",
+    "API 定价"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "<name>Anish Nangia</name><title>Product Manager, Google DeepMind</title><department/><company/>",
+  "published_at": "2026-11-05T17:00:00+00:00",
+  "fetched_at": "2026-11-06T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

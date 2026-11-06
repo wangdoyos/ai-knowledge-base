@@ -1,0 +1,22 @@
+{
+  "id": "20261106-theverge-ai-002",
+  "title": "Claude AI can plug directly into your bank account",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+  "summary": "该内容来自 The Verge 的报道，介绍 Anthropic 为 Claude 推出的个人财务新功能。通过集成 Plaid 银行数据桥接平台，Claude 可以安全地连接用户的银行账户和信用卡账户，从而直接访问交易数据。用户可以向 Claude 提问，例如“这个月我的钱花到哪里了”，Claude 会生成消费概览和分析。这解决了个人财务管理中手动记账繁琐、数据分散的问题，让 AI 助手直接基于真实交易数据提供洞察。核心特性包括：通过 Plaid 实现银行级安全连接、自然语言查询消费情况、自动生成财务概览。适合希望用 AI 简化个人财务管理的普通用户，以及关注 AI 在金融场景落地的开发者与分析师。",
+  "abstract": "Anthropic 为 Claude 推出个人财务功能，通过 Plaid 连接银行账户，用户可用自然语言查询消费去向并生成财务概览。",
+  "tags": [
+    "个人财务",
+    "Claude",
+    "Plaid",
+    "银行集成",
+    "AI助手"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Jess Weatherbed",
+  "published_at": "2026-11-05T13:00:00-05:00",
+  "fetched_at": "2026-11-06T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 4.0
+}
