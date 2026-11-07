@@ -1,0 +1,21 @@
+{
+  "id": "20261107-openai-blog-001",
+  "title": "Measuring how AI agents handle everyday wet-lab science",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+  "summary": "OpenAI 发布的 BioBasicsBench 是一个面向湿实验室（wet-lab）日常科研场景的 AI Agent 评测基准，包含 100 个任务，用于衡量 AI Agent 解读原始实验数据、处理真实实验流程的能力。该项目解决的核心问题是：现有 AI 基准多聚焦于文本问答或代码任务，缺乏对生物实验场景中多模态、噪声数据、实验推理等真实科研能力的系统评估。BioBasicsBench 的任务覆盖从原始仪器数据解读到实验决策的完整链条，强调 Agent 在非结构化、含噪声的实验数据上的表现，而非单纯的知识回忆。其核心特性包括：任务贴近真实湿实验工作流、要求 Agent 具备数据解析与科学推理的复合能力、提供可量化的评测维度。该基准适合 AI 研究者、生物信息学与计算生物学团队、以及开发科研型 AI Agent 的工程人员使用，用于评估和改进模型在生命科学实验场景中的实用性与可靠性。",
+  "abstract": "OpenAI 推出 BioBasicsBench，一个含 100 个任务的基准，用于评估 AI Agent 解读原始实验数据和处理日常湿实验室科研的能力，填补了生物实验场景下 Agent 评测的空白。",
+  "tags": [
+    "AI Agent",
+    "基准评测",
+    "湿实验室",
+    "生命科学",
+    "实验数据"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-11-06T00:00:00+00:00",
+  "fetched_at": "2026-11-07T08:00:05+08:00",
+  "status": "reviewed",
+  "quality_score": 4.3
+}

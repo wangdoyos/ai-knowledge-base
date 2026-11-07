@@ -4988,7 +4988,24 @@
       "abstract": "Google 发布 Gemini Omni 1.2 Flash，原生支持 15 秒视频生成与编辑，一致性更强，价格降低 30%，面向开发者的高性价比多模态模型。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261107-openai-blog-001",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "category": "agent",
+      "tags": [
+        "AI Agent",
+        "基准评测",
+        "湿实验室",
+        "生命科学",
+        "实验数据"
+      ],
+      "abstract": "OpenAI 推出 BioBasicsBench，一个含 100 个任务的基准，用于评估 AI Agent 解读原始实验数据和处理日常湿实验室科研的能力，填补了生物实验场景下 Agent 评测的空白。",
+      "quality_score": 4.3,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-06 08:03:42"
+  "updated_at": "2026-11-07 08:03:38"
 }
