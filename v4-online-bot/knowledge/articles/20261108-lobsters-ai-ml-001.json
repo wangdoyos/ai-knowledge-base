@@ -1,0 +1,22 @@
+{
+  "id": "20261108-lobsters-ai-ml-001",
+  "title": "Catching prompt injections hidden in PDFs",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://tomclancy.info/joshua-judges-ruth.html",
+  "summary": "该内容是一篇技术文章，探讨如何检测隐藏在 PDF 文件中的提示注入（prompt injection）攻击。文章以 Joshua Judges Ruth 为案例，展示了攻击者如何将恶意指令嵌入 PDF 文档中，从而在 LLM 或 RAG 系统解析文档时劫持模型行为。核心内容包括：PDF 中隐藏文本的常见手法（如白色字体、极小字号、元数据注入）、这类攻击对文档问答与检索增强生成系统的威胁，以及检测与防御思路（如文本提取后过滤、可见性校验、输入净化）。该内容适合构建 LLM 应用、RAG 管道或文档处理系统的开发者与安全工程师阅读，帮助其理解文档类输入的攻击面并加固系统。",
+  "abstract": "文章揭示 PDF 文档中隐藏提示注入的攻击手法，分析其对 LLM/RAG 文档问答系统的威胁，并给出检测与防御思路。",
+  "tags": [
+    "提示注入",
+    "PDF安全",
+    "LLM安全",
+    "RAG",
+    "文档解析"
+  ],
+  "category": "rag",
+  "language": "en",
+  "author": "tomclancy.info by tclancy",
+  "published_at": "2026-11-07T13:34:01-06:00",
+  "fetched_at": "2026-11-08T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

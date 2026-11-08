@@ -5005,7 +5005,24 @@
       "abstract": "OpenAI 推出 BioBasicsBench，一个含 100 个任务的基准，用于评估 AI Agent 解读原始实验数据和处理日常湿实验室科研的能力，填补了生物实验场景下 Agent 评测的空白。",
       "quality_score": 4.3,
       "status": "reviewed"
+    },
+    {
+      "id": "20261108-lobsters-ai-ml-001",
+      "title": "Catching prompt injections hidden in PDFs",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://tomclancy.info/joshua-judges-ruth.html",
+      "category": "rag",
+      "tags": [
+        "提示注入",
+        "PDF安全",
+        "LLM安全",
+        "RAG",
+        "文档解析"
+      ],
+      "abstract": "文章揭示 PDF 文档中隐藏提示注入的攻击手法，分析其对 LLM/RAG 文档问答系统的威胁，并给出检测与防御思路。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-07 08:03:38"
+  "updated_at": "2026-11-08 08:03:30"
 }
