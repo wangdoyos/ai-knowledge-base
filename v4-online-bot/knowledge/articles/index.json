@@ -5022,7 +5022,24 @@
       "abstract": "文章揭示 PDF 文档中隐藏提示注入的攻击手法，分析其对 LLM/RAG 文档问答系统的威胁，并给出检测与防御思路。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261109-lobsters-ai-ml-001",
+      "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+      "category": "llm",
+      "tags": [
+        "本地部署",
+        "Apple Silicon",
+        "模型量化",
+        "RAG",
+        "编程助手"
+      ],
+      "abstract": "Mac mini M5 Pro 48GB 本地 AI 实践讨论：哪些模型与量化方案能真正用于编程、图像生成、转写与 RAG，而非仅停留在跑分层面。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-08 08:03:30"
+  "updated_at": "2026-11-09 08:03:53"
 }

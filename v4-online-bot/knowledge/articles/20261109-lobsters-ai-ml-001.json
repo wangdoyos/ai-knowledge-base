@@ -1,0 +1,22 @@
+{
+  "id": "20261109-lobsters-ai-ml-001",
+  "title": "What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+  "summary": "这是一个来自 Lobste.rs 的技术讨论帖，作者刚入手一台搭载 M5 Pro（基础 CPU 配置）和 48GB 统一内存的 Mac mini，希望尽可能在本地运行 AI 工作负载，但苦于难以区分哪些方案真正实用、哪些只是跑分噱头。作者列出了三类核心需求：编程辅助（本地模型的代码补全与 agentic 工作流）、图像生成，以及其他真正有用的场景（语音转写、对个人笔记做 RAG 检索等）。帖子重点询问在 48GB 内存下哪些模型与量化方案能舒适运行且实际可用，而非仅仅“能跑起来”。该讨论对本地部署 LLM、Apple Silicon 推理性能、量化选型、以及个人 AI 工作流搭建具有较高参考价值，适合关注本地 AI、隐私优先部署、Mac 平台推理的开发者与爱好者阅读。",
+  "abstract": "Mac mini M5 Pro 48GB 本地 AI 实践讨论：哪些模型与量化方案能真正用于编程、图像生成、转写与 RAG，而非仅停留在跑分层面。",
+  "tags": [
+    "本地部署",
+    "Apple Silicon",
+    "模型量化",
+    "RAG",
+    "编程助手"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "by napolux",
+  "published_at": "2026-11-08T11:07:51-06:00",
+  "fetched_at": "2026-11-09T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
