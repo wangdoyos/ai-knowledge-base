@@ -1,0 +1,21 @@
+{
+  "id": "20261110-openai-blog-002",
+  "title": "Kuken Industries searches 70 years of drawings in minutes",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/kuken",
+  "summary": "该内容来自 OpenAI 官方博客，介绍日本冷却塔制造商 Kuken Industries 利用 OpenAI API 构建图纸检索系统的案例。Kuken 拥有长达 70 年的冷却塔设计图纸档案，过去工程师查找一张维修所需图纸平均要花费近一小时，效率低下且高度依赖老员工经验。通过接入 OpenAI API（结合大模型与检索能力），工程师只需用自然语言描述需求，即可在约 4.5 分钟内定位到对应图纸，效率提升超过十倍。该方案解决了传统制造业中历史图纸非结构化、检索困难、知识传承断层等痛点，展示了 LLM 在企业知识库与文档检索场景中的落地价值。适合制造业企业、工程团队、企业 IT 与数字化转型负责人，以及关注 RAG/文档检索落地的开发者参考。",
+  "abstract": "OpenAI 博客案例：Kuken Industries 用 OpenAI API 检索 70 年冷却塔图纸，工程师找图时间从近 1 小时缩短至 4.5 分钟，展示 LLM 在企业历史文档检索中的落地价值。",
+  "tags": [
+    "企业知识库",
+    "文档检索",
+    "OpenAI API",
+    "制造业数字化",
+    "案例研究"
+  ],
+  "category": "rag",
+  "language": "en",
+  "published_at": "2026-11-09T08:00:00+00:00",
+  "fetched_at": "2026-11-10T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

@@ -5039,7 +5039,41 @@
       "abstract": "Mac mini M5 Pro 48GB 本地 AI 实践讨论：哪些模型与量化方案能真正用于编程、图像生成、转写与 RAG，而非仅停留在跑分层面。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261110-openai-blog-001",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "category": "agent",
+      "tags": [
+        "AI 代码审查",
+        "Codex",
+        "智能体开发",
+        "代码治理",
+        "工程效率"
+      ],
+      "abstract": "OpenAI 博客案例：CodeRabbit 结合 OpenAI 模型与 Codex 治理 AI 生成代码，在团队规模不变的情况下实现 20 倍软件交付量。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261110-openai-blog-002",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/kuken",
+      "category": "rag",
+      "tags": [
+        "企业知识库",
+        "文档检索",
+        "OpenAI API",
+        "制造业数字化",
+        "案例研究"
+      ],
+      "abstract": "OpenAI 博客案例：Kuken Industries 用 OpenAI API 检索 70 年冷却塔图纸，工程师找图时间从近 1 小时缩短至 4.5 分钟，展示 LLM 在企业历史文档检索中的落地价值。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-09 08:03:53"
+  "updated_at": "2026-11-10 08:03:35"
 }
