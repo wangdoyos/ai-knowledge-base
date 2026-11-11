@@ -5073,7 +5073,24 @@
       "abstract": "OpenAI 博客案例：Kuken Industries 用 OpenAI API 检索 70 年冷却塔图纸，工程师找图时间从近 1 小时缩短至 4.5 分钟，展示 LLM 在企业历史文档检索中的落地价值。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261111-theverge-ai-001",
+      "title": "ChatGPT is getting verified AI ‘Business Agents’",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "category": "agent",
+      "tags": [
+        "商业代理",
+        "ChatGPT",
+        "电商导购",
+        "OpenAI",
+        "AI Agent"
+      ],
+      "abstract": "OpenAI 为 ChatGPT 推出经品牌验证的“Business Agents”，用户可直接与官方 AI 代理对话完成比价购物等任务，首批面向美国符合条件的电商与在线服务企业 beta 开放。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-10 08:03:35"
+  "updated_at": "2026-11-11 08:03:55"
 }

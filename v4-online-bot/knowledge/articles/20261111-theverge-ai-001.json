@@ -1,0 +1,22 @@
+{
+  "id": "20261111-theverge-ai-001",
+  "title": "ChatGPT is getting verified AI ‘Business Agents’",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+  "summary": "该内容来自 The Verge 的报道，介绍 OpenAI 为 ChatGPT 推出“Business Agents”（商业代理）功能。该功能允许用户与代表品牌的、经过验证的 AI 代理直接对话，典型场景包括比价购物、在线服务咨询等。功能首先面向美国符合条件的电商和在线服务企业开放，属于 ChatGPT 当天宣布的一系列面向企业的功能套件之一，以 beta 形式发布。其核心价值在于把 ChatGPT 从通用对话助手扩展为品牌与消费者之间的可信交互入口：一方面为企业提供经过验证的官方代理身份，降低用户对虚假信息的担忧；另一方面让用户能在对话中完成商品比较、服务查询等任务，提升购物与决策效率。该报道适合关注 AI 商业应用、电商导购、Agent 产品化以及 OpenAI 生态演进的开发者、产品经理和行业观察者阅读。内容为新闻报道，信息完整度中等，偏产品动态而非技术实现细节。",
+  "abstract": "OpenAI 为 ChatGPT 推出经品牌验证的“Business Agents”，用户可直接与官方 AI 代理对话完成比价购物等任务，首批面向美国符合条件的电商与在线服务企业 beta 开放。",
+  "tags": [
+    "商业代理",
+    "ChatGPT",
+    "电商导购",
+    "OpenAI",
+    "AI Agent"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Jay Peters",
+  "published_at": "2026-11-10T13:00:00-05:00",
+  "fetched_at": "2026-11-11T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
