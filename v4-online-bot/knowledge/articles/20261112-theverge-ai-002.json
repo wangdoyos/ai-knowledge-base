@@ -1,0 +1,22 @@
+{
+  "id": "20261112-theverge-ai-002",
+  "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+  "summary": "Google 推出名为 Tabletop 的实验性 AI 工具，可根据用户描述自动生成定制化的协作中心，用于家庭、朋友之间的任务协调与信息共享。该平台在视觉上与 Asana、Monday 等职场管理应用相似，但核心差异在于内置 AI 能力：用户只需用自然语言描述需求，即可“vibecode”出个性化的交互式小工具，无需传统编程。Tabletop 目前处于实验阶段并采用等待名单机制，定位偏向轻量级生活协作场景，而非企业级项目管理。它降低了搭建协作工具的门槛，让非技术用户也能快速创建符合自身需求的互动面板。适合希望用 AI 快速定制家庭或小团队协作工具的个人用户、AI 产品爱好者，以及关注生成式 AI 在生产力工具中落地形态的开发者与产品经理。",
+  "abstract": "Google 实验性 AI 工具 Tabletop 可通过自然语言描述生成定制化协作中心，让用户像搭积木一样创建家庭与朋友间的互动管理工具。",
+  "tags": [
+    "AI 协作工具",
+    "自然语言生成",
+    "Google 实验项目",
+    "无代码",
+    "生产力工具"
+  ],
+  "category": "tool",
+  "language": "en",
+  "author": "Jess Weatherbed",
+  "published_at": "2026-11-11T11:00:00-05:00",
+  "fetched_at": "2026-11-12T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

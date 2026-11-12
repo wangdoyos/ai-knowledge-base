@@ -5090,7 +5090,41 @@
       "abstract": "OpenAI 为 ChatGPT 推出经品牌验证的“Business Agents”，用户可直接与官方 AI 代理对话完成比价购物等任务，首批面向美国符合条件的电商与在线服务企业 beta 开放。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261112-google-ai-blog-001",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "category": "llm",
+      "tags": [
+        "Gemini",
+        "决策API",
+        "多模态",
+        "Google",
+        "模型校准"
+      ],
+      "abstract": "Google 发布 Gemini Decisions API，基于 Gemini Decision 模型，为开发者提供快速、校准良好的多模态决策能力，适用于分类、判断与自动化决策场景。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261112-theverge-ai-002",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "category": "tool",
+      "tags": [
+        "AI 协作工具",
+        "自然语言生成",
+        "Google 实验项目",
+        "无代码",
+        "生产力工具"
+      ],
+      "abstract": "Google 实验性 AI 工具 Tabletop 可通过自然语言描述生成定制化协作中心，让用户像搭积木一样创建家庭与朋友间的互动管理工具。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-11 08:03:55"
+  "updated_at": "2026-11-12 08:03:19"
 }
