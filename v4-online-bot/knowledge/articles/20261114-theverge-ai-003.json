@@ -1,0 +1,22 @@
+{
+  "id": "20261114-theverge-ai-003",
+  "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+  "summary": "这是一篇来自 The Verge 的科技新闻报道，介绍 OpenAI 为其 Dots AI 智能体平台推出 ChatGPT Wallet 支付钱包功能。该钱包允许 Dots 智能体代替用户完成购买操作，首批面向美国 18 岁以上、使用美国账单地址并持有符合条件的美国发行 American Express、Chase、Mastercard 和 Visa 卡的 ChatGPT Pro 订阅用户开放。用户添加银行卡后，即可授权智能体在购物等场景中自动执行支付。该功能解决了 AI 智能体在真实交易环节缺乏安全支付通道的问题，是智能体从信息处理走向实际执行任务的重要一步，也引发了关于授权边界、资金安全与责任归属的讨论。适合关注 AI Agent 商业化、支付基础设施与 AI 安全合规的开发者、产品经理和行业观察者阅读。",
+  "abstract": "OpenAI 为 Dots 智能体平台推出 ChatGPT Wallet，让 AI 智能体可代用户完成真实购买支付，首批面向美国 ChatGPT Pro 用户开放。",
+  "tags": [
+    "AI Agent",
+    "支付钱包",
+    "OpenAI",
+    "智能体商业化",
+    "AI 安全"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Stevie Bonifield",
+  "published_at": "2026-11-13T15:45:10-05:00",
+  "fetched_at": "2026-11-14T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

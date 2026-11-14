@@ -5124,7 +5124,58 @@
       "abstract": "Google 实验性 AI 工具 Tabletop 可通过自然语言描述生成定制化协作中心，让用户像搭积木一样创建家庭与朋友间的互动管理工具。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261114-openai-blog-001",
+      "title": "Introducing ChatGPT Wallet",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "category": "agent",
+      "tags": [
+        "Agent 支付",
+        "ChatGPT",
+        "安全授权",
+        "OpenAI",
+        "电商交易"
+      ],
+      "abstract": "OpenAI 推出 ChatGPT Wallet，让 ChatGPT Work、Codex 和 dots 中的 Agent 在用户批准下安全完成购买，并保留现有信用卡保护。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261114-openai-blog-002",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/business/customer-stories/amplitude",
+      "category": "agent",
+      "tags": [
+        "产品智能体",
+        "OpenAI",
+        "研发效能",
+        "编码智能体",
+        "企业案例"
+      ],
+      "abstract": "OpenAI 客户案例：Amplitude 基于 OpenAI 模型打造主动式产品智能体 Wave，打通需求识别、编码交付与效果度量，将产品改进周期压缩至 1–2 天。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261114-theverge-ai-003",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "category": "agent",
+      "tags": [
+        "AI Agent",
+        "支付钱包",
+        "OpenAI",
+        "智能体商业化",
+        "AI 安全"
+      ],
+      "abstract": "OpenAI 为 Dots 智能体平台推出 ChatGPT Wallet，让 AI 智能体可代用户完成真实购买支付，首批面向美国 ChatGPT Pro 用户开放。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-12 08:03:19"
+  "updated_at": "2026-11-14 08:03:45"
 }
