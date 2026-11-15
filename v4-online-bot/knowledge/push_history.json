@@ -1,6 +1,7 @@
 {
   "urls": [
     "https://agentgit.co/",
+    "https://alexwang.ai/posts/associative-memory/",
     "https://already-clean.goodfire.com/",
     "https://anil.recoil.org/notes/rumour-is-the-exploit",
     "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
@@ -65,6 +66,7 @@
     "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
     "https://noaifridays.com/",
     "https://openai.com/business/customer-stories/amplitude",
+    "https://openai.com/business/customer-stories/holidays-extras-codex",
     "https://openai.com/index/a-thousand-fewer-paths-to-root",
     "https://openai.com/index/ai-native-company-workflows",
     "https://openai.com/index/ai-policy-window",
@@ -300,5 +302,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-11-14 08:03:46"
+  "updated_at": "2026-11-15 08:03:11"
 }

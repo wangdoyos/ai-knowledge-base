@@ -5175,7 +5175,41 @@
       "abstract": "OpenAI 为 Dots 智能体平台推出 ChatGPT Wallet，让 AI 智能体可代用户完成真实购买支付，首批面向美国 ChatGPT Pro 用户开放。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261115-lobsters-ai-ml-001",
+      "title": "You could have invented transformers from memory",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://alexwang.ai/posts/associative-memory/",
+      "category": "llm",
+      "tags": [
+        "Transformer",
+        "注意力机制",
+        "联想记忆",
+        "深度学习原理",
+        "技术博客"
+      ],
+      "abstract": "从联想记忆的第一性原理出发，逐步推导出 Transformer 的注意力机制，帮助读者真正理解而非死记架构设计。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261115-openai-blog-002",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "category": "llm",
+      "tags": [
+        "Codex",
+        "企业案例",
+        "AI 编程",
+        "预订转化",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 客户案例：Holiday Extras 用 Codex 将客服专业知识转化为应用功能，提升预订转化并开拓增长新可能。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-14 08:03:45"
+  "updated_at": "2026-11-15 08:03:11"
 }

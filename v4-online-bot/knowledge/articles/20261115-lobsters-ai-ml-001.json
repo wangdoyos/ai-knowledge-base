@@ -1,0 +1,22 @@
+{
+  "id": "20261115-lobsters-ai-ml-001",
+  "title": "You could have invented transformers from memory",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://alexwang.ai/posts/associative-memory/",
+  "summary": "这是一篇技术博客文章，标题为《You could have invented transformers from memory》，作者从联想记忆（associative memory）的视角出发，逐步推导出 Transformer 架构的核心机制。文章旨在帮助读者从第一性原理理解 Transformer 为何有效，而不是仅仅记忆其结构。核心内容包括：将注意力机制解释为一种可微的键值联想记忆，说明 Query-Key-Value 的计算如何对应记忆的寻址与读取，并由此自然引出多头注意力、位置编码等设计动机。文章适合有一定深度学习基础、希望深入理解 Transformer 内部原理的开发者、研究者和学生阅读，也可作为教学或面试准备的补充材料。整体以英文撰写，属于概念性讲解而非代码实现，信息密度较高，对理解 LLM 基础架构有较好参考价值。",
+  "abstract": "从联想记忆的第一性原理出发，逐步推导出 Transformer 的注意力机制，帮助读者真正理解而非死记架构设计。",
+  "tags": [
+    "Transformer",
+    "注意力机制",
+    "联想记忆",
+    "深度学习原理",
+    "技术博客"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "alexwang.ai via GrayGnome",
+  "published_at": "2026-11-13T22:49:47-06:00",
+  "fetched_at": "2026-11-15T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
