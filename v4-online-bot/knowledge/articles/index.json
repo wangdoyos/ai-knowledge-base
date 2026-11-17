@@ -5226,7 +5226,24 @@
       "abstract": "一本以直观方式讲解生成式 AI 数学基础的入门读物，帮助读者建立概率、线性代数与生成模型的数学直觉，适合学生与工程师系统入门。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261117-openai-blog-001",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/science-at-the-frontier",
+      "category": "llm",
+      "tags": [
+        "AI for Science",
+        "ChatGPT",
+        "科研工作流",
+        "用户调研",
+        "生产力"
+      ],
+      "abstract": "OpenAI 基于 1,800 余名科学家的调研，揭示 ChatGPT 在科研工作流中的真实用法、生产力收益与对科学发现的期待，是了解 AI for Science 落地现状的一手材料。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-16 08:03:58"
+  "updated_at": "2026-11-17 08:03:48"
 }

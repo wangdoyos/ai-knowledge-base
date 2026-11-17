@@ -1,0 +1,21 @@
+{
+  "id": "20261117-openai-blog-001",
+  "title": "Science at the Frontier: How scientists use ChatGPT",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/science-at-the-frontier",
+  "summary": "这是 OpenAI 官方发布的一篇研究性博客，基于对 1,800 多名科学家的调研，系统梳理了 ChatGPT 在科研场景中的实际使用情况。内容涵盖科学家在日常工作流中如何使用 ChatGPT（如文献梳理、写作辅助、代码与数据分析、头脑风暴等），用户自报的生产力提升幅度，以及他们对 AI 加速科学发现的期待与担忧。该报告属于实证性用户研究，而非工具或代码库，价值在于为科研人员、科研管理者、AI 产品团队提供一手的使用模式与需求洞察，帮助判断 LLM 在学术研究中的落地边界与潜在风险。适合关注 AI for Science、LLM 应用落地和科研工作流自动化的人群阅读。",
+  "abstract": "OpenAI 基于 1,800 余名科学家的调研，揭示 ChatGPT 在科研工作流中的真实用法、生产力收益与对科学发现的期待，是了解 AI for Science 落地现状的一手材料。",
+  "tags": [
+    "AI for Science",
+    "ChatGPT",
+    "科研工作流",
+    "用户调研",
+    "生产力"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-11-16T12:00:00+00:00",
+  "fetched_at": "2026-11-17T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
