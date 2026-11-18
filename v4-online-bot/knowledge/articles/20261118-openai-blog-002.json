@@ -1,0 +1,21 @@
+{
+  "id": "20261118-openai-blog-002",
+  "title": "Introducing GPT-6.2 Astra and Sol",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+  "summary": "该内容为 OpenAI 官方博客文章，介绍 GPT-6.2 Astra 与 Sol 两款新模型。文章宣称新模型在专业输出、代码生成、计算机使用（computer use）以及效率方面均有提升，并强调在 ChatGPT Work、Codex 和 API 三个产品线中实现更低成本。核心特性包括：更强的专业领域任务表现、更优的编程能力、更可靠的计算机操作能力，以及更高的性价比。目标用户为使用 ChatGPT Work 的企业与专业人士、依赖 Codex 的开发者，以及通过 API 构建应用的开发者。该内容属于产品发布公告，信息以官方宣传为主，缺乏技术细节与基准数据，但作为模型版本更新信息，对关注 LLM 能力演进与成本优化的读者具有参考价值。",
+  "abstract": "OpenAI 发布 GPT-6.2 Astra 与 Sol，宣称在专业输出、编程、计算机使用和效率上提升，并以更低成本覆盖 ChatGPT Work、Codex 与 API。",
+  "tags": [
+    "OpenAI",
+    "GPT-6.2",
+    "模型发布",
+    "代码生成",
+    "计算机使用"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-11-17T17:45:00+00:00",
+  "fetched_at": "2026-11-18T08:00:06+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

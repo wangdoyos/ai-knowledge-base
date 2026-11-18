@@ -5243,7 +5243,58 @@
       "abstract": "OpenAI 基于 1,800 余名科学家的调研，揭示 ChatGPT 在科研工作流中的真实用法、生产力收益与对科学发现的期待，是了解 AI for Science 落地现状的一手材料。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261118-lobsters-ai-ml-001",
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://arxiv.org/abs/2607.02512",
+      "category": "llm",
+      "tags": [
+        "神经符号编程",
+        "模糊函数",
+        "可微分编程",
+        "程序合成",
+        "权重编码"
+      ],
+      "abstract": "提出 Program-as-Weights 编程范式，将程序逻辑编码进神经网络权重，以统一方式构造和组合模糊函数，弥合符号编程与神经计算之间的鸿沟。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261118-openai-blog-002",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "category": "llm",
+      "tags": [
+        "OpenAI",
+        "GPT-6.2",
+        "模型发布",
+        "代码生成",
+        "计算机使用"
+      ],
+      "abstract": "OpenAI 发布 GPT-6.2 Astra 与 Sol，宣称在专业输出、编程、计算机使用和效率上提升，并以更低成本覆盖 ChatGPT Work、Codex 与 API。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261118-openai-blog-003",
+      "title": "Introducing ChatGPT for Sales",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "category": "agent",
+      "tags": [
+        "ChatGPT",
+        "销售",
+        "插件生态",
+        "CRM",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 发布 ChatGPT for Sales，推出 Sales 插件及 30+ 合作伙伴插件，帮助销售团队调研客户、准备提案、更新 CRM 并推进成交。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-17 08:03:48"
+  "updated_at": "2026-11-18 08:04:01"
 }

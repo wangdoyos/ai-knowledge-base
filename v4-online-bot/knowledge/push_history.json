@@ -9,6 +9,7 @@
     "https://arxiv.org/abs/2604.04902",
     "https://arxiv.org/abs/2604.25580",
     "https://arxiv.org/abs/2605.29713",
+    "https://arxiv.org/abs/2607.02512",
     "https://arxiv.org/abs/2610.14162",
     "https://arxiv.org/html/2610.05978v1",
     "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
@@ -115,10 +116,12 @@
     "https://openai.com/index/introducing-admin-plugin",
     "https://openai.com/index/introducing-ai-futures",
     "https://openai.com/index/introducing-chatgpt-financial-services",
+    "https://openai.com/index/introducing-chatgpt-for-sales",
     "https://openai.com/index/introducing-chatgpt-images-2-5",
     "https://openai.com/index/introducing-chatgpt-wallet",
     "https://openai.com/index/introducing-dots",
     "https://openai.com/index/introducing-gpt-6-1-sol",
+    "https://openai.com/index/introducing-gpt-6-2-astra-sol",
     "https://openai.com/index/introducing-gpt-6-cyber",
     "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "https://openai.com/index/introducing-the-agents-api",
@@ -304,5 +307,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-11-17 08:03:48"
+  "updated_at": "2026-11-18 08:04:01"
 }
