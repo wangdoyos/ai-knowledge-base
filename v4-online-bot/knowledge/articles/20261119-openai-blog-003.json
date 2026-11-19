@@ -1,0 +1,21 @@
+{
+  "id": "20261119-openai-blog-003",
+  "title": "Research acceleration: The jagged frontier",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+  "summary": "这是 OpenAI 发布的一篇公司博客，主题是“研究加速：锯齿状前沿”。文章基于 OpenAI 对内部 AI 研究流程的实测，量化了编码智能体（coding agents）在加速 AI 研究方面的实际效果，并指出这些智能体在不同任务上的表现并不均衡，呈现出“锯齿状前沿”的特征：在某些环节（如代码实现、实验迭代）提升显著，而在需要深度推理、方向判断或跨领域整合的环节仍然薄弱。文章进一步讨论了这一现象对“递归自我改进”（recursive self-improvement）的启示，即 AI 能否加速自身研发进程、以及当前能力边界在哪里。该内容适合关注 AI 智能体落地效果、AI 辅助科研（AI for Science）、以及 AGI 安全与递归自我改进议题的研究者、工程师和产品决策者阅读，属于观点与实测结合的分析性材料，而非可运行的开源项目。",
+  "abstract": "OpenAI 实测编码智能体对 AI 研究的加速效果，揭示其能力呈“锯齿状前沿”——部分环节显著提效、部分环节仍薄弱，并探讨这对递归自我改进的启示。",
+  "tags": [
+    "编码智能体",
+    "AI 科研加速",
+    "递归自我改进",
+    "能力评估",
+    "OpenAI"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-11-18T08:00:00+00:00",
+  "fetched_at": "2026-11-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.1
+}

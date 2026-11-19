@@ -1,0 +1,21 @@
+{
+  "id": "20261119-openai-blog-002",
+  "title": "Inside the Codex sandbox",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/inside-the-codex-sandbox",
+  "summary": "这是 OpenAI 官方发布的一篇技术博客，深入介绍 Codex 沙箱（sandbox）的内部实现机制。文章说明 Codex 如何在用户机器上执行命令，同时强制执行用户可控的文件系统与网络访问限制，并覆盖 macOS、Linux 和 Windows 三大平台。核心内容包括沙箱的隔离原理、权限边界设计、跨平台实现差异，以及如何在保证安全的前提下让 AI 代理（agent）安全地运行代码和命令。该内容适合正在构建或使用 AI 编程代理的开发者、安全工程师和平台架构师阅读，帮助他们理解代理执行环境的安全模型，并据此设计自己的沙箱方案。作为官方一手资料，它对理解 Codex 的安全边界和落地实践具有较高参考价值。",
+  "abstract": "OpenAI 官方博客详解 Codex 沙箱机制：在 macOS、Linux、Windows 上执行命令的同时，强制实施用户可控的文件系统与网络限制，为 AI 编程代理提供安全隔离执行环境。",
+  "tags": [
+    "Codex",
+    "沙箱",
+    "安全隔离",
+    "AI 编程代理",
+    "跨平台"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-11-18T08:00:00+00:00",
+  "fetched_at": "2026-11-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.3
+}

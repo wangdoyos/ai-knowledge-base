@@ -15,6 +15,7 @@
     "https://bart.degoe.de/rag-with-a-small-language-model-in-the-browser/",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
     "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
     "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
     "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
     "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
@@ -38,6 +39,7 @@
     "https://divagr.com/blog/qwenputer",
     "https://eiln.github.io/posts/ane.html",
     "https://elonlit.com/scrivings/how-to-run-turing-complete-malware-in-pytorchs-backward-pass/",
+    "https://energy-based-reasoners.github.io/",
     "https://entropicthoughts.com/ai-comment-classifier",
     "https://entropicthoughts.com/better-ai-comment-classifier",
     "https://gitcode.com/Ascend/AscendNPU-IR",
@@ -113,6 +115,7 @@
     "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
     "https://openai.com/index/how-we-detect-frontier-model-misalignment",
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "https://openai.com/index/inside-the-codex-sandbox",
     "https://openai.com/index/introducing-admin-plugin",
     "https://openai.com/index/introducing-ai-futures",
     "https://openai.com/index/introducing-chatgpt-financial-services",
@@ -135,6 +138,7 @@
     "https://openai.com/index/lifeval",
     "https://openai.com/index/loveholidays",
     "https://openai.com/index/low-resource-programming-languages",
+    "https://openai.com/index/managing-frontier-ai-risk",
     "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
     "https://openai.com/index/model-misalignment-reporting-framework",
     "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
@@ -153,6 +157,7 @@
     "https://openai.com/index/qodo-codex-plugin",
     "https://openai.com/index/reimagining-advertising-with-ai",
     "https://openai.com/index/replit",
+    "https://openai.com/index/research-acceleration-jagged-frontier",
     "https://openai.com/index/research-acceleration-view-inside-openai",
     "https://openai.com/index/safety-overview-gpt-6-astra",
     "https://openai.com/index/sam-altman-un-security-council-remarks",
@@ -180,6 +185,7 @@
     "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
     "https://p0ly.com/ml_strummer.html",
     "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
     "https://responsiblestatecraft.org/israel-influence-chatgpt/",
     "https://rikiyat.github.io/blog/weight-space-programming/",
     "https://ryan.freumh.org/hillingar.html",
@@ -307,5 +313,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-11-18 08:04:01"
+  "updated_at": "2026-11-19 08:04:35"
 }

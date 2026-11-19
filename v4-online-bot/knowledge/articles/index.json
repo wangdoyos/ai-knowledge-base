@@ -5294,7 +5294,109 @@
       "abstract": "OpenAI 发布 ChatGPT for Sales，推出 Sales 插件及 30+ 合作伙伴插件，帮助销售团队调研客户、准备提案、更新 CRM 并推进成交。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261119-lobsters-ai-ml-001",
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "category": "llm",
+      "tags": [
+        "持续学习",
+        "灾难性遗忘",
+        "大语言模型",
+        "记忆巩固",
+        "Google Research"
+      ],
+      "abstract": "Google Research 提出 Sleep Framework，借鉴人类睡眠记忆巩固机制，在持续学习中通过离线“睡眠”阶段重放和整理知识，缓解大语言模型的灾难性遗忘问题。",
+      "quality_score": 4.3,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261119-openai-blog-002",
+      "title": "Inside the Codex sandbox",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/inside-the-codex-sandbox",
+      "category": "agent",
+      "tags": [
+        "Codex",
+        "沙箱",
+        "安全隔离",
+        "AI 编程代理",
+        "跨平台"
+      ],
+      "abstract": "OpenAI 官方博客详解 Codex 沙箱机制：在 macOS、Linux、Windows 上执行命令的同时，强制实施用户可控的文件系统与网络限制，为 AI 编程代理提供安全隔离执行环境。",
+      "quality_score": 4.3,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261119-openai-blog-003",
+      "title": "Research acceleration: The jagged frontier",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "category": "agent",
+      "tags": [
+        "编码智能体",
+        "AI 科研加速",
+        "递归自我改进",
+        "能力评估",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 实测编码智能体对 AI 研究的加速效果，揭示其能力呈“锯齿状前沿”——部分环节显著提效、部分环节仍薄弱，并探讨这对递归自我改进的启示。",
+      "quality_score": 4.1,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261119-lobsters-ai-ml-004",
+      "title": "Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+      "source": "lobsters-ai-ml",
+      "source_url": "https://energy-based-reasoners.github.io/",
+      "category": "llm",
+      "tags": [
+        "能量基模型",
+        "循环推理",
+        "迭代计算",
+        "深度学习理论",
+        "推理架构"
+      ],
+      "abstract": "该项目提出将循环推理器建模为能量基模型，为迭代推理提供显式收敛目标与全局优化视角，增强推理的可解释性与稳健性。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261119-openai-blog-005",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/managing-frontier-ai-risk",
+      "category": "other",
+      "tags": [
+        "AI 安全",
+        "前沿模型",
+        "风险管理",
+        "模型对齐",
+        "部署监控"
+      ],
+      "abstract": "OpenAI 官方博客，介绍其从前沿模型训练到部署全流程的风险管理框架，涵盖模型对齐、沙箱隔离、阻断防护与部署后监控四大环节，是了解前沿 AI 安全工程实践的重要参考。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261119-google-ai-blog-006",
+      "title": "Put Gemini to work for you",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "category": "agent",
+      "tags": [
+        "Gemini",
+        "任务自动化",
+        "Google Workspace",
+        "AI 助手",
+        "产品发布"
+      ],
+      "abstract": "Google 宣布 Gemini 的 Tasks 功能在六国免费开放，并加深与 Workspace 集成，让 AI 从对话助手升级为能替用户执行任务的代理。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-18 08:04:01"
+  "updated_at": "2026-11-19 08:04:35"
 }

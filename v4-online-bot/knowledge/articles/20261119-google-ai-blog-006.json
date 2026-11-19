@@ -1,0 +1,22 @@
+{
+  "id": "20261119-google-ai-blog-006",
+  "title": "Put Gemini to work for you",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+  "summary": "这是 Google 官方博客发布的产品更新公告，介绍 Gemini 应用中的 Tasks（任务）功能在六个国家免费开放，并在美国率先推出新特性，同时加深与 Google Workspace 的集成，让 Gemini 能够代表用户完成实际事务。该更新解决的核心问题是：用户不再只是与 AI 对话获取信息，而是可以让 Gemini 主动执行任务，例如管理日程、处理邮件、整理文档等，从而把 AI 从“问答助手”升级为“执行代理”。核心特性包括：Tasks 功能免费化降低使用门槛、面向美国用户的新功能（如更智能的任务规划与自动化）、以及与 Gmail、Calendar、Docs 等 Workspace 工具的深度打通，实现跨应用的任务编排。该内容适合关注 AI 助手产品动态的普通用户、企业办公人群、以及研究 AI Agent 与生产力工具集成的开发者和产品经理参考。作为公司博客，它偏重产品发布与功能说明，技术实现细节较少。",
+  "abstract": "Google 宣布 Gemini 的 Tasks 功能在六国免费开放，并加深与 Workspace 集成，让 AI 从对话助手升级为能替用户执行任务的代理。",
+  "tags": [
+    "Gemini",
+    "任务自动化",
+    "Google Workspace",
+    "AI 助手",
+    "产品发布"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "<name>Josh Woodward</name><title>Vice President, Labs, Gemini app, and AI Studio</title><department/><company/>",
+  "published_at": "2026-11-17T17:00:00+00:00",
+  "fetched_at": "2026-11-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

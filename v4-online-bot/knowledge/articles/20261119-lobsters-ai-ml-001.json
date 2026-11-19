@@ -1,0 +1,22 @@
+{
+  "id": "20261119-lobsters-ai-ml-001",
+  "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+  "source": "lobsters-ai-ml",
+  "source_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+  "summary": "该内容来自 Google Research 博客，介绍了一种名为 Sleep Framework 的新方法，用于解决大语言模型在持续学习（continual learning）中遗忘旧知识的问题。项目借鉴人类睡眠中的记忆巩固机制，在模型训练间隙引入类似“睡眠”的离线阶段，通过重放、合成或整理已有知识来巩固记忆，从而在持续学习新任务时减少灾难性遗忘。核心特性包括：将学习过程分为“清醒”阶段（学习新知识）和“睡眠”阶段（巩固旧知识），利用生成式重放或参数整合策略保持模型对历史任务的性能。该方法适合研究持续学习、模型微调与知识保持的 AI 研究人员和工程师，尤其关注 LLM 在动态环境中长期部署时如何避免遗忘的场景。内容为概念性研究介绍，未提供完整代码实现，但给出了方法论框架和实验思路，对理解 LLM 持续学习前沿方向有较高参考价值。",
+  "abstract": "Google Research 提出 Sleep Framework，借鉴人类睡眠记忆巩固机制，在持续学习中通过离线“睡眠”阶段重放和整理知识，缓解大语言模型的灾难性遗忘问题。",
+  "tags": [
+    "持续学习",
+    "灾难性遗忘",
+    "大语言模型",
+    "记忆巩固",
+    "Google Research"
+  ],
+  "category": "llm",
+  "language": "en",
+  "author": "research.google via snej",
+  "published_at": "2026-11-18T15:53:43-06:00",
+  "fetched_at": "2026-11-19T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 4.3
+}
