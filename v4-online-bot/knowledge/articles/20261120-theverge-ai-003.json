@@ -1,0 +1,22 @@
+{
+  "id": "20261120-theverge-ai-003",
+  "title": "Gemini on Mac can now use your computer",
+  "source": "theverge-ai",
+  "source_url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+  "summary": "该内容来自 The Verge 的科技报道，介绍 Google 为 macOS 版 Gemini 应用新增了「computer use」（计算机使用）能力。借助该功能，Gemini 可以跨本地文件、桌面应用和网页执行多步骤任务，例如加速工作流、填写表单、制作演示文稿以及为待售物品生成清单等。这标志着 Gemini 从对话式助手向能够实际操作电脑的智能体（agent）演进，与 OpenAI、Anthropic 等厂商在「AI 操作计算机」方向上的竞争相呼应。报道属于新闻简讯，未披露具体技术实现、权限模型、安全限制或可用范围等细节，信息完整度有限。适合关注 AI Agent、桌面自动化、Google 生态及大模型产品动态的开发者、产品经理和技术爱好者快速了解行业趋势。",
+  "abstract": "Google 为 macOS 版 Gemini 加入 computer use 能力，可跨本地文件、桌面应用与网页完成多步骤任务，标志其向可操作电脑的 AI 智能体演进。",
+  "tags": [
+    "Gemini",
+    "computer use",
+    "桌面自动化",
+    "AI Agent",
+    "Google"
+  ],
+  "category": "agent",
+  "language": "en",
+  "author": "Jay Peters",
+  "published_at": "2026-11-19T13:21:13-05:00",
+  "fetched_at": "2026-11-20T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

@@ -21,6 +21,7 @@
     "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
     "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
     "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
     "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
     "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
     "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
@@ -112,6 +113,7 @@
     "https://openai.com/index/hex-gpt-6-astra",
     "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "https://openai.com/index/higgsfield-longer-videos-voice",
+    "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
     "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
     "https://openai.com/index/how-we-detect-frontier-model-misalignment",
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
@@ -292,6 +294,7 @@
     "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
     "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
     "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
     "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
     "https://www.theverge.com/tech/982270/meta-ai-mac-app",
     "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
@@ -313,5 +316,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-11-19 08:04:35"
+  "updated_at": "2026-11-20 08:04:05"
 }

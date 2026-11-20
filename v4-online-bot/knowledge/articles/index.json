@@ -5396,7 +5396,58 @@
       "abstract": "Google 宣布 Gemini 的 Tasks 功能在六国免费开放，并加深与 Workspace 集成，让 AI 从对话助手升级为能替用户执行任务的代理。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261120-google-ai-blog-001",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "category": "agent",
+      "tags": [
+        "Gemini API",
+        "工具检索",
+        "Agent",
+        "token 优化",
+        "Google"
+      ],
+      "abstract": "Google 官方博客介绍 Gemini API 新增的 Tool Retrieval 预览功能，让 Agent 可访问数百个工具的同时大幅减少 token 消耗，降低多工具智能体的上下文成本。",
+      "quality_score": 4.3,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261120-openai-blog-002",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "category": "agent",
+      "tags": [
+        "性能优化",
+        "Codex",
+        "ChatGPT",
+        "自动化工作流",
+        "AI 辅助开发"
+      ],
+      "abstract": "OpenAI 官方博客介绍其 Codex 驱动的 Performance Factory 系统，通过自动化工作流持续发现并修复 ChatGPT 的性能问题，展示 AI 辅助性能优化的工程化实践。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261120-theverge-ai-003",
+      "title": "Gemini on Mac can now use your computer",
+      "source": "theverge-ai",
+      "source_url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "category": "agent",
+      "tags": [
+        "Gemini",
+        "computer use",
+        "桌面自动化",
+        "AI Agent",
+        "Google"
+      ],
+      "abstract": "Google 为 macOS 版 Gemini 加入 computer use 能力，可跨本地文件、桌面应用与网页完成多步骤任务，标志其向可操作电脑的 AI 智能体演进。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-19 08:04:35"
+  "updated_at": "2026-11-20 08:04:05"
 }
