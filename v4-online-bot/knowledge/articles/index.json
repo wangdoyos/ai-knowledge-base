@@ -5447,7 +5447,41 @@
       "abstract": "Google 为 macOS 版 Gemini 加入 computer use 能力，可跨本地文件、桌面应用与网页完成多步骤任务，标志其向可操作电脑的 AI 智能体演进。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261121-openai-blog-001",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/introducing-medchembench",
+      "category": "llm",
+      "tags": [
+        "药物发现",
+        "基准测试",
+        "分子结构",
+        "AI for Science",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 推出 MedChemBench，评估 AI 模型解读分子结构、基于实验证据推理及筛选候选化合物的能力，衡量 AI 在早期药物发现中的实际价值。",
+      "quality_score": 4.3,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261121-openai-blog-002",
+      "title": "Combatting adversarial distillation",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/combatting-adversarial-distillation",
+      "category": "llm",
+      "tags": [
+        "模型安全",
+        "对抗性蒸馏",
+        "能力保护",
+        "AI 治理",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 官方博客介绍应对对抗性蒸馏的分层防御方案，结合模型训练、安全护栏、检测与执法，防止大模型能力被恶意提取。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-20 08:04:05"
+  "updated_at": "2026-11-21 08:03:52"
 }

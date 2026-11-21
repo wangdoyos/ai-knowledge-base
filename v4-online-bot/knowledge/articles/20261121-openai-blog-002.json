@@ -1,0 +1,21 @@
+{
+  "id": "20261121-openai-blog-002",
+  "title": "Combatting adversarial distillation",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/combatting-adversarial-distillation",
+  "summary": "这是 OpenAI 官方发布的一篇技术博客，主题是应对“对抗性蒸馏”（adversarial distillation）——即恶意行为者通过大量查询 API 模型、收集输入输出对，再训练小模型来提取大模型能力的攻击方式。文章系统介绍了 OpenAI 采用的分层防御思路：在模型训练阶段加入鲁棒性设计，在部署阶段设置安全护栏与访问控制，在运行阶段通过检测机制识别异常查询模式（如大规模、系统化的蒸馏行为），最后配合执法与账号处置手段形成闭环。该内容属于 AI 安全与模型知识产权保护领域，适合 AI 平台运营者、安全研究人员、模型提供方以及关注模型能力泄露风险的政策与合规人员阅读，帮助理解前沿模型厂商如何平衡开放访问与能力保护。",
+  "abstract": "OpenAI 官方博客介绍应对对抗性蒸馏的分层防御方案，结合模型训练、安全护栏、检测与执法，防止大模型能力被恶意提取。",
+  "tags": [
+    "模型安全",
+    "对抗性蒸馏",
+    "能力保护",
+    "AI 治理",
+    "OpenAI"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-11-20T10:00:00+00:00",
+  "fetched_at": "2026-11-21T08:00:01+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

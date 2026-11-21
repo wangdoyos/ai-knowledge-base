@@ -94,6 +94,7 @@
     "https://openai.com/index/coderabbit-codex-daybreak",
     "https://openai.com/index/codex-quantum-computing-experiments",
     "https://openai.com/index/cognition-devin-testing-with-astra",
+    "https://openai.com/index/combatting-adversarial-distillation",
     "https://openai.com/index/cooley-gopublic",
     "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
     "https://openai.com/index/daybreak-for-frontline-defenders",
@@ -129,6 +130,7 @@
     "https://openai.com/index/introducing-gpt-6-2-astra-sol",
     "https://openai.com/index/introducing-gpt-6-cyber",
     "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "https://openai.com/index/introducing-medchembench",
     "https://openai.com/index/introducing-the-agents-api",
     "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "https://openai.com/index/itau-generative-ai",
@@ -316,5 +318,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-11-20 08:04:05"
+  "updated_at": "2026-11-21 08:03:52"
 }
