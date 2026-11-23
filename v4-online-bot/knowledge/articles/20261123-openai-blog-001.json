@@ -1,0 +1,21 @@
+{
+  "id": "20261123-openai-blog-001",
+  "title": "Perplexity and Intelligence",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/index/perplexity-and-intelligence",
+  "summary": "这是 OpenAI 官方发布的一篇技术博客，主题为“困惑度与智能”（Perplexity and Intelligence），探讨如何用困惑度（perplexity）这一指标衡量 AI 模型的进展，以及它为何能帮助开发者建立一套共享的方法来评估新兴能力。文章从信息论角度解释困惑度的含义：它衡量模型对文本的预测不确定性，数值越低表示模型对语言的建模越好。作者指出，随着模型能力快速演进，传统基准测试逐渐饱和或失真，而困惑度作为一种连续、可比较、计算成本低的指标，能够提供更稳定的进展信号。文章还讨论了困惑度与下游任务表现之间的关系、其局限性（如对数据分布敏感、不能直接反映推理或对齐能力），并建议将困惑度与其他评估手段结合使用。该内容适合 AI 研究者、模型评估工程师、开发者以及对 LLM 评测方法论感兴趣的读者，帮助他们理解如何更科学地追踪模型能力演进。",
+  "abstract": "OpenAI 博客探讨困惑度作为衡量 AI 模型进展的指标，解释其原理、优势与局限，并倡导开发者建立共享的模型能力评估方法。",
+  "tags": [
+    "困惑度",
+    "模型评估",
+    "LLM",
+    "基准测试",
+    "OpenAI"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-11-22T00:00:00+00:00",
+  "fetched_at": "2026-11-23T08:00:02+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

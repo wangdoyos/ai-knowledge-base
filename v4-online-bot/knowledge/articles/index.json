@@ -5481,7 +5481,41 @@
       "abstract": "OpenAI 官方博客介绍应对对抗性蒸馏的分层防御方案，结合模型训练、安全护栏、检测与执法，防止大模型能力被恶意提取。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261123-openai-blog-001",
+      "title": "Perplexity and Intelligence",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/perplexity-and-intelligence",
+      "category": "llm",
+      "tags": [
+        "困惑度",
+        "模型评估",
+        "LLM",
+        "基准测试",
+        "OpenAI"
+      ],
+      "abstract": "OpenAI 博客探讨困惑度作为衡量 AI 模型进展的指标，解释其原理、优势与局限，并倡导开发者建立共享的模型能力评估方法。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261123-openai-blog-002",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/business/customer-stories/hebbia",
+      "category": "llm",
+      "tags": [
+        "金融研究",
+        "GPT-6 Astra",
+        "客户案例",
+        "检索增强",
+        "模型评测"
+      ],
+      "abstract": "OpenAI 客户案例：Hebbia 测试预发布版 GPT-6 Astra，在金融研究的来源覆盖、引用相关性和报告呈现质量上均获提升。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-21 08:03:52"
+  "updated_at": "2026-11-23 08:04:14"
 }
