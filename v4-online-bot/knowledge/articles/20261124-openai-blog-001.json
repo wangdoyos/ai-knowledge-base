@@ -1,0 +1,21 @@
+{
+  "id": "20261124-openai-blog-001",
+  "title": "Richpanel helps companies automate 50% of support in 30 days",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+  "summary": "该内容为 OpenAI 官方发布的 Richpanel 客户案例，介绍 Richpanel 如何借助 OpenAI 的 GPT-6 Astra、GPT-6.1 Sol 与 GPT-6 Luna 模型，在 30 天内将企业客服支持工作的 50% 实现自动化。Richpanel 为 AI 客服代理配备工具与标准化流程（tools and procedures），使其能够执行多步骤任务，而对话交互部分则由 GPT-6 Luna 负责，形成分工协作的架构。该案例展示了 LLM 在客户支持场景中的落地路径：通过工具调用与流程编排提升自动化率，同时保持对话质量。内容适合客服产品经理、AI 应用开发者、企业数字化转型负责人参考，了解如何将大模型能力嵌入现有客服体系并量化收益。",
+  "abstract": "OpenAI 官方客户案例：Richpanel 利用 GPT-6 系列模型为 AI 客服代理配备工具与流程，30 天内自动化 50% 的客服支持工作。",
+  "tags": [
+    "AI客服",
+    "OpenAI",
+    "客户支持自动化",
+    "工具调用",
+    "案例研究"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-11-23T08:00:00+00:00",
+  "fetched_at": "2026-11-24T08:00:04+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

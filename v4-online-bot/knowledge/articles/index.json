@@ -5515,7 +5515,24 @@
       "abstract": "OpenAI 客户案例：Hebbia 测试预发布版 GPT-6 Astra，在金融研究的来源覆盖、引用相关性和报告呈现质量上均获提升。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261124-openai-blog-001",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "category": "agent",
+      "tags": [
+        "AI客服",
+        "OpenAI",
+        "客户支持自动化",
+        "工具调用",
+        "案例研究"
+      ],
+      "abstract": "OpenAI 官方客户案例：Richpanel 利用 GPT-6 系列模型为 AI 客服代理配备工具与流程，30 天内自动化 50% 的客服支持工作。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-23 08:04:14"
+  "updated_at": "2026-11-24 08:03:46"
 }
