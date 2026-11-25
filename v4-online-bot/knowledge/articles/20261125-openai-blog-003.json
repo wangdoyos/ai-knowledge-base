@@ -1,0 +1,21 @@
+{
+  "id": "20261125-openai-blog-003",
+  "title": "How Intentful uses dots to make more time for growth",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/business/customer-stories/intentful-dots",
+  "summary": "这是 OpenAI 官方发布的一篇企业客户案例，介绍 AI 原生公司 Intentful 如何利用其自研的 AI 助手「dots」提升业务效率。Intentful 的创始人 Marina Petrova 打造了名为 Aria 的 dot（即一个可独立执行任务的 AI 代理），它能够自动研究目标网站、生成商业提案，并主动标记重要消息、跟进并解决待办问题，从而把团队从重复性事务中解放出来，将更多时间投入到增长性工作上。该案例展示了基于 OpenAI 模型构建的「dots」代理体系在销售调研、内容生成、消息分诊与任务闭环等场景中的实际落地方式，体现了 AI 代理从被动响应走向主动执行的产品思路。内容适合关注 AI Agent 产品设计、企业级 LLM 应用落地、销售与运营自动化的创业者、产品经理和开发者阅读，可作为构建主动型 AI 助手的参考范例。",
+  "abstract": "OpenAI 客户案例：Intentful 用名为 Aria 的 AI dot 自动调研网站、生成提案并主动处理消息，把团队时间还给增长。",
+  "tags": [
+    "AI Agent",
+    "企业案例",
+    "销售自动化",
+    "OpenAI",
+    "工作流自动化"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-11-24T00:00:00+00:00",
+  "fetched_at": "2026-11-25T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

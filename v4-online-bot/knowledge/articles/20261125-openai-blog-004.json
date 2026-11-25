@@ -1,0 +1,21 @@
+{
+  "id": "20261125-openai-blog-004",
+  "title": "How iFood scales coding agents across 15,000 repositories",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/business/customer-stories/ifood",
+  "summary": "这是 OpenAI 官方发布的一篇企业客户案例（customer story），介绍拉美最大外卖平台 iFood 如何借助 OpenAI 的编码智能体（coding agents）在 15,000 个代码仓库中实现规模化应用。文章属于公司博客/案例研究，而非开源代码仓库，重点讲述 iFood 的工程团队如何将 AI 编码代理嵌入日常研发流程，覆盖代码生成、审查、迁移与维护等场景，并分享了在超大规模代码库下落地智能体的组织经验、技术架构与治理策略。核心价值在于提供一个真实的大型企业级 Agent 落地范本，说明编码智能体在数千仓库规模下的收益、挑战与最佳实践。适合工程管理者、平台/DevOps 团队、AI 应用落地负责人以及对 Agent 工程化感兴趣的开发者阅读参考。由于是营销性质的案例文章，技术细节深度有限，但对企业级 Agent 采用具有较高参考价值。",
+  "abstract": "OpenAI 客户案例：iFood 如何在 15,000 个代码仓库中规模化部署编码智能体，分享大型企业落地 AI 编码代理的架构、治理与工程实践。",
+  "tags": [
+    "编码智能体",
+    "企业落地",
+    "OpenAI",
+    "规模化工程",
+    "案例研究"
+  ],
+  "category": "agent",
+  "language": "en",
+  "published_at": "2026-11-24T00:00:00+00:00",
+  "fetched_at": "2026-11-25T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

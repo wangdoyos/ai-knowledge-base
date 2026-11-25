@@ -1,0 +1,22 @@
+{
+  "id": "20261125-google-ai-blog-005",
+  "title": "A more tailored Google Search that’s uniquely yours",
+  "source": "google-ai-blog",
+  "source_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+  "summary": "这是 Google 官方博客发布的一篇产品公告，介绍 Google 搜索在 AI Mode 下推出的 Personal Intelligence 功能。用户可以选择安全地授权连接 Google Wallet、Google Drive 和 Gemini 应用，让搜索能够结合个人数据（如消费记录、文档内容、AI 对话历史）给出更贴合个人情境的搜索结果与回答。该功能的核心在于“个性化 + 隐私可控”：连接由用户主动 opt-in，数据在授权范围内被用于增强 AI Mode 的生成式回答，而非公开或用于广告。它解决的是通用搜索无法理解用户个人上下文的问题，使搜索从“全网检索”升级为“个人智能助理式检索”。适合希望用 AI 提升日常信息获取效率的普通用户、重度 Google 生态用户，以及关注 AI 搜索与个人数据隐私平衡的产品与技术从业者。",
+  "abstract": "Google 在 AI Mode 中推出 Personal Intelligence，用户可授权连接 Wallet、Drive 和 Gemini，让搜索结合个人数据给出更个性化的 AI 回答。",
+  "tags": [
+    "AI搜索",
+    "个性化",
+    "Google",
+    "隐私授权",
+    "Gemini"
+  ],
+  "category": "rag",
+  "language": "en",
+  "author": "<name>Robby Stein</name><title>VP of Product, Google Search</title><department/><company/>",
+  "published_at": "2026-11-23T17:00:00+00:00",
+  "fetched_at": "2026-11-25T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}

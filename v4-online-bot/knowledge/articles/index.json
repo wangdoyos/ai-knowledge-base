@@ -5532,7 +5532,92 @@
       "abstract": "OpenAI 官方客户案例：Richpanel 利用 GPT-6 系列模型为 AI 客服代理配备工具与流程，30 天内自动化 50% 的客服支持工作。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261125-openai-blog-001",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "category": "llm",
+      "tags": [
+        "蛋白质设计",
+        "AI for Science",
+        "GPT-6",
+        "推理与代码生成",
+        "生物实验验证"
+      ],
+      "abstract": "OpenAI 博客展示 GPT-6 通过推理与代码自主设计蛋白质结构与序列，并在五个靶点的实验室测试中观察到结合证据，体现通用大模型在 AI for Science 领域的潜力。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261125-openai-blog-002",
+      "title": "Searching for distant planets with Astra",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "category": "tool",
+      "tags": [
+        "Codex",
+        "系外行星",
+        "公民科学",
+        "AI for Science",
+        "天文数据分析"
+      ],
+      "abstract": "OpenAI 博客案例：两位业余天文学家利用 Codex 与 Astra 分析 NASA 开普勒和 TESS 公开数据，寻找潜在系外行星，展示了 AI 编程助手在公民科学中的实际价值。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261125-openai-blog-003",
+      "title": "How Intentful uses dots to make more time for growth",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/business/customer-stories/intentful-dots",
+      "category": "agent",
+      "tags": [
+        "AI Agent",
+        "企业案例",
+        "销售自动化",
+        "OpenAI",
+        "工作流自动化"
+      ],
+      "abstract": "OpenAI 客户案例：Intentful 用名为 Aria 的 AI dot 自动调研网站、生成提案并主动处理消息，把团队时间还给增长。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261125-openai-blog-004",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/business/customer-stories/ifood",
+      "category": "agent",
+      "tags": [
+        "编码智能体",
+        "企业落地",
+        "OpenAI",
+        "规模化工程",
+        "案例研究"
+      ],
+      "abstract": "OpenAI 客户案例：iFood 如何在 15,000 个代码仓库中规模化部署编码智能体，分享大型企业落地 AI 编码代理的架构、治理与工程实践。",
+      "quality_score": 3.9,
+      "status": "reviewed"
+    },
+    {
+      "id": "20261125-google-ai-blog-005",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "source": "google-ai-blog",
+      "source_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "category": "rag",
+      "tags": [
+        "AI搜索",
+        "个性化",
+        "Google",
+        "隐私授权",
+        "Gemini"
+      ],
+      "abstract": "Google 在 AI Mode 中推出 Personal Intelligence，用户可授权连接 Wallet、Drive 和 Gemini，让搜索结合个人数据给出更个性化的 AI 回答。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-24 08:03:46"
+  "updated_at": "2026-11-25 08:04:22"
 }

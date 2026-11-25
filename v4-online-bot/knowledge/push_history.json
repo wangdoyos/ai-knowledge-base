@@ -29,6 +29,7 @@
     "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
     "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
     "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
     "https://blog.google/products-and-platforms/products/workspace/google-pics/",
     "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
     "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -73,6 +74,8 @@
     "https://openai.com/business/customer-stories/amplitude",
     "https://openai.com/business/customer-stories/hebbia",
     "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "https://openai.com/business/customer-stories/ifood",
+    "https://openai.com/business/customer-stories/intentful-dots",
     "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
     "https://openai.com/index/a-thousand-fewer-paths-to-root",
     "https://openai.com/index/ai-native-company-workflows",
@@ -111,6 +114,7 @@
     "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
     "https://openai.com/index/gpt-6-astra",
     "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
     "https://openai.com/index/greptile-code-review-codex-astra",
     "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "https://openai.com/index/hex-gpt-6-astra",
@@ -171,6 +175,7 @@
     "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "https://openai.com/index/science-at-the-frontier",
+    "https://openai.com/index/searching-for-distant-planets-with-astra",
     "https://openai.com/index/securing-our-frontier-model-training-environment",
     "https://openai.com/index/sentinelone",
     "https://openai.com/index/stack-overflow-chatgpt-plugin",
@@ -321,5 +326,5 @@
     "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
     "https://www.youtube.com/watch?v=GlYgs6v2YfU"
   ],
-  "updated_at": "2026-11-24 08:03:46"
+  "updated_at": "2026-11-25 08:04:22"
 }
