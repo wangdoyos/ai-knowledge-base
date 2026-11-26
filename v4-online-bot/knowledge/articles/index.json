@@ -5617,7 +5617,24 @@
       "abstract": "Google 在 AI Mode 中推出 Personal Intelligence，用户可授权连接 Wallet、Drive 和 Gemini，让搜索结合个人数据给出更个性化的 AI 回答。",
       "quality_score": 3.9,
       "status": "reviewed"
+    },
+    {
+      "id": "20261126-openai-blog-001",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "source": "openai-blog",
+      "source_url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "category": "llm",
+      "tags": [
+        "销售赋能",
+        "企业应用",
+        "Codex",
+        "ChatGPT",
+        "GTM"
+      ],
+      "abstract": "OpenAI 客户案例：Clay 通过集成 ChatGPT 与 Codex，让销售团队用 GPT-6 模型进行交易研究并生成 go-to-market 策略，展示 LLM 在企业销售场景的落地价值。",
+      "quality_score": 3.9,
+      "status": "reviewed"
     }
   ],
-  "updated_at": "2026-11-25 08:04:22"
+  "updated_at": "2026-11-26 08:04:12"
 }

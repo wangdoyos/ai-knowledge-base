@@ -1,0 +1,21 @@
+{
+  "id": "20261126-openai-blog-001",
+  "title": "Clay helps sales teams win with Codex and ChatGPT",
+  "source": "openai-blog",
+  "source_url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+  "summary": "这是一篇 OpenAI 官方发布的企业客户案例博客，介绍 Clay 公司如何借助 Codex 和 ChatGPT 的集成能力，帮助其销售团队提升业绩。Clay 是一家提供销售数据与自动化平台的公司，其用户通过 ChatGPT 和 Codex 插件进行交易研究，并将数据转化为可执行的 go-to-market 策略。文中提到 GPT-6 模型负责处理推理任务，支撑这些智能工作流。该案例展示了 LLM 在企业销售场景中的落地方式：将自然语言交互、代码生成与数据平台结合，降低销售团队的数据分析门槛，加速从数据洞察到销售动作的转化。适合销售运营、GTM 团队、企业 AI 决策者以及对 OpenAI 企业级应用感兴趣的开发者阅读，了解大模型如何嵌入业务流程并产生实际商业价值。",
+  "abstract": "OpenAI 客户案例：Clay 通过集成 ChatGPT 与 Codex，让销售团队用 GPT-6 模型进行交易研究并生成 go-to-market 策略，展示 LLM 在企业销售场景的落地价值。",
+  "tags": [
+    "销售赋能",
+    "企业应用",
+    "Codex",
+    "ChatGPT",
+    "GTM"
+  ],
+  "category": "llm",
+  "language": "en",
+  "published_at": "2026-11-24T00:00:00+00:00",
+  "fetched_at": "2026-11-26T08:00:03+08:00",
+  "status": "reviewed",
+  "quality_score": 3.9
+}
